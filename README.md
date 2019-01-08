@@ -34,7 +34,7 @@ Using this I was able to create the palettes I needed for network diagrams that 
 
 ## Where do the SVG icons in my palettes come from
 
-For Cisco icons:
+For Cisco Network Topology icons:
 * I have used the official Cisco.com site here https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html
   * This requires conversion of EPS to SVG
   * I used Inkscape for this
@@ -44,17 +44,23 @@ For Cisco icons:
     * These are the commands I used on my Ubuntu 18 rig
       * For one file ```/usr/bin/inkscape input-file.eps --export-plain-svg=output-file.svg```
       * For multiple files ```for i in $( ls *.eps ); do /usr/bin/inkscape $i --export-plain-svg=$i.svg; done```
+For Other icons:
+* I have used some icons from the official Fortinet site here https://www.fortinet.com/resources/icon-library.html
+  * This set is provided as a powerpoint document which I extracted the icons from simply by renaming it .zip and opening the media folder
+  * The icons I chose to use from this set were in emf format (enhanced windows metafile)
+  * Using this awesome emf2svg tool I was able to convert them https://github.com/kakwa/libemf2svg
+    * This is the command I used to convert these files using this tool
+      * ```for f in *.emf; do emf2svg-conv -i $f -o ${f%.emf}.svg -v; done```
 * I also referenced the SVG icons from this project https://sourceforge.net/projects/nedi2graphml/
   * I liked the color set they did and looked at what color codes they used for creating my own icon sets
-  * These come from the same Cisco source material and are already converted to SVG format, but only a subset of the icons
 
 ## How to standardize the icon colors and create color sets
 
 To change the colors I used sed on the svg files which are just text files that can be manipulated.
 
-To get a single color from the base images this required quite a few sed passes as they used many variations of blue.
+To get a single color from the base images this required quite a few sed passes as the vendors used many color variations.
 
-I started with converting to the color Orange1 which is a light orange so I could tell where I missed some blue.
+I started with converting to the color Orange1 which is a light orange so I could tell where I missed any of the original color.
 
 * ```for i in $( ls *.svg ); do sed -i "s/087bbb/FFAA00/" $i; done```
 * ```for i in $( ls *.svg ); do sed -i "s/78b3da/FFAA00/" $i; done```
@@ -95,3 +101,8 @@ To make each color after that was a single sed pass.
 * Red ```for i in $( ls *.svg ); do sed -i "s/FFAA00/CC092F/" $i; done```
 * Brown ```for i in $( ls *.svg ); do sed -i "s/FFAA00/7B2927/" $i; done```
 * Grey ```for i in $( ls *.svg ); do sed -i "s/FFAA00/707070/" $i; done```
+
+For White I first took any white and changed it to Black, then I converted to White
+
+* ```for i in $( ls *.svg ); do sed -i "s/[fF][fF][fF][fF][fF][fF]/000000/" $i; done```
+* ```for i in $( ls *.svg ); do sed -i "s/FFAA00/FFFFFF/" $i; done```
