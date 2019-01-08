@@ -1,12 +1,52 @@
 # yEd_network_palettes
-yEd graphml palettes for network diagrams - My symbols for Visio replacement
 
+yEd graphml palettes for network diagrams - My symbols for Visio replacement
 
 ## What this repo contains
 
-These are the yEd pallettes (a.k.a. stencils) that I use for creating network diagrams.
+These are the yEd palette's (a.k.a. stencils) that I use for creating network diagrams.
+
+It also contains all of the icon sets in SVG format that those palette's are made from.
 
 My goal was to be able to replace Visio with yEd as my primary network diagram tool.
+These are the network and security icons that I required to reach my goal.
+
+## Installation
+
+You do not need to download this entire repository in order to install these palette's in yEd.
+
+You only need to download the palette or icons that you wish to use.
+
+Each palette is a single file (ending in .graphml) which contains a group of icons from an icon set.
+
+Each icon set is a directory containing a number of icon graphics in SVG format.
+
+### To Install A Palette
+
+Choose which palette you wish to install and download that particular .graphml file.
+
+To install the downloaded palette into yEd follow these simple steps:
+* Click on ```Edit```
+* In the Edit drop down click on ```Manage Palette...```
+* In the Palette Manager click on ```Import Section```
+* Browse to the palette you downloaded and click ```Open```
+* You should now see it listed in both the Available and Displayed Palette Sections lists
+* Close the Palette Manager
+* Enjoy
+
+### To Install An Icon
+
+Choose which icon you wish to install and download that particular .svg file.
+
+To install the downloaded icon into yEd follow these simple steps:
+* Click on ```Edit```
+* In the Edit drop down click on ```Manage Palette...```
+* In the Palette Manager select a section to import your icon into or click on ```New Section``` to create a new one
+* In the Palette Manager click on ```Import Symbols```
+* Browse to the icon you downloaded and click ```Open```
+* Close the Palette Manager
+* You should now see your icon in the palette section you chose to import it into
+* Enjoy
 
 ## What is yEd
 
