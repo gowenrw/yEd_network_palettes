@@ -48,6 +48,14 @@ To install the downloaded icon into yEd follow these simple steps:
 * You should now see your icon in the palette section you chose to import it into
 * Enjoy
 
+Here are links to the icon sets available.
+
+Icon Set | Examples
+----- | -----
+[My_3015_Aqua](icon_sets/My_3015_Aqua) | ![router.svg](icon_sets/My_3015_Aqua/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Aqua/Nexus_5000.svg) ![cisco_asa_5500.svg](icon_sets/My_3015_Aqua/cisco_asa_5500.svg)
+[My_3015_Blue](icon_sets/My_3015_Blue) | ![router.svg](icon_sets/My_3015_Blue/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Blue/Nexus_5000.svg) ![cisco_asa_5500.svg](icon_sets/My_3015_Blue/cisco_asa_5500.svg)
+
+
 ## What is yEd
 
 yEd graph editor is a powerful and  free to use graph and diagram tool.
@@ -129,6 +137,7 @@ I started with converting to the color Orange1 which is a light orange so I coul
 * ```for i in $( ls *.svg ); do sed -i "s/4296d8/FFAA00/" $i; done```
 * ```for i in $( ls *.svg ); do sed -i "s/087dbd/FFAA00/" $i; done```
 * ```for i in $( ls *.svg ); do sed -i "s/0d6e9c/FFAA00/" $i; done```
+* ```for i in $( ls *.svg ); do sed -i "s/231f20/FFAA00/" $i; done```
 
 To make each color after that was a single sed pass.
 
@@ -141,6 +150,7 @@ To make each color after that was a single sed pass.
 * Red ```for i in $( ls *.svg ); do sed -i "s/FFAA00/CC092F/" $i; done```
 * Brown ```for i in $( ls *.svg ); do sed -i "s/FFAA00/7B2927/" $i; done```
 * Grey ```for i in $( ls *.svg ); do sed -i "s/FFAA00/707070/" $i; done```
+* Black ```for i in $( ls *.svg ); do sed -i "s/FFAA00/000000/" $i; done```
 
 For White I first took any white and changed it to Black, then I converted to White
 
