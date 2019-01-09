@@ -1,6 +1,6 @@
 # yEd_network_palettes
 
-yEd graphml palettes for network diagrams - My symbols for Visio replacement
+yEd graphml palettes for network diagrams - My stencils to replace Visio with yEd
 
 ## What this repo contains
 
@@ -11,7 +11,7 @@ It also contains all of the icon sets in SVG format that those palette's are mad
 My goal was to be able to replace Visio with yEd as my primary network diagram tool.
 These are the network and security icons that I required to reach my goal.
 
-## Installation
+# Installation
 
 You do not need to download this entire repository in order to install these palette's in yEd.
 
@@ -21,7 +21,7 @@ Each palette is a single file (ending in .graphml) which contains a group of ico
 
 Each icon set is a directory containing a number of icon graphics in SVG format.
 
-### To Install A Palette
+## To Install A Palette
 
 Choose which palette you wish to install and download that particular .graphml file.
 
@@ -34,7 +34,7 @@ To install the downloaded palette into yEd follow these simple steps:
 * Close the Palette Manager
 * Enjoy
 
-### To Install An Icon
+## To Install An Icon
 
 Choose which icon you wish to install and download that particular .svg file.
 
@@ -48,13 +48,27 @@ To install the downloaded icon into yEd follow these simple steps:
 * You should now see your icon in the palette section you chose to import it into
 * Enjoy
 
-Here are links to the icon sets available.
+Here are links to the icon sets available with a few examples of each.
 
 Icon Set | Examples
 ----- | -----
-[My_3015_Aqua](icon_sets/My_3015_Aqua) | ![router.svg](icon_sets/My_3015_Aqua/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Aqua/Nexus_5000.svg) ![cisco_asa_5500.svg](icon_sets/My_3015_Aqua/cisco_asa_5500.svg)
-[My_3015_Blue](icon_sets/My_3015_Blue) | ![router.svg](icon_sets/My_3015_Blue/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Blue/Nexus_5000.svg) ![cisco_asa_5500.svg](icon_sets/My_3015_Blue/cisco_asa_5500.svg)
+[My_3015_Aqua](icon_sets/My_3015_Aqua) | ![router.svg](icon_sets/My_3015_Aqua/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Aqua/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Aqua/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Aqua/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Aqua/wae.svg) ![communications_server.svg](icon_sets/My_3015_Aqua/communications_server.svg)
+[My_3015_Black](icon_sets/My_3015_Black) | ![router.svg](icon_sets/My_3015_Black/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Black/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Black/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Black/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Black/wae.svg) ![communications_server.svg](icon_sets/My_3015_Black/communications_server.svg)
+[My_3015_Blue](icon_sets/My_3015_Blue) | ![router.svg](icon_sets/My_3015_Blue/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Blue/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Blue/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Blue/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Blue/wae.svg) ![communications_server.svg](icon_sets/My_3015_Blue/communications_server.svg)
+[My_3015_Brown](icon_sets/My_3015_Brown) | ![router.svg](icon_sets/My_3015_Brown/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Brown/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Brown/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Brown/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Brown/wae.svg) ![communications_server.svg](icon_sets/My_3015_Brown/communications_server.svg)
+[My_3015_Cyan](icon_sets/My_3015_Cyan) | ![router.svg](icon_sets/My_3015_Cyan/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Cyan/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Cyan/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Cyan/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Cyan/wae.svg) ![communications_server.svg](icon_sets/My_3015_Cyan/communications_server.svg)
+[My_3015_Green](icon_sets/My_3015_Green) | ![router.svg](icon_sets/My_3015_Green/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Green/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Green/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Green/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Green/wae.svg) ![communications_server.svg](icon_sets/My_3015_Green/communications_server.svg)
+[My_3015_Grey](icon_sets/My_3015_Grey) | ![router.svg](icon_sets/My_3015_Grey/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Grey/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Grey/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Grey/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Grey/wae.svg) ![communications_server.svg](icon_sets/My_3015_Grey/communications_server.svg)
+[My_3015_Orange1](icon_sets/My_3015_Orange1) | ![router.svg](icon_sets/My_3015_Orange1/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Orange1/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Orange1/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Orange1/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Orange1/wae.svg) ![communications_server.svg](icon_sets/My_3015_Orange1/communications_server.svg)
+[My_3015_Orange2](icon_sets/My_3015_Orange2) | ![router.svg](icon_sets/My_3015_Orange2/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Orange2/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Orange2/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Orange2/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Orange2/wae.svg) ![communications_server.svg](icon_sets/My_3015_Orange2/communications_server.svg)
+[My_3015_Red](icon_sets/My_3015_Red) | ![router.svg](icon_sets/My_3015_Red/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Red/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Red/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Red/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Red/wae.svg) ![communications_server.svg](icon_sets/My_3015_Red/communications_server.svg)
+[My_3015_White](icon_sets/My_3015_White) | ![router.svg](icon_sets/My_3015_White/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_White/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_White/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_White/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_White/wae.svg) ![communications_server.svg](icon_sets/My_3015_White/communications_server.svg)
+[My_3015_Yellow](icon_sets/My_3015_Yellow) | ![router.svg](icon_sets/My_3015_Yellow/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Yellow/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Yellow/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Yellow/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Yellow/wae.svg) ![communications_server.svg](icon_sets/My_3015_Yellow/communications_server.svg)
 
+
+# More detail
+
+Here are some more details about this project, why I started it, and how I got it to where it is today.
 
 ## What is yEd
 
