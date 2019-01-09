@@ -1,68 +1,67 @@
 # Icon Set using color FF5A00
 
-![Anon01.svg](Anon01.svg)
-![Anti-Botnet02.svg](Anti-Botnet02.svg)
-![Anti-Flood02.svg](Anti-Flood02.svg)
-![Anti-Intrusion02.svg](Anti-Intrusion02.svg)
-![Anti-Malware02.svg](Anti-Malware02.svg)
-![Anti-Spam02.svg](Anti-Spam02.svg)
-![Anti-Vuln02.svg](Anti-Vuln02.svg)
-![appliance01.svg](appliance01.svg)
-![AppSec01.svg](AppSec01.svg)
-![Auth-AD01.svg](Auth-AD01.svg)
-![Auth-LDAP01.svg](Auth-LDAP01.svg)
-![BitcoinMine01.svg](BitcoinMine01.svg)
-![Bottleneck01.svg](Bottleneck01.svg)
-![Cert-CA01.svg](Cert-CA01.svg)
-![Cert-SSL01.svg](Cert-SSL01.svg)
-![cloud01.svg](cloud01.svg)
-![container01.svg](container01.svg)
-![container02.svg](container02.svg)
-![ContentFilter01.svg](ContentFilter01.svg)
-![ContentInspect01.svg](ContentInspect01.svg)
-![Criminal01.svg](Criminal01.svg)
-![DB-Sec01.svg](DB-Sec01.svg)
-![Exploit01.svg](Exploit01.svg)
-![FW02.svg](FW02.svg)
-![FW03.svg](FW03.svg)
-![FW-APcontrol02.svg](FW-APcontrol02.svg)
-![FW-APcontrol03.svg](FW-APcontrol03.svg)
-![FW-Carrier02.svg](FW-Carrier02.svg)
-![FW-Carrier03.svg](FW-Carrier03.svg)
-![FW-Cloud02.svg](FW-Cloud02.svg)
-![FW-Cloud03.svg](FW-Cloud03.svg)
-![FW-DC02.svg](FW-DC02.svg)
-![FW-DC03.svg](FW-DC03.svg)
-![FW-Dist02.svg](FW-Dist02.svg)
-![FW-Dist03.svg](FW-Dist03.svg)
-![FW-IntSeg02.svg](FW-IntSeg02.svg)
-![FW-IntSeg03.svg](FW-IntSeg03.svg)
-![FW-IPS02.svg](FW-IPS02.svg)
-![FW-IPS03.svg](FW-IPS03.svg)
-![FW-NextGen02.svg](FW-NextGen02.svg)
-![FW-NextGen03.svg](FW-NextGen03.svg)
-![FW-SDWAN02.svg](FW-SDWAN02.svg)
-![FW-SDWAN03.svg](FW-SDWAN03.svg)
-![FW-SWG02.svg](FW-SWG02.svg)
-![FW-SWG03.svg](FW-SWG03.svg)
-![FW-UTM01.svg](FW-UTM01.svg)
-![FW-UTM03.svg](FW-UTM03.svg)
-![FW-Virt01.svg](FW-Virt01.svg)
-![FW-Virt03.svg](FW-Virt03.svg)
-![FW-VPN02.svg](FW-VPN02.svg)
-![FW-VPN03.svg](FW-VPN03.svg)
-![hosted01.svg](hosted01.svg)
-![Key01.svg](Key01.svg)
-![Malware01.svg](Malware01.svg)
-![Segmentation01.svg](Segmentation01.svg)
-![software01.svg](software01.svg)
-![SPAM01.svg](SPAM01.svg)
-![Troubleshoot01.svg](Troubleshoot01.svg)
-![VDOM01.svg](VDOM01.svg)
-![VLAN02.svg](VLAN02.svg)
-![vm01.svg](vm01.svg)
-![VPN01.svg](VPN01.svg)
-![VPN-IPSEC01.svg](VPN-IPSEC01.svg)
-![VPN-IPSEC-Tun01.svg](VPN-IPSEC-Tun01.svg)
-![VPN-SSL01.svg](VPN-SSL01.svg)
-
+<img src='Anon01.svg' alt='Anon01.svg' width='50px' />
+<img src='Anti-Botnet02.svg' alt='Anti-Botnet02.svg' width='50px' />
+<img src='Anti-Flood02.svg' alt='Anti-Flood02.svg' width='50px' />
+<img src='Anti-Intrusion02.svg' alt='Anti-Intrusion02.svg' width='50px' />
+<img src='Anti-Malware02.svg' alt='Anti-Malware02.svg' width='50px' />
+<img src='Anti-Spam02.svg' alt='Anti-Spam02.svg' width='50px' />
+<img src='Anti-Vuln02.svg' alt='Anti-Vuln02.svg' width='50px' />
+<img src='appliance01.svg' alt='appliance01.svg' width='50px' />
+<img src='AppSec01.svg' alt='AppSec01.svg' width='50px' />
+<img src='Auth-AD01.svg' alt='Auth-AD01.svg' width='50px' />
+<img src='Auth-LDAP01.svg' alt='Auth-LDAP01.svg' width='50px' />
+<img src='BitcoinMine01.svg' alt='BitcoinMine01.svg' width='50px' />
+<img src='Bottleneck01.svg' alt='Bottleneck01.svg' width='50px' />
+<img src='Cert-CA01.svg' alt='Cert-CA01.svg' width='50px' />
+<img src='Cert-SSL01.svg' alt='Cert-SSL01.svg' width='50px' />
+<img src='cloud01.svg' alt='cloud01.svg' width='50px' />
+<img src='container01.svg' alt='container01.svg' width='50px' />
+<img src='container02.svg' alt='container02.svg' width='50px' />
+<img src='ContentFilter01.svg' alt='ContentFilter01.svg' width='50px' />
+<img src='ContentInspect01.svg' alt='ContentInspect01.svg' width='50px' />
+<img src='Criminal01.svg' alt='Criminal01.svg' width='50px' />
+<img src='DB-Sec01.svg' alt='DB-Sec01.svg' width='50px' />
+<img src='Exploit01.svg' alt='Exploit01.svg' width='50px' />
+<img src='FW02.svg' alt='FW02.svg' width='50px' />
+<img src='FW03.svg' alt='FW03.svg' width='50px' />
+<img src='FW-APcontrol02.svg' alt='FW-APcontrol02.svg' width='50px' />
+<img src='FW-APcontrol03.svg' alt='FW-APcontrol03.svg' width='50px' />
+<img src='FW-Carrier02.svg' alt='FW-Carrier02.svg' width='50px' />
+<img src='FW-Carrier03.svg' alt='FW-Carrier03.svg' width='50px' />
+<img src='FW-Cloud02.svg' alt='FW-Cloud02.svg' width='50px' />
+<img src='FW-Cloud03.svg' alt='FW-Cloud03.svg' width='50px' />
+<img src='FW-DC02.svg' alt='FW-DC02.svg' width='50px' />
+<img src='FW-DC03.svg' alt='FW-DC03.svg' width='50px' />
+<img src='FW-Dist02.svg' alt='FW-Dist02.svg' width='50px' />
+<img src='FW-Dist03.svg' alt='FW-Dist03.svg' width='50px' />
+<img src='FW-IntSeg02.svg' alt='FW-IntSeg02.svg' width='50px' />
+<img src='FW-IntSeg03.svg' alt='FW-IntSeg03.svg' width='50px' />
+<img src='FW-IPS02.svg' alt='FW-IPS02.svg' width='50px' />
+<img src='FW-IPS03.svg' alt='FW-IPS03.svg' width='50px' />
+<img src='FW-NextGen02.svg' alt='FW-NextGen02.svg' width='50px' />
+<img src='FW-NextGen03.svg' alt='FW-NextGen03.svg' width='50px' />
+<img src='FW-SDWAN02.svg' alt='FW-SDWAN02.svg' width='50px' />
+<img src='FW-SDWAN03.svg' alt='FW-SDWAN03.svg' width='50px' />
+<img src='FW-SWG02.svg' alt='FW-SWG02.svg' width='50px' />
+<img src='FW-SWG03.svg' alt='FW-SWG03.svg' width='50px' />
+<img src='FW-UTM01.svg' alt='FW-UTM01.svg' width='50px' />
+<img src='FW-UTM03.svg' alt='FW-UTM03.svg' width='50px' />
+<img src='FW-Virt01.svg' alt='FW-Virt01.svg' width='50px' />
+<img src='FW-Virt03.svg' alt='FW-Virt03.svg' width='50px' />
+<img src='FW-VPN02.svg' alt='FW-VPN02.svg' width='50px' />
+<img src='FW-VPN03.svg' alt='FW-VPN03.svg' width='50px' />
+<img src='hosted01.svg' alt='hosted01.svg' width='50px' />
+<img src='Key01.svg' alt='Key01.svg' width='50px' />
+<img src='Malware01.svg' alt='Malware01.svg' width='50px' />
+<img src='Segmentation01.svg' alt='Segmentation01.svg' width='50px' />
+<img src='software01.svg' alt='software01.svg' width='50px' />
+<img src='SPAM01.svg' alt='SPAM01.svg' width='50px' />
+<img src='Troubleshoot01.svg' alt='Troubleshoot01.svg' width='50px' />
+<img src='VDOM01.svg' alt='VDOM01.svg' width='50px' />
+<img src='VLAN02.svg' alt='VLAN02.svg' width='50px' />
+<img src='vm01.svg' alt='vm01.svg' width='50px' />
+<img src='VPN01.svg' alt='VPN01.svg' width='50px' />
+<img src='VPN-IPSEC01.svg' alt='VPN-IPSEC01.svg' width='50px' />
+<img src='VPN-IPSEC-Tun01.svg' alt='VPN-IPSEC-Tun01.svg' width='50px' />
+<img src='VPN-SSL01.svg' alt='VPN-SSL01.svg' width='50px' />

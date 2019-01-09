@@ -50,6 +50,8 @@ To install the downloaded icon into yEd follow these simple steps:
 
 Here are links to the icon sets available with a few examples of each.
 
+#### Cisco Network Topology Icons
+
 Icon Set | Examples
 ----- | -----
 [My_3015_Aqua](icon_sets/My_3015_Aqua) | ![router.svg](icon_sets/My_3015_Aqua/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Aqua/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Aqua/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Aqua/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Aqua/wae.svg) ![communications_server.svg](icon_sets/My_3015_Aqua/communications_server.svg)
@@ -64,6 +66,11 @@ Icon Set | Examples
 [My_3015_Red](icon_sets/My_3015_Red) | ![router.svg](icon_sets/My_3015_Red/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Red/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Red/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Red/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Red/wae.svg) ![communications_server.svg](icon_sets/My_3015_Red/communications_server.svg)
 [My_3015_White](icon_sets/My_3015_White) | ![router.svg](icon_sets/My_3015_White/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_White/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_White/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_White/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_White/wae.svg) ![communications_server.svg](icon_sets/My_3015_White/communications_server.svg)
 [My_3015_Yellow](icon_sets/My_3015_Yellow) | ![router.svg](icon_sets/My_3015_Yellow/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Yellow/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Yellow/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Yellow/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Yellow/wae.svg) ![communications_server.svg](icon_sets/My_3015_Yellow/communications_server.svg)
+
+#### Fortinet Network Security Icons
+
+Icon Set | Examples
+----- | -----
 [My_FTNT_Aqua](icon_sets/My_FTNT_Aqua) | <img src="icon_sets/My_FTNT_Aqua/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Aqua/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Aqua/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Aqua/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_Aqua/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Aqua/Anon01.svg"  alt="Anon01.svg" width="50px" />
 [My_FTNT_Black](icon_sets/My_FTNT_Black) | <img src="icon_sets/My_FTNT_Black/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Black/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Black/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Black/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_Black/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Black/Anon01.svg"  alt="Anon01.svg" width="50px" />
 [My_FTNT_Blue](icon_sets/My_FTNT_Blue) | <img src="icon_sets/My_FTNT_Blue/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Blue/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Blue/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Blue/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_Blue/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Blue/Anon01.svg"  alt="Anon01.svg" width="50px" />
@@ -77,6 +84,7 @@ Icon Set | Examples
 [My_FTNT_White](icon_sets/My_FTNT_White) | <img src="icon_sets/My_FTNT_White/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/Anon01.svg"  alt="Anon01.svg" width="50px" />
 [My_FTNT_Yellow](icon_sets/My_FTNT_Yellow) | <img src="icon_sets/My_FTNT_Yellow/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/Anon01.svg"  alt="Anon01.svg" width="50px" />
 
+___
 
 # More detail
 
