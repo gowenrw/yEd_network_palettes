@@ -86,6 +86,8 @@ Icon Set | Examples
 
 ___
 
+___
+
 # More detail
 
 Here are some more details about this project, why I started it, and how I got it to where it is today.
@@ -116,7 +118,8 @@ Using this I was able to create the palettes I needed for network diagrams that 
 
 ## Where do the SVG icons in my palettes come from
 
-For Cisco Network Topology icons:
+### Cisco Network Topology Icons
+
 * I have used the official Cisco.com site here https://www.cisco.com/c/en/us/about/brand-center/network-topology-icons.html
   * This requires conversion of EPS to SVG
   * I used Inkscape for this
@@ -126,13 +129,18 @@ For Cisco Network Topology icons:
     * These are the commands I used on my Ubuntu 18 rig
       * For one file ```/usr/bin/inkscape input-file.eps --export-plain-svg=output-file.svg```
       * For multiple files ```for i in $( ls *.eps ); do /usr/bin/inkscape $i --export-plain-svg=$i.svg; done```
-For Other icons:
+
+### Fortinet Network Security Icons
+
 * I have used some icons from the official Fortinet site here https://www.fortinet.com/resources/icon-library.html
   * This set is provided as a powerpoint document which I extracted the icons from simply by renaming it .zip and opening the media folder
   * The icons I chose to use from this set were in emf format (enhanced windows metafile)
   * Using this awesome emf2svg tool I was able to convert them https://github.com/kakwa/libemf2svg
     * This is the command I used to convert these files using this tool
       * ```for f in *.emf; do emf2svg-conv -i $f -o ${f%.emf}.svg -v; done```
+
+### Other References
+
 * I also referenced the SVG icons from this project https://sourceforge.net/projects/nedi2graphml/
   * I liked the color set they did and looked at what color codes they used for creating my own icon sets
 
