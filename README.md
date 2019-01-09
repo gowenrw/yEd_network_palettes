@@ -64,7 +64,18 @@ Icon Set | Examples
 [My_3015_Red](icon_sets/My_3015_Red) | ![router.svg](icon_sets/My_3015_Red/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Red/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Red/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Red/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Red/wae.svg) ![communications_server.svg](icon_sets/My_3015_Red/communications_server.svg)
 [My_3015_White](icon_sets/My_3015_White) | ![router.svg](icon_sets/My_3015_White/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_White/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_White/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_White/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_White/wae.svg) ![communications_server.svg](icon_sets/My_3015_White/communications_server.svg)
 [My_3015_Yellow](icon_sets/My_3015_Yellow) | ![router.svg](icon_sets/My_3015_Yellow/router.svg) ![Nexus_5000.svg](icon_sets/My_3015_Yellow/Nexus_5000.svg)  ![cisco_asa_5500.svg](icon_sets/My_3015_Yellow/cisco_asa_5500.svg) ![intelliswitch_stack.svg](icon_sets/My_3015_Yellow/intelliswitch_stack.svg) ![wae.svg](icon_sets/My_3015_Yellow/wae.svg) ![communications_server.svg](icon_sets/My_3015_Yellow/communications_server.svg)
-
+[My_FTNT_Aqua](icon_sets/My_FTNT_Aqua) | ![FW02.svg](icon_sets/My_FTNT_Aqua/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Aqua/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Aqua/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Aqua/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Aqua/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Aqua/Anon01.svg)
+[My_FTNT_Black](icon_sets/My_FTNT_Black) | ![FW02.svg](icon_sets/My_FTNT_Black/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Black/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Black/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Black/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Black/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Black/Anon01.svg)
+[My_FTNT_Blue](icon_sets/My_FTNT_Blue) | ![FW02.svg](icon_sets/My_FTNT_Blue/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Blue/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Blue/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Blue/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Blue/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Blue/Anon01.svg)
+[My_FTNT_Brown](icon_sets/My_FTNT_Brown) | ![FW02.svg](icon_sets/My_FTNT_Brown/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Brown/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Brown/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Brown/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Brown/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Brown/Anon01.svg)
+[My_FTNT_Cyan](icon_sets/My_FTNT_Cyan) | ![FW02.svg](icon_sets/My_FTNT_Cyan/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Cyan/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Cyan/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Cyan/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Cyan/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Cyan/Anon01.svg)
+[My_FTNT_Green](icon_sets/My_FTNT_Green) | ![FW02.svg](icon_sets/My_FTNT_Green/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Green/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Green/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Green/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Green/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Green/Anon01.svg)
+[My_FTNT_Grey](icon_sets/My_FTNT_Grey) | ![FW02.svg](icon_sets/My_FTNT_Grey/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Grey/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Grey/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Grey/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Grey/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Grey/Anon01.svg)
+[My_FTNT_Orange1](icon_sets/My_FTNT_Orange1) | ![FW02.svg](icon_sets/My_FTNT_Orange1/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Orange1/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Orange1/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Orange1/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Orange1/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Orange1/Anon01.svg)
+[My_FTNT_Orange2](icon_sets/My_FTNT_Orange2) | ![FW02.svg](icon_sets/My_FTNT_Orange2/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Orange2/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Orange2/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Orange2/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Orange2/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Orange2/Anon01.svg)
+[My_FTNT_Red](icon_sets/My_FTNT_Red) | ![FW02.svg](icon_sets/My_FTNT_Red/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Red/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Red/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Red/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Red/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Red/Anon01.svg)
+[My_FTNT_White](icon_sets/My_FTNT_White) | ![FW02.svg](icon_sets/My_FTNT_White/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_White/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_White/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_White/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_White/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_White/Anon01.svg)
+[My_FTNT_Yellow](icon_sets/My_FTNT_Yellow) | ![FW02.svg](icon_sets/My_FTNT_Yellow/FW02.svg) ![FW-NextGen02.svg](icon_sets/My_FTNT_Yellow/FW-NextGen02.svg) ![FW-VPN02.svg](icon_sets/My_FTNT_Yellow/FW-VPN02.svg) ![VPN-IPSEC01.svg](icon_sets/My_FTNT_Yellow/VPN-IPSEC01.svg) ![Anti-Malware02.svg](icon_sets/My_FTNT_Yellow/Anti-Malware02.svg) ![Anon01.svg](icon_sets/My_FTNT_Yellow/Anon01.svg)
 
 # More detail
 
@@ -155,18 +166,23 @@ I started with converting to the color Orange1 which is a light orange so I coul
 
 To make each color after that was a single sed pass.
 
-* Blue ```for i in $( ls *.svg ); do sed -i "s/FFAA00/0065A2/" $i; done```
 * Aqua ```for i in $( ls *.svg ); do sed -i "s/FFAA00/008998/" $i; done```
+* Black ```for i in $( ls *.svg ); do sed -i "s/FFAA00/000000/" $i; done```
+* Blue ```for i in $( ls *.svg ); do sed -i "s/FFAA00/0065A2/" $i; done```
+* Brown ```for i in $( ls *.svg ); do sed -i "s/FFAA00/7B2927/" $i; done```
 * Cyan ```for i in $( ls *.svg ); do sed -i "s/FFAA00/00B38A/" $i; done```
 * Green ```for i in $( ls *.svg ); do sed -i "s/FFAA00/B5BF00/" $i; done```
-* Yellow ```for i in $( ls *.svg ); do sed -i "s/FFAA00/FED100/" $i; done```
+* Grey ```for i in $( ls *.svg ); do sed -i "s/FFAA00/707070/" $i; done```
 * Orange2 ```for i in $( ls *.svg ); do sed -i "s/FFAA00/FF5A00/" $i; done```
 * Red ```for i in $( ls *.svg ); do sed -i "s/FFAA00/CC092F/" $i; done```
-* Brown ```for i in $( ls *.svg ); do sed -i "s/FFAA00/7B2927/" $i; done```
-* Grey ```for i in $( ls *.svg ); do sed -i "s/FFAA00/707070/" $i; done```
-* Black ```for i in $( ls *.svg ); do sed -i "s/FFAA00/000000/" $i; done```
+* Yellow ```for i in $( ls *.svg ); do sed -i "s/FFAA00/FED100/" $i; done```
 
 For White I first took any white and changed it to Black, then I converted to White
 
 * ```for i in $( ls *.svg ); do sed -i "s/[fF][fF][fF][fF][fF][fF]/000000/" $i; done```
 * ```for i in $( ls *.svg ); do sed -i "s/FFAA00/FFFFFF/" $i; done```
+
+# Legal
+
+I have used publicly available but NOT public domain icons here (only modifying colors or file names as needed).
+These icons are the property of the respective companies who created them (linked above) and their copyrights and EULAs still apply.
