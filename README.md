@@ -98,6 +98,10 @@ Here are some more details about this project, why I started it, and how I got i
 
 yEd graph editor is a powerful and  free to use graph and diagram tool.
 
+Unlike my current primary diagraming tool Visio, I can run yEd on my Linux boxes and my Windows boxes allowing me to work on my documents wherever I happen to be.
+
+This was the primary motivation for me to create these icons sets.  I needed these icons in my diagrams and I want to work on those diagrams from any of my platforms.
+
 You can find more information and download the tool here: https://www.yworks.com/products/yed
 
 ## What network symbols are already available for yEd
