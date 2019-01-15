@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 56.1 57.2" style="enable-background:new 0 0 56.1 57.2;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#02709F;stroke:#FFFFFF;stroke-width:0.8;}
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.4;}
 	.st2{fill:#FFFFFF;}
 </style>
@@ -13,20 +13,7 @@
 			<g>
 				<g>
 					<rect x="1.1" y="10.1" class="st0" width="45.4" height="46.1"/>
-					<g>
-						<g>
-							<polygon points="38.9,26.5 38.9,36.6 45,31.7 							"/>
-						</g>
-						<g>
-							<polygon points="20.2,18 30.3,18 25.4,12 							"/>
-						</g>
-						<g>
-							<polygon points="30.4,47.2 20.4,47.2 25.2,53.3 							"/>
-						</g>
-						<g>
-							<polygon points="10.6,37.8 10.6,27.7 4.5,32.5 							"/>
-						</g>
-					</g>
+
 					<g>
 						<polygon class="st1" points="37.9,27.5 37.9,37.6 43.9,32.8 						"/>
 					</g>
@@ -45,13 +32,10 @@
 			</g>
 		</g>
 	</g>
-	<path d="M31.5,26.8v3.8h4.9V28c0-4.3-5.5-6.6-12.2-6.6h0.2c-6.7,0-12.2,2.3-12.2,6.6v2.6h4.9v-3.8C23.7,18.3,31.5,26.8,31.5,26.8z"
-		/>
-	<polygon points="25.2,25.5 29.4,25.5 29.4,30.3 34.2,34.3 34.2,43.7 25.3,43.7 23.3,43.7 14.4,43.7 14.4,34.3 19.2,30.3 19.2,25.5 
-		23.4,25.5 	"/>
+
 	<path class="st2" d="M31.5,27.9v3.8h4.9v-2.6c0-4.3-5.5-6.6-12.2-6.6h0.2c-6.7,0-12.2,2.3-12.2,6.6v2.6h4.9v-3.8
 		C23.6,19.4,31.5,27.9,31.5,27.9z"/>
-	<polygon class="st2" points="25.1,26.6 29.4,26.6 29.4,31.4 34.1,35.3 34.1,44.8 25.3,44.8 23.3,44.8 14.4,44.8 14.4,35.3 
+	<polygon class="st2" points="25.1,26.6 29.4,26.6 29.4,31.4 34.1,35.3 34.1,44.8 25.3,44.8 23.3,44.8 14.4,44.8 14.4,35.3
 		19.1,31.4 19.1,26.6 23.4,26.6 	"/>
 </g>
 </svg>

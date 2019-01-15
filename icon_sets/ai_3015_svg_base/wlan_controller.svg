@@ -3,12 +3,12 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 97.6 55" style="enable-background:new 0 0 97.6 55;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0084C0;stroke:#FFFFFF;stroke-width:0.8;}
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st1{fill:#FFFFFF;}
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:1;}
 	.st3{fill:none;stroke:#FFFFFF;stroke-width:1.8;stroke-linecap:round;stroke-miterlimit:1;}
-	.st4{fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:1;}
-	.st5{fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-miterlimit:1;}
+	.st4{fill:none;stroke:#FFAA00;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:1;}
+	.st5{fill:none;stroke:#FFAA00;stroke-width:1.8;stroke-linecap:round;stroke-miterlimit:1;}
 </style>
 <polygon class="st0" points="1.1,24.2 30,0.9 96.6,0.9 72.7,24.2 "/>
 <polygon class="st0" points="72.7,54 96.6,29.7 96.6,0.9 72.7,24.2 "/>

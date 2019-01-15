@@ -3,11 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 29.5 60.2" style="enable-background:new 0 0 29.5 60.2;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0082BE;}
-	.st1{fill:#0082BE;stroke:#FFFFFF;stroke-width:0.8;}
+	.st0{fill:#FFAA00;}
+	.st1{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st2{stroke:#FFFFFF;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;}
 	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.8;}
-	.st4{fill:#FFFFFF;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#FFFFFF;stroke:#FFAA00;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;}
 </style>
 <g>
 	<g>
@@ -30,34 +30,34 @@
 	<g>
 		<path class="st4" d="M16.1,47.4c0,1.2-2.6,2.2-5.8,2.2c-3.2,0-5.8-1-5.8-2.2c0-1.2,2.6-2.2,5.8-2.2C13.5,45.2,16.1,46.2,16.1,47.4
 			z"/>
-		<ellipse cx="10.2" cy="47.3" rx="1.8" ry="0.7"/>
-		<ellipse cx="10.2" cy="46.1" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="47.3" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="46.1" rx="1.8" ry="0.7"/>
 		<ellipse class="st4" cx="10.2" cy="45" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="44.9" rx="1.8" ry="0.7"/>
-		<ellipse cx="10.2" cy="43.7" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="44.9" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="43.7" rx="1.8" ry="0.7"/>
 		<ellipse class="st4" cx="10.2" cy="42.6" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="42.5" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="42.5" rx="1.8" ry="0.7"/>
 	</g>
 	<g>
 		<ellipse class="st4" cx="10.2" cy="37.8" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="37.7" rx="1.8" ry="0.7"/>
-		<ellipse cx="10.2" cy="36.5" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="37.7" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="36.5" rx="1.8" ry="0.7"/>
 		<path class="st4" d="M16.1,35.4c0,1.2-2.6,2.2-5.8,2.2c-3.2,0-5.8-1-5.8-2.2c0-1.2,2.6-2.2,5.8-2.2C13.5,33.2,16.1,34.2,16.1,35.4
 			z"/>
-		<ellipse cx="10.2" cy="35.3" rx="1.8" ry="0.7"/>
-		<ellipse cx="10.2" cy="34.1" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="35.3" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="34.1" rx="1.8" ry="0.7"/>
 		<ellipse class="st4" cx="10.2" cy="33" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="32.9" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="32.9" rx="1.8" ry="0.7"/>
 	</g>
 	<g>
 		<ellipse class="st4" cx="10.2" cy="28.2" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="28.1" rx="1.8" ry="0.7"/>
-		<ellipse cx="10.2" cy="26.9" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="28.1" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="26.9" rx="1.8" ry="0.7"/>
 		<ellipse class="st4" cx="10.2" cy="25.8" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="25.7" rx="1.8" ry="0.7"/>
-		<ellipse cx="10.2" cy="24.5" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="25.7" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="24.5" rx="1.8" ry="0.7"/>
 		<ellipse class="st4" cx="10.2" cy="23.4" rx="5.8" ry="2.2"/>
-		<ellipse cx="10.2" cy="23.3" rx="1.8" ry="0.7"/>
+		<ellipse class="st0" cx="10.2" cy="23.3" rx="1.8" ry="0.7"/>
 	</g>
 </g>
 </svg>

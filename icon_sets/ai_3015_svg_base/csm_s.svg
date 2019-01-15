@@ -3,9 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 62.3 83.1" style="enable-background:new 0 0 62.3 83.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#007EBA;stroke:#FFFFFF;stroke-width:0.8;}
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st1{fill:#FFFFFF;}
-	.st2{stroke:#FFFFFF;stroke-width:0.8;}
+	.st2{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st3{stroke:#FFFFFF;}
 </style>
 <g>
@@ -28,7 +28,7 @@
 				<polygon class="st1" points="30.9,41.1 38.4,48.7 37.1,50 41.9,50.9 40.9,46.2 39.7,47.5 32.1,39.9 				"/>
 				<polygon class="st1" points="33.6,36.2 44.3,36.2 44.3,38 48.4,35.3 44.3,32.6 44.3,34.4 33.6,34.4 				"/>
 				<polygon class="st1" points="32.1,30.7 39.7,23.1 40.9,24.4 41.9,19.6 37.1,20.6 38.4,21.9 30.9,29.5 				"/>
-				
+
 					<ellipse transform="matrix(0.8191 -0.5736 0.5736 0.8191 -15.4173 21.5215)" class="st1" cx="26.4" cy="35.2" rx="11.2" ry="11.2"/>
 			</g>
 		</g>

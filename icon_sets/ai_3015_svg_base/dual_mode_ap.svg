@@ -5,9 +5,9 @@
 <style type="text/css">
 	.st0{fill:none;stroke:#FFFFFF;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:1;}
 	.st1{fill:none;stroke:#FFFFFF;stroke-width:1.8;stroke-linecap:round;stroke-miterlimit:1;}
-	.st2{fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:1;}
-	.st3{fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:round;stroke-miterlimit:1;}
-	.st4{fill:#02709F;stroke:#FFFFFF;stroke-width:0.8;}
+	.st2{fill:none;stroke:#FFAA00;stroke-width:0.9;stroke-linecap:round;stroke-miterlimit:1;}
+	.st3{fill:none;stroke:#FFAA00;stroke-width:1.8;stroke-linecap:round;stroke-miterlimit:1;}
+	.st4{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 </style>
 <g>
 	<g>

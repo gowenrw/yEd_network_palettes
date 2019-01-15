@@ -135,6 +135,7 @@ Using this I was able to create the palettes I needed for network diagrams that 
     * These are the commands I used on my Ubuntu 18 rig
       * For one file ```/usr/bin/inkscape input-file.eps --export-plain-svg=output-file.svg```
       * For multiple files ```for i in $( ls *.eps ); do /usr/bin/inkscape $i --export-plain-svg=$i.svg; done```
+  * Update: Inkscape caused some issues with image scaling so I have redone the Cisco icon conversion with Adobe Illustrator
 
 ### Fortinet Network Security Icons
 
@@ -158,34 +159,11 @@ To get a single color from the base images this required quite a few sed passes 
 
 I started with converting to the color Orange1 which is a light orange so I could tell where I missed any of the original color.
 
-* ```for i in $( ls *.svg ); do sed -i "s/087bbb/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/78b3da/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/328fc7/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/1286be/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/026c9b/FFAA00/" $i; done```
 * ```for i in $( ls *.svg ); do sed -i "s/036998/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/02709f/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/087fbf/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/2b669e/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/2b659d/FFAA00/" $i; done```
 * ```for i in $( ls *.svg ); do sed -i "s/036897/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/20a3e4/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/43b6ea/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/1d76a0/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/242021/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/78b5dd/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/014c6c/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/3ca7e4/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/026b9a/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/0881c1/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/2c6aa2/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/1089c2/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/1d446d/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/5db2e6/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/4296d8/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/087dbd/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/0d6e9c/FFAA00/" $i; done```
-* ```for i in $( ls *.svg ); do sed -i "s/231f20/FFAA00/" $i; done```
+* ```for i in $( ls *.svg ); do sed -i "s/02709F/FFAA00/" $i; done```
+* ```for i in $( ls *.svg ); do sed -i "s/007EBA/FFAA00/" $i; done```
+* ...Many More
 
 To make each color after that was a single sed pass.
 

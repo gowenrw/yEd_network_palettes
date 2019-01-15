@@ -1,46 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 38.946667 33.786667"
-   height="33.786667"
-   width="38.946667"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="M 0,3 V 253 H 290 V 3 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,33.786667)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 145.754,53.4063 c 54.676,0 98.992,44.3281 98.992,98.9957 0,54.668 -44.316,98.993 -98.992,98.993 -54.6798,0 -98.9962,-44.325 -98.9962,-98.993 0,-54.6676 44.3164,-98.9957 98.9962,-98.9957" /><path
-             id="path24"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 145.754,53.4063 c 54.676,0 98.992,44.3281 98.992,98.9957 0,54.668 -44.316,98.993 -98.992,98.993 -54.6798,0 -98.9962,-44.325 -98.9962,-98.993 0,-54.6676 44.3164,-98.9957 98.9962,-98.9957 z" /><path
-             id="path26"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 2.36328,2.15625 27.9609,155.398 c 0,-65.605 53.1836,-118.7964 118.7971,-118.7964 65.605,0 118.789,53.1914 118.789,118.7964 L 289.707,2 2.36328,2.15625" /><path
-             id="path28"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 2.36328,2.15625 27.9609,155.398 c 0,-65.605 53.1836,-118.7964 118.7971,-118.7964 65.605,0 118.789,53.1914 118.789,118.7964 L 289.707,2 Z" /><path
-             id="path30"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 77.9297,126.602 h 135 v 45 h -135 z" /><path
-             id="path32"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 212.93,126.602 v 45 H 77.9297 v -45 z" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 58.4 50.7" style="enable-background:new 0 0 58.4 50.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
+</style>
+<g>
+	<circle class="st0" cx="29.1" cy="20.2" r="19.8"/>
+	<path class="st0" d="M0.5,50.2l5.1-30.6c0,13.1,10.6,23.8,23.8,23.8c13.1,0,23.8-10.6,23.8-23.8l4.8,30.7L0.5,50.2z"/>
+	<rect x="15.6" y="16.4" class="st0" width="27" height="9"/>
+</g>
+</svg>

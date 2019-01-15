@@ -3,8 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 68.6 83.8" style="enable-background:new 0 0 68.6 83.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.8;}
-	.st1{fill:#0084C0;stroke:#FFFFFF;stroke-width:0.8;}
+	.st0{fill:#FFFFFF;stroke:#FFAA00;stroke-width:0.8;}
+	.st1{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st2{fill:#FFFFFF;}
 </style>
 <g>
@@ -14,7 +14,7 @@
 	<polygon class="st1" points="8.4,7.6 16.6,1 58.1,1 51.4,7.6 8.4,7.6 	"/>
 	<polygon class="st1" points="51.4,82.7 58.1,74.5 58.1,1 51.4,7.6 51.4,82.7 	"/>
 	<path class="st0" d="M68.2,31V40c-0.9,10.7-19.9,10.2-19.9,10.2v0.6v7.4L35.8,45.7l12.4-12.4v7.9C48.3,41.2,67.6,41.7,68.2,31"/>
-	<polygon class="st2" points="14.6,19.9 12.5,21.9 12.5,12.3 22.1,12.3 20,14.5 19.6,14.9 33.9,29.2 29.2,33.9 14.9,19.6 14.6,19.9 
+	<polygon class="st2" points="14.6,19.9 12.5,21.9 12.5,12.3 22.1,12.3 20,14.5 19.6,14.9 33.9,29.2 29.2,33.9 14.9,19.6 14.6,19.9
 			"/>
 	<polygon class="st2" points="15.5,70.4 13.4,68.4 13.4,78 23,78 20.9,75.8 20.5,75.4 34.8,61.1 30.1,56.5 15.8,70.8 15.5,70.4 	"/>
 	<path class="st2" d="M21.8,43.6v9.7H11.5v-9.7C16.6,40.5,21.8,43.6,21.8,43.6L21.8,43.6z"/>

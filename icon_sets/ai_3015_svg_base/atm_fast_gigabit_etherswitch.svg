@@ -3,21 +3,14 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 62.1 61.4" style="enable-background:new 0 0 62.1 61.4;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#007EBA;stroke:#FFFFFF;stroke-width:0.8;}
-	.st1{fill:none;stroke:#000000;stroke-width:2.85;}
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:none;stroke:#FFAA00;stroke-width:2.85;}
 	.st2{fill:#FFFFFF;}
 	.st3{fill:none;stroke:#FFFFFF;stroke-width:2.85;}
 </style>
 <g>
 	<g>
 		<rect x="1.2" y="14.3" class="st0" width="45.3" height="46.1"/>
-		<polyline class="st1" points="9.3,50.2 18.9,50.2 32.1,23.2 41.3,23.2 		"/>
-		<g>
-			<polygon points="38.6,18.4 38.6,28 44.4,23.3 			"/>
-		</g>
-		<g>
-			<polygon points="11,55.2 11,45.6 5.2,50.2 			"/>
-		</g>
 		<g>
 			<polygon class="st2" points="9.7,56.1 9.7,46.5 3.9,51.1 			"/>
 		</g>
@@ -25,25 +18,17 @@
 			<polygon class="st2" points="37.5,19.1 37.5,28.7 43.3,24.1 			"/>
 		</g>
 		<g>
-			<polygon points="11,28.2 11,18.6 5.2,23.2 			"/>
-		</g>
-		<g>
 			<polygon class="st2" points="9.7,29.1 9.7,19.5 3.9,24.1 			"/>
 		</g>
-		<polyline class="st1" points="41.4,50.3 32,50.3 18.6,23.2 10.5,23.2 		"/>
 		<polyline class="st3" points="41.2,51.2 31.3,51.2 17.8,24 7.6,24 		"/>
 		<polygon class="st0" points="61.1,0.9 46.5,14.3 1.1,14.3 17.3,0.9 		"/>
 		<polygon class="st0" points="61.2,42.8 61.2,0.9 46.5,14.3 46.5,60.3 		"/>
 		<polyline class="st3" points="7.6,51.1 17.2,51.1 30.6,24.1 40.9,24.1 		"/>
 		<g>
-			<polygon points="38.6,45.5 38.6,55.1 44.4,50.5 			"/>
-		</g>
-		<g>
 			<polygon class="st2" points="37.5,46.3 37.5,55.9 43.3,51.2 			"/>
 		</g>
 	</g>
 	<g>
-		<polygon points="46.5,3.2 48.5,1.8 54.4,3.7 44,6 46.2,3.7 35.8,3.7 36.5,3.2 		"/>
 		<polygon class="st2" points="38.3,9.1 40.2,7.6 45.4,9.3 35,11.6 36.7,9.9 26.3,9.9 27.9,9.1 		"/>
 		<polygon class="st2" points="33.2,5.2 32.3,6.1 23.7,6.1 22,7.1 16.8,5.4 27.2,3.2 24.6,5.2 		"/>
 		<polygon class="st2" points="25.7,11.1 24.5,12 15.9,12 14.5,13.1 9.3,11.4 19.8,9.1 17.1,11.1 		"/>

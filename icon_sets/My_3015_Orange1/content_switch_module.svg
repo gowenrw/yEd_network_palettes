@@ -1,136 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 55.413334 41.799999"
-   height="41.799999"
-   width="55.413334"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="M 0,3 V 313 H 416 V 3 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,41.8)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 111.492,3.96484 h 268.004 v 268.273 H 111.492 Z" /><path
-             id="path24"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 379.496,3.96484 H 111.492 V 272.238 h 268.004 z" /><path
-             id="path26"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 142.832,306.887 H 410.844 L 377.289,273 H 109.285 l 33.547,33.887" /><path
-             id="path28"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 142.832,306.887 H 410.844 L 377.289,273 H 109.285 Z" /><path
-             id="path30"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 411.996,55.5195 378.441,6.46484 V 274.738 l 33.555,33.875 V 55.5195" /><path
-             id="path32"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 411.996,55.5195 378.441,6.46484 V 274.738 l 33.555,33.875 z" /><path
-             id="path34"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 2.84375,3.96484 h 108.648 v 268.273 H 2.84375 Z" /><path
-             id="path36"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 111.492,3.96484 H 2.84375 V 272.238 H 111.492 Z" /><path
-             id="path38"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 38.3477,306.887 H 147.004 L 113.445,273 H 4.79297 l 33.55473,33.887" /><path
-             id="path40"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 38.3477,306.887 H 147.004 L 113.445,273 H 4.79297 Z" /><path
-             id="path42"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 111.492,272.238 V 3.96484" /><path
-             id="path44"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 111.492,272.238 V 3.96484" /><path
-             id="path46"
-             style="fill:#FFAA00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 113.445,175.496 H 4.79297" /><path
-             id="path48"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 113.445,175.496 H 4.79297" /><path
-             id="path50"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 206.527,143.906 h -57.992 v 9.836 l -21.887,-14.512 21.887,-14.511 v 9.82 h 57.992 v 9.367" /><path
-             id="path52"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 214.906,114.328 -41.011,-41.0155 -6.954,6.9609 -5.211,-25.7421 25.743,5.207 -6.953,6.9609 41.007,41.0078 -6.621,6.621" /><path
-             id="path54"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 241.742,99.3281 V 41.3398 h -9.824 l 14.512,-21.8945 14.511,21.8945 h -9.843 v 57.9883 h -9.356" /><path
-             id="path56"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 271.332,107.707 40.996,-41.0078 -6.953,-6.9609 25.742,-5.207 -5.215,25.7421 -6.953,-6.9609 -40.996,41.0155 -6.621,-6.621" /><path
-             id="path58"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 286.332,134.539 h 57.988 v -9.82 l 21.895,14.511 -21.895,14.512 v -9.836 h -57.988 v -9.367" /><path
-             id="path60"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 277.953,164.133 40.996,41.004 6.953,-6.953 5.215,25.742 -25.742,-5.215 6.953,-6.953 -40.996,-41.004 6.621,-6.621" /><path
-             id="path62"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 251.098,179.133 v 57.988 h 9.843 l -14.511,21.883 -14.512,-21.883 h 9.824 v -57.988 h 9.356" /><path
-             id="path64"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 221.527,170.754 -41.007,41.004 6.953,6.953 -25.743,5.215 5.211,-25.742 6.954,6.953 41.011,-41.004 6.621,6.621" /><path
-             id="path66"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 295.023,174.707 c -19.023,27.16 -56.464,33.762 -83.613,14.746 -27.172,-19.023 -33.773,-56.465 -14.746,-83.621 19.024,-27.1679 56.465,-33.7695 83.613,-14.7461 27.168,19.0231 33.77,56.4651 14.746,83.6211" /><path
-             id="path68"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 47.0313,224.199 H 29.6289 v 2.961 l -6.5625,-4.355 6.5625,-4.356 v 2.949 h 17.4024 v 2.801" /><path
-             id="path70"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 49.5391,215.324 -12.293,-12.304 -2.0898,2.089 -1.5625,-7.714 7.7265,1.562 -2.0937,2.078 12.3047,12.305 -1.9922,1.984" /><path
-             id="path72"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 57.5977,210.832 V 193.43 h -2.9493 l 4.3555,-6.563 4.3555,6.563 h -2.9571 v 17.402 h -2.8046" /><path
-             id="path74"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 66.4727,213.34 12.2968,-12.305 -2.0781,-2.078 7.7227,-1.562 -1.5703,7.714 -2.0821,-2.089 -12.3047,12.304 -1.9843,-1.984" /><path
-             id="path76"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 70.9688,221.398 h 17.3984 v -2.949 l 6.5625,4.356 -6.5625,4.355 v -2.961 H 70.9688 v -2.801" /><path
-             id="path78"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 68.457,230.266 12.3047,12.304 2.0821,-2.09 1.5703,7.723 -7.7227,-1.562 2.0781,-2.078 -12.2968,-12.305 1.9843,-1.992" /><path
-             id="path80"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 60.4023,234.766 v 17.394 h 2.9571 l -4.3555,6.57 -4.3555,-6.57 h 2.9493 v -17.394 h 2.8046" /><path
-             id="path82"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 51.5313,232.258 -12.3047,12.305 2.0937,2.078 -7.7265,1.562 1.5625,-7.723 2.0898,2.09 12.293,-12.304 1.9922,1.992" /><path
-             id="path84"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 73.5859,233.438 c -5.7148,8.156 -16.9453,10.128 -25.0898,4.425 -8.1523,-5.703 -10.1367,-16.933 -4.4219,-25.09 5.7031,-8.152 16.9336,-10.125 25.086,-4.421 8.1445,5.703 10.125,16.941 4.4257,25.086" /><path
-             id="path86"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 52.9609,87.7852 V 39.5625 H 44.7852 L 56.8438,21.3594 68.9141,39.5625 h -8.1719 v 48.2227 h -7.7813" /><path
-             id="path88"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 66.3555,88.8984 82.8438,43.5938 75.1563,40.7891 92.7227,27.8242 97.832,49.0547 90.1563,46.2422 73.6602,91.5625 66.3555,88.8984" /><path
-             id="path90"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 47.6484,88.8984 31.1602,43.5938 38.8477,40.7891 21.2813,27.8242 l -5.1094,21.2305 7.6758,-2.8125 16.4961,45.3203 7.3046,-2.6641" /><path
-             id="path92"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 52.9609,162.551 V 116.066 H 44.7852 L 56.8438,97.8633 68.9141,116.066 h -8.1719 v 46.485 h -7.7813" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 83.1 62.7" style="enable-background:new 0 0 83.1 62.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{stroke:#FFFFFF;stroke-width:0.8;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<rect x="22.3" y="8.2" class="st0" width="53.6" height="53.7"/>
+						<polygon class="st0" points="28.6,1.3 82.2,1.3 75.5,8.1 21.9,8.1 						"/>
+					</g>
+				</g>
+				<g>
+					<polygon class="st0" points="82.4,51.6 75.7,61.4 75.7,7.7 82.4,1 					"/>
+					<rect x="0.6" y="8.2" class="st0" width="21.7" height="53.7"/>
+					<polygon class="st0" points="7.7,1.3 29.4,1.3 22.7,8.1 1,8.1 					"/>
+					<line class="st0" x1="22.3" y1="8.2" x2="22.3" y2="61.9"/>
+					<line class="st1" x1="22.7" y1="27.6" x2="1" y2="27.6"/>
+				</g>
+			</g>
+			<g>
+				<polygon class="st2" points="41.3,33.9 29.7,33.9 29.7,31.9 25.3,34.8 29.7,37.8 29.7,35.8 41.3,35.8 				"/>
+				<polygon class="st2" points="43,39.8 34.8,48 33.4,46.6 32.3,51.8 37.5,50.7 36.1,49.4 44.3,41.2 				"/>
+				<polygon class="st2" points="48.3,42.8 48.3,54.4 46.4,54.4 49.3,58.8 52.2,54.4 50.2,54.4 50.2,42.8 				"/>
+				<polygon class="st2" points="54.3,41.2 62.5,49.4 61.1,50.7 66.2,51.8 65.2,46.6 63.8,48 55.6,39.8 				"/>
+				<polygon class="st2" points="57.3,35.8 68.9,35.8 68.9,37.8 73.2,34.8 68.9,31.9 68.9,33.9 57.3,33.9 				"/>
+				<polygon class="st2" points="55.6,29.9 63.8,21.7 65.2,23.1 66.2,17.9 61.1,19 62.5,20.3 54.3,28.5 				"/>
+				<polygon class="st2" points="50.2,26.9 50.2,15.3 52.2,15.3 49.3,10.9 46.4,15.3 48.3,15.3 48.3,26.9 				"/>
+				<polygon class="st2" points="44.3,28.5 36.1,20.3 37.5,19 32.3,17.9 33.4,23.1 34.8,21.7 43,29.9 				"/>
+			</g>
+		</g>
+		<g>
+			<ellipse transform="matrix(0.8191 -0.5736 0.5736 0.8191 -10.9774 34.4689)" class="st2" cx="49.2" cy="34.6" rx="12" ry="12"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polygon class="st2" points="9.4,17.9 5.9,17.9 5.9,17.3 4.6,18.1 5.9,19 5.9,18.4 9.4,18.4 			"/>
+			<polygon class="st2" points="9.9,19.6 7.4,22.1 7,21.7 6.7,23.2 8.3,22.9 7.8,22.5 10.3,20 			"/>
+			<polygon class="st2" points="11.5,20.5 11.5,24 10.9,24 11.8,25.3 12.7,24 12.1,24 12.1,20.5 			"/>
+			<polygon class="st2" points="13.3,20 15.8,22.5 15.3,22.9 16.9,23.2 16.6,21.7 16.2,22.1 13.7,19.6 			"/>
+			<polygon class="st2" points="14.2,18.4 17.7,18.4 17.7,19 19,18.1 17.7,17.3 17.7,17.9 14.2,17.9 			"/>
+			<polygon class="st2" points="13.7,16.6 16.2,14.2 16.6,14.6 16.9,13.1 15.3,13.4 15.8,13.8 13.3,16.2 			"/>
+			<polygon class="st2" points="12.1,15.7 12.1,12.3 12.7,12.3 11.8,10.9 10.9,12.3 11.5,12.3 11.5,15.7 			"/>
+			<polygon class="st2" points="10.3,16.2 7.8,13.8 8.3,13.4 6.7,13.1 7,14.6 7.4,14.2 9.9,16.6 			"/>
+		</g>
+		<g>
+			<ellipse transform="matrix(0.8191 -0.5736 0.5736 0.8191 -8.239 10.0172)" class="st2" cx="11.8" cy="18.1" rx="3.6" ry="3.6"/>
+		</g>
+	</g>
+	<g>
+		<polygon class="st2" points="10.6,45.1 10.6,54.8 9,54.8 11.4,58.4 13.8,54.8 12.1,54.8 12.1,45.1 		"/>
+		<polygon class="st2" points="13.3,44.9 16.6,54 15,54.5 18.5,57.1 19.6,52.9 18,53.4 14.7,44.4 		"/>
+		<polygon class="st2" points="9.5,44.9 6.2,54 7.8,54.5 4.3,57.1 3.2,52.9 4.8,53.4 8.1,44.4 		"/>
+		<polygon class="st2" points="10.6,30.2 10.6,39.5 9,39.5 11.4,43.1 13.8,39.5 12.1,39.5 12.1,30.2 		"/>
+	</g>
+</g>
+</svg>

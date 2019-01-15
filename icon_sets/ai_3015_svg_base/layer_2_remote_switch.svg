@@ -3,20 +3,20 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 97.6 48.5" style="enable-background:new 0 0 97.6 48.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#007EBA;stroke:#FFFFFF;stroke-width:0.8;}
+	.st0{fill:#FFAA00;stroke:#FFFFFF;stroke-width:0.8;}
 	.st1{fill:#FFFFFF;}
-	.st2{fill:none;stroke:#000000;stroke-width:0.56;stroke-linecap:round;}
-	.st3{fill:none;stroke:#000000;stroke-width:0.336;stroke-linecap:round;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.56;stroke-linecap:round;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.336;stroke-linecap:round;}
 	.st4{fill:none;stroke:#FFFFFF;stroke-width:2;}
 </style>
 <g>
 	<g>
 		<g>
 			<polygon class="st0" points="1.1,24.2 30,0.9 96.6,0.9 72.7,24.2 			"/>
-			<path d="M66.6,13.2l1.8-1.8l5.6,2.5l-9.7,2.8l2.2-2.9H48.7l0.6-0.6H66.6z"/>
-			<path d="M55.9,7.3l-0.6,0.6H37.2L34.5,10l-4.7-2.3l10.7-3.1l-2.6,2.6H55.9z"/>
-			<path d="M46,17.3L45.3,18H27.2l-2.7,2l-4.8-2.3l10.9-3l-2.5,2.6H46z"/>
-			<path d="M76.8,4.8l1.8-1.8l5.6,2.4l-9.7,2.8l2.1-2.8H58.7l0.6-0.6H76.8z"/>
+			<path class="st1" d="M66.6,13.2l1.8-1.8l5.6,2.5l-9.7,2.8l2.2-2.9H48.7l0.6-0.6H66.6z"/>
+			<path class="st1" d="M55.9,7.3l-0.6,0.6H37.2L34.5,10l-4.7-2.3l10.7-3.1l-2.6,2.6H55.9z"/>
+			<path class="st1" d="M46,17.3L45.3,18H27.2l-2.7,2l-4.8-2.3l10.9-3l-2.5,2.6H46z"/>
+			<path class="st1" d="M76.8,4.8l1.8-1.8l5.6,2.4l-9.7,2.8l2.1-2.8H58.7l0.6-0.6H76.8z"/>
 			<path class="st1" d="M66.7,13.8l1.8-1.8l4.8,2.1L63.6,17l2.5-2.5H48.2l0.6-0.6H66.7z"/>
 			<path class="st1" d="M55.3,7.9l-0.6,0.6H36.9l-1.8,1.8l-4.8-2.1L40,5.4l-2.5,2.5H55.3z"/>
 			<polygon class="st0" points="72.7,47.4 96.6,21.7 96.6,0.9 72.7,24.2 			"/>
@@ -41,7 +41,7 @@
 					</g>
 				</g>
 				<g>
-					
+
 						<ellipse transform="matrix(0.8191 -0.5737 0.5737 0.8191 -17.1562 17.9905)" class="st1" cx="19.9" cy="36.2" rx="4.8" ry="4.8"/>
 				</g>
 				<g>
@@ -64,7 +64,7 @@
 				</g>
 			</g>
 			<g>
-				
+
 					<ellipse transform="matrix(0.8191 -0.5737 0.5737 0.8191 -10.7198 38.3008)" class="st1" cx="55.4" cy="36.1" rx="3.4" ry="3.4"/>
 			</g>
 			<g>

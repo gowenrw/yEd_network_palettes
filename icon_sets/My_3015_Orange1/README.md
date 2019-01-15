@@ -70,6 +70,7 @@
 ![diskette.svg](diskette.svg)
 ![distributed_director.svg](distributed_director.svg)
 ![dot_dot.svg](dot_dot.svg)
+![dpt.svg](dpt.svg)
 ![dslam.svg](dslam.svg)
 ![dual_mode_ap.svg](dual_mode_ap.svg)
 ![dwdm_filter.svg](dwdm_filter.svg)
@@ -109,6 +110,7 @@
 ![icm.svg](icm.svg)
 ![ics.svg](ics.svg)
 ![intelliswitch_stack.svg](intelliswitch_stack.svg)
+![internet_streamer.svg](internet_streamer.svg)
 ![ios_firewall.svg](ios_firewall.svg)
 ![ios_slb.svg](ios_slb.svg)
 ![ip_communicator.svg](ip_communicator.svg)
@@ -177,6 +179,7 @@
 ![optical_transport.svg](optical_transport.svg)
 ![pad.svg](pad.svg)
 ![pad_x28.svg](pad_x28.svg)
+![page_icon.svg](page_icon.svg)
 ![pbx.svg](pbx.svg)
 ![pbx_switch.svg](pbx_switch.svg)
 ![pc_adapter_card.svg](pc_adapter_card.svg)
@@ -287,4 +290,3 @@
 ![workgroup_director.svg](workgroup_director.svg)
 ![workgroup_switch.svg](workgroup_switch.svg)
 ![workstation.svg](workstation.svg)
-
