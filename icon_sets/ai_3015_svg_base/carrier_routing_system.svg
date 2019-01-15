@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 74.5 74.8" style="enable-background:new 0 0 74.5 74.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:#007EBA;stroke:#FFFFFF;stroke-width:0.8;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:0.8;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:1.6;}
+</style>
+<g>
+	<path class="st0" d="M0.5,14.7C0.5,22.6,17,29,37.3,29c20.3,0,36.8-6.4,36.8-14.3v45.4c0,7.9-16.5,14.3-36.8,14.3
+		C17,74.4,0.5,68,0.5,60.1V14.7z"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M74,14.7C74,22.6,57.5,29,37.2,29C16.9,29,0.4,22.6,0.4,14.7v45.4c0,7.9,16.5,14.3,36.8,14.3
+				C57.5,74.4,74,68,74,60.1V14.7z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:#007EBA;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:none;stroke:#FFFFFF;stroke-width:0.8;"/>
+	</g>
+	<ellipse class="st1" cx="37.2" cy="14.7" rx="36.8" ry="14.3"/>
+	<polygon class="st2" points="29.3,8.6 32.3,13.2 20.9,15.8 23.4,13.7 5.6,10.7 10.1,7.4 27.2,10.3 	"/>
+	<polygon class="st2" points="45.5,19.7 43.4,15 53.8,12.9 52,14.5 69.2,17.5 65.1,20.8 47.9,17.6 	"/>
+	<polygon class="st2" points="39.8,6.1 51.4,3 51.5,7.9 48.6,7.4 43,12.1 37.6,11.3 43.4,6.7 	"/>
+	<polygon class="st2" points="34.8,23.9 23.8,26 23.4,20.9 26.5,21.6 32.6,16.4 38,17.3 31.5,23 	"/>
+	<rect x="29.8" y="42.2" class="st3" width="13.8" height="13.8"/>
+	<rect x="10.2" y="32.4" class="st3" width="10.4" height="5.7"/>
+	<rect x="10.2" y="46.7" class="st3" width="10.4" height="5.7"/>
+	<polygon class="st3" points="20.6,60.2 20.6,65.9 10.2,65.9 10.2,60.2 	"/>
+	<polygon class="st3" points="41.9,60.2 41.9,65.9 31.5,65.9 31.5,60.2 	"/>
+	<rect x="53.5" y="32.4" class="st3" width="10.4" height="5.7"/>
+	<rect x="31.5" y="32.4" class="st3" width="10.4" height="5.7"/>
+	<rect x="53.5" y="46.7" class="st3" width="10.4" height="5.7"/>
+	<polygon class="st3" points="63.9,60.2 63.9,65.9 53.5,65.9 53.5,60.2 	"/>
+	<line class="st4" x1="15.6" y1="49.2" x2="58.6" y2="49.2"/>
+	<line class="st4" x1="36.6" y1="36.2" x2="36.6" y2="63.2"/>
+	<line class="st4" x1="17.4" y1="63.2" x2="57.1" y2="35.5"/>
+	<line class="st4" x1="56.4" y1="63.2" x2="16.6" y2="35.5"/>
+</g>
+</svg>
