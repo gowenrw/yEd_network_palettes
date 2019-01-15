@@ -1,5 +1,6 @@
 # Icon Set using color FFAA00
 
+<table><tr><td>
 <img src='100baset_hub.svg' alt='100baset_hub.svg' width='50px' /> 
 <img src='10700.svg' alt='10700.svg' width='50px' /> 
 <img src='10GE_FCoE.svg' alt='10GE_FCoE.svg' width='50px' /> 
@@ -290,4 +291,5 @@
 <img src='workgroup_director.svg' alt='workgroup_director.svg' width='50px' /> 
 <img src='workgroup_switch.svg' alt='workgroup_switch.svg' width='50px' /> 
 <img src='workstation.svg' alt='workstation.svg' width='50px' /> 
+</td></tr></table>
 
