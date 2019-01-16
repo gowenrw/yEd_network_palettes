@@ -7390,7 +7390,7 @@
 	.st1{fill:none;stroke:#0065A2;stroke-width:3;}
 	.st2{font-family:'Helvetica-Bold';}
 	.st3{font-size:16px;}
-	.st4{fill:#0065A2;stroke:#FFAA00;}
+	.st4{fill:#0065A2;stroke:#0065A2;}
 &lt;/style&gt;
 	&lt;g&gt;
 	&lt;g&gt;
@@ -7705,7 +7705,7 @@
 	.st0{fill:none;stroke:#0065A2;stroke-width:0.8;}
 	.st1{font-family:'Helvetica';}
 	.st2{font-size:16px;}
-	.st3{fill:#0065A2;stroke:#FFAA00;}
+	.st3{fill:#0065A2;stroke:#0065A2;}
 &lt;/style&gt;
 	&lt;g&gt;
 	&lt;g&gt;
@@ -14517,7 +14517,7 @@
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.2;stroke-linejoin:round;}
 	.st3{font-family:'Helvetica-Bold';}
 	.st4{font-size:12px;}
-	.st5{fill:#0065A2;stroke:#FFAA00;}
+	.st5{fill:#0065A2;stroke:#0065A2;}
 &lt;/style&gt;
 	&lt;g&gt;
 	&lt;polygon class="st0" points="85.8,0.9 87.9,3.6 80.8,39.5 78.2,37.9 	"/&gt;
@@ -14634,7 +14634,7 @@
 	.st0{fill:#0065A2;}
 	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.2;}
 	.st2{fill:none;stroke:#0065A2;stroke-width:0.8;}
-	.st3{fill:#0065A2;stroke:#FFAA00;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#0065A2;stroke:#0065A2;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;}
 &lt;/style&gt;
 &lt;g&gt;
 	&lt;g&gt;
