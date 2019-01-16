@@ -1,100 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 39.853333 25.786667"
-   height="25.786667"
-   width="39.853333"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="M 0,3 V 193 H 299 V 3 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,25.786667)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 252.168,4.96484 252.422,149.547 H 5.03906 L 4.78516,4.96484 H 252.168" /><path
-             id="path24"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 252.168,4.96484 252.422,149.547 H 5.03906 L 4.78516,4.96484 Z" /><path
-             id="path26"
-             style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 293.879,188.637 H 46.5039 L 5.03906,149.547 H 252.422 l 41.457,39.09" /><path
-             id="path28"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 293.879,188.637 H 46.5039 L 5.03906,149.547 H 252.422 Z" /><path
-             id="path30"
-             style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 293.621,43.5 293.879,188.715 252.832,149.887 252.578,4.65234 293.621,43.5" /><path
-             id="path32"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 293.621,43.5 293.879,188.715 252.832,149.887 252.578,4.65234 Z" /><path
-             id="path34"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 227.422,35.4922 v 45.957 L 199.727,59.3789 227.422,35.4922" /><path
-             id="path36"
-             style="fill:none;stroke:#FFFFFF;stroke-width:0.76003999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 227.422,35.4922 v 45.957 L 199.727,59.3789 Z" /><path
-             id="path38"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 31.7383,35.4922 v 45.957 L 59.4141,59.3789 31.7383,35.4922" /><path
-             id="path40"
-             style="fill:none;stroke:#FFFFFF;stroke-width:0.76003999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 31.7383,35.4922 v 45.957 L 59.4141,59.3789 Z" /><path
-             id="path42"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 50.3125,126.723 V 80.7656 l -27.6953,22.0704 27.6953,23.887" /><path
-             id="path44"
-             style="fill:none;stroke:#FFFFFF;stroke-width:0.76003999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 50.3125,126.723 V 80.7656 L 22.6172,102.836 Z" /><path
-             id="path46"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 206.738,126.723 V 80.7656 l 27.696,22.0704 -27.696,23.887" /><path
-             id="path48"
-             style="fill:none;stroke:#FFFFFF;stroke-width:0.76003999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 206.738,126.723 V 80.7656 l 27.696,22.0704 z" /><path
-             id="path50"
-             style="fill:none;stroke:#FFFFFF;stroke-width:7.59994984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 212.754,104.34 H 196.035" /><path
-             id="path52"
-             style="fill:none;stroke:#FFFFFF;stroke-width:7.59994984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 218.594,59.75 h 20.918" /><path
-             id="path54"
-             style="fill:none;stroke:#FFFFFF;stroke-width:7.59994984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 39.1406,59.75 H 16.8555" /><path
-             id="path56"
-             style="fill:none;stroke:#FFFFFF;stroke-width:7.59994984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 40.0977,102.945 H 61.0156" /><path
-             id="path58"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 177.715,101.977 177.578,18.4922 H 80.8398 l -0.1171,83.4848 h 96.9923" /><path
-             id="path60"
-             style="fill:none;stroke:#CC092F;stroke-width:1.51993001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 167.363,26.5078 H 91.3477 v 70.5 h 76.0153 z" /><path
-             id="path62"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 149.082,131.656 c 0,0 4.785,0.535 5.859,-4.258 l 1.055,-15.429 31.934,-5.324 3.183,6.914 -7.988,19.16 c -40.957,10.109 -55.312,6.914 -55.312,6.914 h 1.582 c 0,0 -14.356,3.195 -55.3325,-6.914 l -7.9687,-19.16 3.1835,-6.914 31.9337,5.324 1.055,15.429 c 1.054,4.793 5.859,4.258 5.859,4.258 h 40.957" /><g
-             transform="scale(10)"
-             id="g64"><text
-               id="text68"
-               style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'Arial-BoldMT';fill:#CC092F;fill-opacity:1;"
-               transform="matrix(1,0,0,-1,9.72461,3.20742)"><tspan
-                 id="tspan66"
-                 y="0"
-                 x="0">M</tspan></text>
-</g></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 59.8 38.7" style="enable-background:new 0 0 59.8 38.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CC092F;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.152;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:1.52;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;stroke:#CC092F;stroke-width:0.304;}
+	.st5{font-family:'Helvetica-Bold';}
+	.st6{font-size:16px;}
+	.st7{fill:#CC092F;}
+</style>
+	<g>
+	<g>
+		<g>
+			<polygon class="st0" points="50.4,37.7 50.5,8.8 1,8.8 1,37.7 			"/>
+		</g>
+		<polygon class="st0" points="58.8,0.9 9.3,0.9 1,8.8 50.5,8.8 		"/>
+		<polygon class="st0" points="58.7,30 58.8,0.9 50.6,8.7 50.5,37.7 		"/>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<polygon class="st1" points="45.5,31.6 45.5,22.4 39.9,26.8 								"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<g>
+								<polygon class="st1" points="6.3,31.6 6.3,22.4 11.9,26.8 								"/>
+							</g>
+							<g>
+								<polygon class="st1" points="10.1,13.3 10.1,22.5 4.5,18.1 								"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<polygon class="st1" points="41.3,13.3 41.3,22.5 46.9,18.1 			"/>
+		</g>
+		<line class="st2" x1="42.6" y1="17.8" x2="39.2" y2="17.8"/>
+		<line class="st2" x1="43.7" y1="26.7" x2="47.9" y2="26.7"/>
+		<line class="st2" x1="7.8" y1="26.7" x2="3.4" y2="26.7"/>
+		<line class="st2" x1="8" y1="18.1" x2="12.2" y2="18.1"/>
+		<polygon class="st3" points="35.5,18.3 35.5,35 16.2,35 16.1,18.3 		"/>
+		<rect x="18.3" y="19.3" class="st4" width="15.2" height="14.1"/>
+		<path class="st3" d="M29.8,12.3c0,0,1-0.1,1.2,0.9l0.2,3.1l6.4,1.1l0.6-1.4l-1.6-3.8c-8.2-2-11.1-1.4-11.1-1.4h0.3
+			c0,0-2.9-0.6-11.1,1.4L13.2,16l0.6,1.4l6.4-1.1l0.2-3.1c0.2-1,1.2-0.9,1.2-0.9H29.8z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 18.9487 32.2588)" class="st7 st5 st6">M</text>
+	</g>
+</g>
+</svg>

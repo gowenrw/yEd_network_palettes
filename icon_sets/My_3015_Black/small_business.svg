@@ -1,94 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 61.84 34.906666"
-   height="34.906666"
-   width="61.84"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="m 0,1.82031 h 460 v 260 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,34.906667)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 18.9063,27.7813 h 425.742 v 232.039 H 18.9063 Z" /><path
-             id="path24"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 444.648,27.7813 V 259.82 H 18.9063 V 27.7813 Z" /><path
-             id="path26"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 191.047,31.8633 h 41.3945 v 138.723 H 191.047 Z" /><path
-             id="path28"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 232.441,31.8633 V 170.586 H 191.047 V 31.8633 Z" /><path
-             id="path30"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 232.441,31.8633 h 41.2695 v 138.723 H 232.441 Z" /><path
-             id="path32"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 273.711,31.8633 V 170.586 h -41.27 V 31.8633 Z" /><path
-             id="path34"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 178.777,21.9648 h 107.297 v 9.89844 H 178.777 Z" /><path
-             id="path36"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 286.074,21.9648 v 9.8985 H 178.777 v -9.8985 z" /><path
-             id="path38"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 173.328,11.9805 h 118.203 v 9.98438 H 173.328 Z" /><path
-             id="path40"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 291.531,11.9805 v 9.9843 H 173.328 v -9.9843 z" /><path
-             id="path42"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 168.281,2.00391 h 128.301 v 9.97656 H 168.281 Z" /><path
-             id="path44"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 296.582,2.00391 V 11.9805 H 168.281 V 2.00391 Z" /><path
-             id="path46"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 211.074,109.336 h 11.211" /><path
-             id="path48"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 211.074,109.336 h 11.211" /><path
-             id="path50"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 253.762,109.336 H 242.551" /><path
-             id="path52"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 253.762,109.336 H 242.551" /><path
-             id="path54"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 450.105,240.133 460.613,217.82 H 3.15625 L 13.6602,240.133 H 450.105" /><path
-             id="path56"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 450.105,240.133 460.613,217.82 H 3.15625 l 10.50395,22.313 z" /><path
-             id="path58"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 62.6367,82.6016 h 82.7734 v 114.531 H 62.6367 Z" /><path
-             id="path60"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 145.41,82.6016 V 197.133 H 62.6367 V 82.6016 Z" /><path
-             id="path62"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 318.086,82.5547 h 82.7734 v 114.531 H 318.086 Z" /><path
-             id="path64"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 400.859,82.5547 V 197.086 H 318.086 V 82.5547 Z" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92.8 52.4" style="enable-background:new 0 0 92.8 52.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#000000;stroke:#FFFFFF;stroke-width:0.8;}
+</style>
+<g>
+	<rect x="3.8" y="0.4" class="st0" width="85.1" height="46.4"/>
+	<g>
+		<rect x="38.2" y="18.2" class="st0" width="8.3" height="27.7"/>
+		<rect x="46.5" y="18.2" class="st0" width="8.3" height="27.7"/>
+	</g>
+	<g>
+		<rect x="35.8" y="46" class="st0" width="21.5" height="2"/>
+		<rect x="34.7" y="48" class="st0" width="23.6" height="2"/>
+		<rect x="33.7" y="50" class="st0" width="25.7" height="2"/>
+	</g>
+	<line class="st0" x1="42.2" y1="30.5" x2="44.5" y2="30.5"/>
+	<line class="st0" x1="50.8" y1="30.5" x2="48.5" y2="30.5"/>
+	<polygon class="st0" points="90,4.3 92.1,8.8 0.6,8.8 2.7,4.3 	"/>
+	<rect x="12.5" y="12.9" class="st0" width="16.6" height="22.9"/>
+	<rect x="63.6" y="12.9" class="st0" width="16.6" height="22.9"/>
+</g>
+</svg>

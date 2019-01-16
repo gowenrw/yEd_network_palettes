@@ -1,66 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 50.279999 33.413334"
-   height="33.413334"
-   width="50.279999"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,33.413333)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><path
-         id="path14"
-         style="fill:#B5BF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 5.11719,6.05078 h 303.73 v 171.836 h -303.73 z" /><path
-         id="path16"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 5.11719,6.05078 V 177.887 H 308.848 V 6.05078 Z" /><path
-         id="path18"
-         style="fill:#B5BF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 309.082,5.19141 V 177.027 l 62.703,68.418 V 74.4688 L 309.082,5.19141" /><path
-         id="path20"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 309.082,5.19141 V 177.027 l 62.703,68.418 V 74.4688 Z" /><path
-         id="path22"
-         style="fill:#B5BF00;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 309.094,178.023 H 5.22656 l 75.12504,67.383 292.0894,0.254 -63.347,-67.637" /><path
-         id="path24"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 309.094,178.023 H 5.22656 l 75.12504,67.383 292.0894,0.254 z" /><path
-         id="path26"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 68.9453,114.391 14.582,114.352 v 10.156 l 54.3633,0.039 0.0195,15.848 L 100.41,119.457 68.9648,98.5117 68.9453,114.391" /><path
-         id="path28"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 266.633,141.215 -46.164,-0.027 v 8.632 l 46.164,0.028 0.008,13.476 26.738,-17.801 -26.738,-17.804 -0.008,13.496" /><path
-         id="path30"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 266.633,87.3867 -46.164,-0.039 v 8.6328 l 46.164,0.0312 0.008,13.4763 26.738,-17.8044 -26.738,-17.793 -0.008,13.4961" /><path
-         id="path32"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 266.633,33.5586 -46.164,-0.0469 v 8.6328 l 46.164,0.0391 0.008,13.4648 26.738,-17.7929 -26.738,-17.8008 -0.008,13.5039" /><path
-         id="path34"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 108.027,82.25 h 77.1484 v 65.3438 H 108.027 Z" /><path
-         id="path36"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 191.895,109.645 h 15.4414 v 29.4141 H 191.895 Z" /><path
-         id="path38"
-         style="fill:none;stroke:#B5BF00;stroke-width:2.17799997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 207.336,139.059 v -29.414 h -15.441 v 29.414 z" /><path
-         id="path40"
-         style="fill:none;stroke:#FFFFFF;stroke-width:9.68000031;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 118.059,40.3477 28.543,74.5783 29.519,-74.7658" /><path
-         id="path42"
-         style="fill:none;stroke:#FFFFFF;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 168.203,123.539 h 23.145" /></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75.4 50.1" style="enable-background:new 0 0 75.4 50.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B5BF00;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FFFFFF;stroke:#B5BF00;stroke-width:0.4356;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:1.936;stroke-linecap:round;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;}
+</style>
+<g>
+	<rect x="1" y="14.5" class="st0" width="60.7" height="34.4"/>
+	<polygon class="st0" points="61.8,49.1 61.8,14.7 74.4,1 74.4,35.2 	"/>
+	<polygon class="st0" points="61.8,14.5 1,14.5 16.1,1 74.5,1 	"/>
+	<g>
+		<polygon class="st1" points="13.8,27.2 2.9,27.2 2.9,25.2 13.8,25.2 13.8,22 20.1,26.2 13.8,30.4 		"/>
+	</g>
+	<g>
+		<polygon class="st1" points="53.3,21.9 44.1,21.9 44.1,20.2 53.3,20.1 53.3,17.5 58.7,21 53.3,24.6 		"/>
+	</g>
+	<g>
+		<polygon class="st1" points="53.3,32.6 44.1,32.6 44.1,30.9 53.3,30.9 53.3,28.2 58.7,31.8 53.3,35.3 		"/>
+	</g>
+	<g>
+		<polygon class="st1" points="53.3,43.4 44.1,43.4 44.1,41.7 53.3,41.7 53.3,39 58.7,42.5 53.3,46.1 		"/>
+	</g>
+	<rect x="21.6" y="20.6" class="st1" width="15.4" height="13.1"/>
+	<rect x="38.4" y="22.3" class="st2" width="3.1" height="5.9"/>
+	<polyline class="st3" points="23.6,42 29.3,27.1 35.2,42.1 	"/>
+	<line class="st4" x1="33.6" y1="25.4" x2="38.3" y2="25.4"/>
+</g>
+</svg>

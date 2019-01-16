@@ -1,54 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 58.040001 42.119999"
-   height="42.119999"
-   width="58.040001"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,42.12)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><path
-         id="path14"
-         style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 5.65625,6.46484 h 381.484 v 250.637 H 5.65625 Z" /><path
-         id="path16"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 5.65625,6.46484 H 387.141 V 257.102 H 5.65625 Z" /><path
-         id="path18"
-         style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 431.023,70.6523 387.141,6.46484 V 257.102 l 43.882,53.211 V 70.6523" /><path
-         id="path20"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 431.023,70.6523 387.141,6.46484 V 257.102 l 43.882,53.211 z" /><path
-         id="path22"
-         style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 71.4844,310.313 H 431.023 L 387.141,257.102 H 5.65625 l 65.82815,53.211" /><path
-         id="path24"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 71.4844,310.313 H 431.023 L 387.141,257.102 H 5.65625 Z" /><path
-         id="path26"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 123.059,121.223 -63.8793,-0.051 v 10.144 l 63.8793,0.043 0.027,15.86 37.004,-20.942 -37.004,-20.933 -0.027,15.879" /><path
-         id="path28"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 255.969,121.223 -63.891,-0.051 v 10.144 l 63.891,0.043 0.015,15.86 37.004,-20.942 -37.004,-20.933 -0.015,15.879" /><path
-         id="path30"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 244.941,172.395 -53.554,-34.829 -5.528,8.52 53.555,34.82 -8.613,13.313 42.429,2.59 -19.617,-37.715 -8.672,13.301" /><path
-         id="path32"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 244.941,80.7891 -53.554,34.8479 -5.528,-8.528 53.555,-34.8238 -8.613,-13.3086 42.429,-2.5899 -19.617,37.7149 -8.672,-13.3125" /><path
-         id="path34"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 141.953,208.859 C 80.3906,221.145 47.9023,189.617 53.0352,162.371 l 0.414,-1.48 C 5.48047,152.727 18.0469,96.1055 41.0664,96.1055 l 2.2656,0.0781 C 37.5313,69.5781 93.5938,42.5117 124.855,56.0234 l 2.008,2.211 c 11.145,-23.9258 50.742,-27.9297 89.907,-28.9258 33.933,-0.8633 53.738,1.8125 68.289,16.6992 l 2.246,-0.664 c 54.316,-4.3672 79.05,33.1523 67.175,60.0972 l 2.93,0.821 c 18.52,4.898 20.656,47.644 -11.109,53.965 l 0.601,1.66 c 13.801,27.808 -18.726,54.043 -63.875,49.109 l -3.132,1.633 c -32.305,29.258 -125.317,24.492 -136.086,-4.453 z" /></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 87.1 63.2" style="enable-background:new 0 0 87.1 63.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CC092F;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.8;}
+</style>
+<g>
+	<g>
+		<rect x="1.1" y="11.8" class="st0" width="76.3" height="50.1"/>
+		<polygon class="st0" points="86.2,49 77.4,61.9 77.4,11.8 86.2,1.1 		"/>
+		<polygon class="st0" points="14.3,1.1 86.2,1.1 77.4,11.8 1.1,11.8 		"/>
+		<g>
+			<polygon class="st1" points="24.6,38.9 11.8,38.9 11.8,36.9 24.6,36.9 24.6,33.7 32,37.9 24.6,42.1 			"/>
+		</g>
+		<g>
+			<polygon class="st1" points="51.2,38.9 38.4,38.9 38.4,36.9 51.2,36.9 51.2,33.7 58.6,37.9 51.2,42.1 			"/>
+		</g>
+		<g>
+			<polygon class="st1" points="49,28.7 38.3,35.7 37.2,34 47.9,27 46.2,24.3 54.6,23.8 50.7,31.4 			"/>
+		</g>
+		<g>
+			<polygon class="st1" points="49,47 38.3,40 37.2,41.8 47.9,48.7 46.2,51.4 54.6,51.9 50.7,44.4 			"/>
+		</g>
+	</g>
+	<g>
+		<path class="st2" d="M28.4,21.4c-12.3-2.5-18.8,3.8-17.8,9.3l0.1,0.3c-9.6,1.6-7.1,13-2.5,13l0.5,0C7.5,49.3,18.7,54.7,25,52
+			l0.4-0.4c2.2,4.8,10.1,5.6,18,5.8C50.1,57.5,54.1,57,57,54l0.4,0.1c10.9,0.9,15.8-6.6,13.4-12l0.6-0.2c3.7-1,4.1-9.5-2.2-10.8
+			l0.1-0.3c2.8-5.6-3.7-10.8-12.8-9.8L56,20.7c-6.5-5.9-25.1-4.9-27.2,0.9L28.4,21.4z"/>
+	</g>
+</g>
+</svg>

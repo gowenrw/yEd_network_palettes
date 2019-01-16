@@ -1,119 +1,42 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   xml:space="preserve"
-   width="49.48"
-   height="42.373333"
-   viewBox="0 0 49.48 42.373333"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath20"><path
-         d="M 0,318 H 370 V 0 H 0 Z"
-         id="path18" /></clipPath></defs><g
-     id="g10"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,42.373333)"><path
-       id="path22"
-       style="fill:#0065A2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1"
-       d="m 7.10781,2.14805 h 24.8883 v 24.5125 H 7.10781 Z" /><path
-       id="path24"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 31.9961,26.6605 H 7.10781 V 2.14805 H 31.9961" /><path
-       id="path26"
-       style="fill:#0065A2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1"
-       d="m 31.9961,2.14805 4.9141,4.91406 V 31.5754 H 5.39688 L 0.482813,26.6605 H 31.9961 V 2.14805" /><path
-       id="path28"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 31.9961,2.14805 4.9141,4.91406 V 31.5754 H 5.39688 L 0.482813,26.6605 H 31.9961 Z" /><path
-       id="path30"
-       style="fill:#0065A2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1"
-       d="m 31.9961,26.6605 4.9141,4.9149" /><path
-       id="path32"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 31.9961,26.6605 4.9141,4.9149" /><path
-       id="path34"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 21.6074,22.8617 h 4.375" /><path
-       id="path36"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 28.1074,20.8617 v 4.875 H 7.85703 v -4.875 z" /><path
-       id="path38"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 28.0098,14.6113 v 4 h -3 v -4 z" /><path
-       id="path40"
-       style="fill:#FFFFFF;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.884375,2.54883 V 26.2988 H 7.13438 V 2.54883 Z" /><path
-       id="path42"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,25.1113 h 4" /><path
-       id="path44"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,23.8613 h 4" /><path
-       id="path46"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,22.6113 h 4" /><path
-       id="path48"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,21.3613 h 4" /><path
-       id="path50"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,20.1113 h 4" /><path
-       id="path52"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,18.8613 h 4" /><path
-       id="path54"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,17.6113 h 4" /><path
-       id="path56"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,16.3613 h 4" /><path
-       id="path58"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,15.1113 h 4" /><path
-       id="path60"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,13.8613 h 4" /><path
-       id="path62"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,12.6113 h 4" /><path
-       id="path64"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,11.3613 h 4" /><path
-       id="path66"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,10.1113 h 4" /><path
-       id="path68"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,8.86133 h 4" /><path
-       id="path70"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,7.61133 h 4" /><path
-       id="path72"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,6.36133 h 4" /><path
-       id="path74"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,5.11133 h 4" /><path
-       id="path76"
-       style="fill:none;stroke:#0065A2;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2.00938,3.86133 h 4" /><path
-       id="path78"
-       style="fill:#0065A2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1"
-       d="m 5.00938,2.11133 -1.25,-1.750002 H 30.0098 l -0.75,1.750002 H 5.00938" /><path
-       id="path80"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5.00938,2.11133 -1.25,-1.750002 H 30.0098 l -0.75,1.750002 z" /><path
-       id="path82"
-       style="fill:#0065A2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1"
-       d="m 30.0098,0.361328 1.625,1.750002 h -2.375 l 0.75,-1.750002" /><path
-       id="path84"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.39999399;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.0098,0.361328 1.625,1.750002 h -2.375 z" /></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 74.2 63.6" style="enable-background:new 0 0 74.2 63.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0065A2;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{stroke:#FFFFFF;stroke-width:0.8;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.8;}
+	.st3{fill:none;stroke:#0065A2;stroke-width:0.8;}
+</style>
+<g>
+	<polyline class="st0" points="64,10.2 14.2,10.2 14.2,59.3 64,59.3 	"/>
+	<polygon class="st0" points="64,59.3 73.8,49.4 73.8,0.4 10.8,0.4 1,10.2 64,10.2 	"/>
+	<line class="st1" x1="64" y1="10.2" x2="73.8" y2="0.4"/>
+	<line class="st2" x1="43.2" y1="17.8" x2="52" y2="17.8"/>
+	<rect x="15.7" y="12.1" class="st2" width="40.5" height="9.8"/>
+	<g>
+		<rect x="50" y="26.3" class="st2" width="6" height="8"/>
+	</g>
+	<rect x="1.8" y="11" class="st3" width="12.5" height="47.5"/>
+	<line class="st3" x1="4" y1="13.3" x2="12" y2="13.3"/>
+	<line class="st3" x1="4" y1="15.8" x2="12" y2="15.8"/>
+	<line class="st3" x1="4" y1="18.3" x2="12" y2="18.3"/>
+	<line class="st3" x1="4" y1="20.8" x2="12" y2="20.8"/>
+	<line class="st3" x1="4" y1="23.3" x2="12" y2="23.3"/>
+	<line class="st3" x1="4" y1="25.8" x2="12" y2="25.8"/>
+	<line class="st3" x1="4" y1="28.3" x2="12" y2="28.3"/>
+	<line class="st3" x1="4" y1="30.8" x2="12" y2="30.8"/>
+	<line class="st3" x1="4" y1="33.3" x2="12" y2="33.3"/>
+	<line class="st3" x1="4" y1="35.8" x2="12" y2="35.8"/>
+	<line class="st3" x1="4" y1="38.3" x2="12" y2="38.3"/>
+	<line class="st3" x1="4" y1="40.8" x2="12" y2="40.8"/>
+	<line class="st3" x1="4" y1="43.3" x2="12" y2="43.3"/>
+	<line class="st3" x1="4" y1="45.8" x2="12" y2="45.8"/>
+	<line class="st3" x1="4" y1="48.3" x2="12" y2="48.3"/>
+	<line class="st3" x1="4" y1="50.8" x2="12" y2="50.8"/>
+	<line class="st3" x1="4" y1="53.3" x2="12" y2="53.3"/>
+	<line class="st3" x1="4" y1="55.8" x2="12" y2="55.8"/>
+	<polygon class="st0" points="10,59.3 7.5,62.8 60,62.8 58.5,59.3 	"/>
+	<polygon class="st0" points="60,62.8 63.3,59.3 58.5,59.3 	"/>
+</g>
+</svg>

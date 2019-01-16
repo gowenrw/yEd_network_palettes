@@ -1,59 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   xml:space="preserve"
-   width="65.080002"
-   height="32.746666"
-   viewBox="0 0 65.080002 32.746666"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><g
-     id="g873"><path
-       id="path14"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="M 0.87656264,31.577396 H 48.503095 V 16.118063 H 0.87656264 Z" /><path
-       id="path16"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.5333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 48.503065,31.577396 V 16.118001 H 0.87656264 v 15.459395 z" /><path
-       id="path18"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="M 0.75260398,16.195601 19.9912,0.6034678 H 64.430265 L 48.458799,16.195601 H 0.75260398" /><path
-       id="path20"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.5333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.75260398,16.195601 19.9912,0.6034678 H 64.430265 L 48.458799,16.195601 Z" /><path
-       id="path22"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="M 48.477065,32.065938 64.385998,14.876934 64.396398,0.63213447 48.477065,16.173734 v 15.892204" /><path
-       id="path24"
-       style="fill:none;stroke:#FFFFFF;stroke-width:0.5333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 48.477065,32.065938 64.385998,14.876934 64.396398,0.63213447 48.477065,16.173734 Z" /><path
-       id="path26"
-       style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="m 28.669333,12.139868 -0.922934,0.757866 H 15.8672 l -1.183334,1.183867 -3.22136,-1.402667 6.473494,-1.8516 -1.145334,1.312534 h 11.878667" /><path
-       id="path28"
-       style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="m 38.003066,6.3065343 -0.9244,0.7578667 H 25.200533 l -1.183334,1.1838666 -3.221333,-1.4026666 6.473467,-1.8516 -1.145334,1.3125333 h 11.879067" /><path
-       id="path30"
-       style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="m 30.765599,10.077334 0.9224,-0.7561331 h 11.880267 l 1.182266,-1.1838666 3.221333,1.4025333 -6.473999,1.8500004 1.145866,-1.312534 H 30.765599" /><path
-       id="path32"
-       style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13333333"
-       d="m 36.932799,4.244001 0.921867,-0.7561333 h 11.880266 l 1.182267,-1.1838666 3.221333,1.4025333 -6.474,1.8499999 1.145867,-1.3125333 h -11.8776" /><g
-       transform="matrix(1.3333333,0,0,-1.3333333,0,32.746667)"
-       id="g38"><text
-   id="text42"
-   style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'Arial-BoldMT';fill:#FFFFFF;fill-opacity:1;"
-   transform="matrix(1,0,0,-1,14.8352,2.71563)"><tspan
-     id="tspan40"
-     y="0"
-     x="0">V</tspan></text>
-
-
-</g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 97.6 49.1" style="enable-background:new 0 0 97.6 49.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#000000;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#000000;stroke:#FFFFFF;stroke-width:0.8;}
+	.st3{font-family:'Helvetica-Bold';}
+	.st4{font-size:20px;}
+</style>
+	<g>
+	<g>
+		<rect x="1.3" y="24.2" class="st0" width="71.4" height="23.2"/>
+		<polygon class="st0" points="1.1,24.3 30,0.9 96.6,0.9 72.7,24.3 		"/>
+		<polygon class="st0" points="72.7,48.1 96.6,22.3 96.6,1 72.7,24.3 		"/>
+		<polygon class="st1" points="43,18.2 41.6,19.3 23.8,19.3 22,21.1 17.2,19 26.9,16.2 25.2,18.2 		"/>
+		<polygon class="st1" points="57,9.5 55.6,10.6 37.8,10.6 36,12.4 31.2,10.3 40.9,7.5 39.2,9.5 		"/>
+		<polygon class="st1" points="46.1,15.1 47.5,14 65.4,14 67.1,12.2 72,14.3 62.2,17.1 64,15.1 		"/>
+		<polygon class="st1" points="55.4,6.4 56.8,5.2 74.6,5.2 76.4,3.5 81.2,5.6 71.5,8.3 73.2,6.4 		"/>
+	</g>
+	<rect x="27.8" y="28" class="st2" width="16.8" height="16.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 29.6701 43.6899)" class="st1 st3 st4">V</text>
+	</g>
+</g>
+</svg>

@@ -1,98 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
-   xml:space="preserve"
-   width="63.093334"
-   height="35.639999"
-   viewBox="0 0 63.093334 35.639999"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><g
-     id="g10"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,35.64)"><g
-       id="g12"
-       transform="scale(0.1)"><path
-         d="M 5.65234,149.18 145.465,262.246 H 468.242 L 352.527,149.18 H 5.65234"
-         style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path14" /><path
-         d="M 5.65234,149.18 145.465,262.246 H 468.242 L 352.527,149.18 Z"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path16" /><path
-         d="M 352.527,4.89063 468.242,122.801 v 139.23 L 352.527,149.18 V 4.89063"
-         style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path18" /><path
-         d="M 352.527,4.89063 468.242,122.801 v 139.23 L 352.527,149.18 Z"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path20" /><path
-         d="M 352.527,4.77344 V 149.18 H 6.12891 V 4.77344 H 352.527"
-         style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path22" /><path
-         d="M 352.527,4.77344 V 149.18 H 6.12891 V 4.77344 Z"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path24" /><g
-         id="g26"
-         transform="scale(10)"><text
-   transform="matrix(0.74518053,0,-0.66686278,-0.57354469,8.47383,19.1328)"
-   style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'Arial-BoldMT';fill:#FFFFFF;fill-opacity:1;"
-   id="text30"><tspan
-     x="0"
-     y="0"
-     id="tspan28">W</tspan></text>
-
-<text
-   transform="matrix(0.74516371,0,-0.66688158,-0.57356085,32.9461,18.7285)"
-   style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'Arial-BoldMT';fill:#FFFFFF;fill-opacity:1;"
-   id="text34"><tspan
-     x="0"
-     y="0"
-     id="tspan32">E</tspan></text>
-
-<text
-   transform="matrix(0.74518053,0,-0.66686278,-0.57354469,16.725,15.3137)"
-   style="font-variant:normal;font-weight:bold;font-size:7px;font-family:'Arial-BoldMT';fill:#FFFFFF;fill-opacity:1;"
-   id="text40"><tspan
-     x="0"
-     y="0"
-     id="tspan36">S</tspan><tspan
-     x="-0.38356856"
-     y="-13.343537"
-     id="tspan38">N</tspan></text>
-
-</g><path
-         d="m 259.969,205.684 c -3.535,-3.106 -13.321,-5.606 -21.848,-5.606 -8.523,0 -12.57,2.5 -9.031,5.598 3.539,3.101 13.324,5.601 21.855,5.601 8.52,0 12.559,-2.507 9.024,-5.593"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path42" /><path
-         d="m 241.5,208.164 33.137,23.672 -20.633,-23.66"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path44" /><path
-         d="m 237.234,204.426 -20.921,-23.656 33.421,23.656"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path46" /><path
-         d="m 235.223,203.547 -62.645,2.195 67.836,2.344"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path48" /><path
-         d="m 245.516,203.535 67.714,2.219 -62.539,2.332"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path50" /><path
-         d="m 240.098,202.391 -33.785,-6.532 28.593,9.746"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path52" /><path
-         d="m 250.398,205.039 32.895,10.93 -38.086,-7.727"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path54" /><path
-         d="m 253.254,205.41 7.301,-10.488 -19.809,7.285"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path56" /><path
-         d="m 248.996,208.055 -20.285,7.422 7.773,-10.625"
-         style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path58" /><path
-         d="m 298.523,213.652 c 3.282,-10.343 -18.863,-22.976 -49.453,-28.254 -30.593,-5.261 -58.035,-1.148 -61.316,9.172 -3.274,10.321 18.867,22.981 49.461,28.243 30.586,5.273 58.039,1.171 61.308,-9.161 z"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
-         id="path60" /></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 94.6 53.4" style="enable-background:new 0 0 94.6 53.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#008998;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Helvetica-Bold';}
+	.st3{font-size:10.168px;}
+	.st4{font-size:10.1679px;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:0.8;stroke-miterlimit:1;}
+</style>
+	<g>
+	<polygon class="st0" points="1.1,23.5 29.1,0.9 93.6,0.9 70.5,23.5 	"/>
+	<polygon class="st0" points="70.5,52.4 93.6,28.8 93.6,1 70.5,23.5 	"/>
+	<rect x="1.2" y="23.5" class="st0" width="69.3" height="28.9"/>
+	<g>
+		<text transform="matrix(0.9999 0 -0.8949 0.7696 16.9478 15.1183)" class="st1 st2 st3">W</text>
+	</g>
+	<g>
+		<text transform="matrix(0.9999 0 -0.8949 0.7697 65.8923 15.927)" class="st1 st2 st4">E</text>
+	</g>
+	<g>
+		<text transform="matrix(0.9999 0 -0.8949 0.7696 33.4516 22.7566)" class="st1 st2 st3">S</text>
+	</g>
+	<g>
+		<text transform="matrix(0.9999 0 -0.8949 0.7696 50.6761 7.4502)" class="st1 st2 st3">N</text>
+	</g>
+	<g>
+		<path class="st1" d="M52,12.2c-0.7,0.6-2.7,1.1-4.4,1.1c-1.7,0-2.5-0.5-1.8-1.1c0.7-0.6,2.7-1.1,4.4-1.1
+			C51.9,11.1,52.7,11.6,52,12.2z"/>
+		<polyline class="st1" points="48.3,11.8 54.9,7 50.8,11.7 		"/>
+		<polyline class="st1" points="47.4,12.5 43.3,17.2 49.9,12.5 		"/>
+		<polyline class="st1" points="47,12.7 34.5,12.2 48.1,11.8 		"/>
+		<polyline class="st1" points="49.1,12.7 62.6,12.2 50.1,11.8 		"/>
+		<polyline class="st1" points="48,12.9 41.3,14.2 47,12.3 		"/>
+		<polyline class="st1" points="50.1,12.4 56.7,10.2 49,11.7 		"/>
+		<polyline class="st1" points="50.7,12.3 52.1,14.4 48.1,12.9 		"/>
+		<polyline class="st1" points="49.8,11.8 45.7,10.3 47.3,12.4 		"/>
+	</g>
+	<path class="st5" d="M59.7,10.7c0.7,2.1-3.8,4.6-9.9,5.7c-6.1,1.1-11.6,0.2-12.3-1.8c-0.7-2.1,3.8-4.6,9.9-5.6
+		C53.6,7.8,59.1,8.6,59.7,10.7z"/>
+</g>
+</svg>

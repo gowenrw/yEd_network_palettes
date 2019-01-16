@@ -1,55 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 33.599998 30.32"
-   height="30.32"
-   width="33.599998"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="M 0,227 H 250 V 0 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,30.32)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:#706d6e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 161.547,160.832 220.492,48.5078" /><path
-             id="path24"
-             style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 192.641,223.898 H 90.6953 L 59.5898,205.754 H 161.547 l 31.094,18.144" /><path
-             id="path26"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 192.641,223.898 H 90.6953 L 59.5898,205.754 H 161.547 Z" /><path
-             id="path28"
-             style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 220.609,48.5078 V 3.58594 L 250.043,21.7305 V 66.6484 L 192.641,178.977 v 44.921 l -31.094,-18.144 v -44.922" /><path
-             id="path30"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 220.609,48.5078 V 3.58594 L 250.043,21.7305 V 66.6484 L 192.641,178.977 v 44.921 l -31.094,-18.144 v -44.922" /><path
-             id="path32"
-             style="fill:#CC092F;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 220.492,48.6328 161.547,160.949 v -0.117 44.922 H 59.5898 v -44.922 0.117 L 2.55859,48.6328 2.73438,48.5078 V 3.58594 H 220.727 V 48.5078 l -0.235,0.125" /><path
-             id="path34"
-             style="fill:none;stroke:#FFFFFF;stroke-width:3.99993992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 220.492,48.6328 161.547,160.949 v -0.117 44.922 H 59.5898 v -44.922 0.117 L 2.55859,48.6328 2.73438,48.5078 V 3.58594 H 220.727 V 48.5078 Z" /><path
-             id="path36"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 109.813,105.945 h 6.046 V 61.6719 h 30.043 L 112.742,22.0781 79.7773,61.6719 h 30.0467 l -0.011,44.2731" /><path
-             id="path38"
-             style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 115.859,106.055 h -6.046 l 0.011,44.289 H 79.7773 l 33.1527,39.57 32.972,-39.57 h -30.043 v -44.289" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50.4 45.5" style="enable-background:new 0 0 50.4 45.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#595959;}
+	.st1{fill:#CC092F;stroke:#FFFFFF;stroke-width:0.8;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	<line class="st0" x1="32.3" y1="13.3" x2="44.1" y2="35.8"/>
+	<polygon class="st1" points="38.5,0.7 18.1,0.7 11.9,4.3 32.3,4.3 	"/>
+	<polyline class="st1" points="44.1,35.8 44.1,44.8 50,41.1 50,32.1 38.5,9.7 38.5,0.7 32.3,4.3 32.3,13.3 	"/>
+	<polygon class="st1" points="44.1,35.7 32.3,13.3 32.3,13.3 32.3,4.3 11.9,4.3 11.9,13.3 11.9,13.3 0.5,35.7 0.5,35.8 0.5,44.8 
+		44.1,44.8 44.1,35.8 	"/>
+	<polygon class="st2" points="22,24.3 23.2,24.3 23.2,33.1 29.2,33.1 22.5,41.1 16,33.1 22,33.1 	"/>
+	<polygon class="st2" points="23.2,24.3 22,24.3 22,15.4 16,15.4 22.6,7.5 29.2,15.4 23.2,15.4 	"/>
+</g>
+</svg>

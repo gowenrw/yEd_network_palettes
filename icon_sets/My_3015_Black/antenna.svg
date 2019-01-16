@@ -1,55 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 56.346668 65.533333"
-   height="65.533333"
-   width="56.346668"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="m 0,1.51563 h 420 v 490 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,65.533333)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 3.53516,318.07 173.445,487.98" /><path
-             id="path24"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 64.9375,318.07 234.855,487.98" /><path
-             id="path26"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 126.34,318.07 296.25,487.98" /><path
-             id="path28"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 187.738,318.07 357.645,487.98" /><path
-             id="path30"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 249.141,318.07 419.055,487.98" /><path
-             id="path32"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 61.7031,410.18 H 368.723" /><path
-             id="path34"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 218.445,408.559 V 144.523" /><path
-             id="path36"
-             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 228.027,290.504 V 0" /><path
-             id="path38"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 203.531,189.004 h 34.9922 v 63 H 203.531 Z" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 84.5 98.3" style="enable-background:new 0 0 84.5 98.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;}
+	.st1{fill:#000000;}
+</style>
+<g>
+	<line class="st0" x1="0.7" y1="34.7" x2="34.7" y2="0.7"/>
+	<line class="st0" x1="13" y1="34.7" x2="47" y2="0.7"/>
+	<line class="st0" x1="25.3" y1="34.7" x2="59.3" y2="0.7"/>
+	<line class="st0" x1="37.5" y1="34.7" x2="71.5" y2="0.7"/>
+	<line class="st0" x1="49.8" y1="34.7" x2="83.8" y2="0.7"/>
+	<line class="st0" x1="12.3" y1="16.3" x2="73.7" y2="16.3"/>
+	<line class="st0" x1="43.7" y1="16.6" x2="43.7" y2="69.4"/>
+	<line class="st0" x1="45.6" y1="40.2" x2="45.6" y2="98.3"/>
+	<rect x="40.7" y="47.9" class="st1" width="7" height="12.6"/>
+</g>
+</svg>

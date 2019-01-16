@@ -1,37 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 38.946667 33.279999"
-   height="33.279999"
-   width="38.946667"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path18"
-         d="M 0,250 H 290 V 0 H 0 Z" /></clipPath></defs><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,33.28)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><path
-             id="path22"
-             style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 159.199,209.715 90,212.137 56.1445,176.055 77.0898,159.012 95.2422,178.758 137.129,177.305 91.3672,117.754 107.727,102.629 81.4648,67.4414 38.4258,68.9453 7.08203,54.9023 28.7969,9.89063 54.9688,8.97266 54.7266,18.8867 41.3555,19.3438 42.0508,39.1211 106.016,36.8945 141.887,80.4766 228.738,0 272.98,49.6953 262.273,59.9688 243.516,39.668 l -70.43,67.09 29.863,38.543 26.731,-18.399 61.582,-2.148 0.847,24.426 -44.14,1.543 -88.77,58.992" /><path
-             id="path24"
-             style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="m 188.672,249.648 51.172,-1.777 -1.895,-54.68 -51.179,1.789 1.902,54.668" /><path
-             id="path26"
-             style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             d="M 34.0234,184.434 92.4219,135.438 58.3789,94.8711 0,143.867 34.0234,184.434" /></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 58.4 49.9" style="enable-background:new 0 0 58.4 49.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#008998;}
+</style>
+<g>
+	<polygon class="st0" points="31.8,8 18,7.5 11.2,14.7 15.4,18.1 19,14.2 27.4,14.5 18.3,26.4 21.5,29.4 16.3,36.4 7.7,36.1 
+		1.4,38.9 5.8,48 11,48.1 10.9,46.2 8.3,46.1 8.4,42.1 21.2,42.6 28.4,33.8 45.7,49.9 54.6,40 52.5,37.9 48.7,42 34.6,28.6 
+		40.6,20.9 45.9,24.5 58.3,25 58.4,20.1 49.6,19.8 	"/>
+	<g>
+		
+			<rect x="37.2" y="0.5" transform="matrix(3.472461e-02 -0.9994 0.9994 3.472461e-02 35.5385 48.085)" class="st0" width="10.9" height="10.2"/>
+	</g>
+	<g>
+		
+			<rect x="3.9" y="14.4" transform="matrix(0.6427 -0.7661 0.7661 0.6427 -13.5517 14.9393)" class="st0" width="10.6" height="15.2"/>
+	</g>
+</g>
+</svg>

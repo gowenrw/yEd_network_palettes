@@ -1,54 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 27.986668 36.986668"
-   height="36.986668"
-   width="27.986668"
-   xml:space="preserve"
-   id="svg2"
-   version="1.1"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,36.986667)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><path
-         id="path14"
-         style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 4.82422,4.82813 h 153.875 v 221.387 H 4.82422 Z" /><path
-         id="path16"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 158.699,226.215 H 4.82422 V 4.82813 H 158.699" /><path
-         id="path18"
-         style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="M 158.699,4.82813 207.852,53.9688 V 275.355 H 53.9648 L 4.82422,226.215 H 158.699 V 4.82813" /><path
-         id="path20"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 158.699,4.82813 207.852,53.9688 V 275.355 H 53.9648 L 4.82422,226.215 H 158.699 Z" /><path
-         id="path22"
-         style="fill:#008998;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 158.699,226.215 49.153,49.14" /><path
-         id="path24"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 158.699,226.215 49.153,49.14" /><path
-         id="path26"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 7.31641,165.254 H 157.316" /><path
-         id="path28"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 7.31641,94.9102 H 157.316" /><path
-         id="path30"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 57.9961,123.328 H 101.746" /><path
-         id="path32"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 57.9961,136.664 H 101.746" /><path
-         id="path34"
-         style="fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 117.996,108.328 v 42.043 H 40.4961 v -42.043 z" /></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 42 55.5" style="enable-background:new 0 0 42 55.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#008998;stroke:#FFFFFF;stroke-width:0.8;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.8;}
+</style>
+<g>
+	<polyline class="st0" points="31.7,10.2 1,10.2 1,54.5 31.7,54.5 	"/>
+	<polygon class="st0" points="31.7,54.5 41.6,44.7 41.6,0.4 10.8,0.4 1,10.2 31.7,10.2 	"/>
+	<line class="st0" x1="31.7" y1="10.2" x2="41.6" y2="0.4"/>
+	<line class="st1" x1="1.5" y1="22.4" x2="31.5" y2="22.4"/>
+	<line class="st1" x1="1.5" y1="36.5" x2="31.5" y2="36.5"/>
+	<line class="st1" x1="11.6" y1="30.8" x2="20.4" y2="30.8"/>
+	<line class="st1" x1="11.6" y1="28.1" x2="20.4" y2="28.1"/>
+	<rect x="8.1" y="25.4" class="st1" width="15.5" height="8.4"/>
+	<path class="st1" d="M15.9,30.7"/>
+</g>
+</svg>
