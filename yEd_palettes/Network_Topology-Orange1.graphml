@@ -19,7 +19,6 @@
     <node id="n0">
       <data key="d3" xml:space="preserve"><![CDATA[fd2bb794-0234-44ef-8b92-0fe7c42af559]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[3x74_desktop]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="171.94570922851562" width="399.9185485839844" x="0.0" y="115.23519897460938"/>
@@ -36,7 +35,6 @@
     <node id="n1">
       <data key="d3" xml:space="preserve"><![CDATA[9257e9bc-9bac-4152-94e5-8600af45b904]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[3x74_floor]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="342.4161071777344" width="399.81500244140625" x="429.9185485839844" y="30.0"/>
@@ -53,7 +51,6 @@
     <node id="n2">
       <data key="d3" xml:space="preserve"><![CDATA[bbf36783-d794-4011-981d-95902bb58018]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[10GE_FCoE]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7333068847656" width="297.6748962402344" x="0.0" y="402.4161071777344"/>
@@ -70,7 +67,6 @@
     <node id="n3">
       <data key="d3" xml:space="preserve"><![CDATA[45f7c842-cbd4-49d1-8580-9101a4721bd6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[100BaseT_hub]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.16685485839844" width="400.0" x="327.6748962402344" y="501.69933319091797"/>
@@ -87,7 +83,6 @@
     <node id="n4">
       <data key="d3" xml:space="preserve"><![CDATA[afa7d69d-6ddc-4b61-b5ab-b3388bbe6ca7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[3200_mobile_access_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="223.1275634765625" width="400.0" x="757.6748962402344" y="490.71897888183594"/>
@@ -104,7 +99,6 @@
     <node id="n5">
       <data key="d3" xml:space="preserve"><![CDATA[fcb83504-4b0b-4216-8318-b4472e0b6c14]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[6700_series]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="397.69659423828125" x="0.0" y="832.1494140625"/>
@@ -121,7 +115,6 @@
     <node id="n6">
       <data key="d3" xml:space="preserve"><![CDATA[ab33f27a-5e5a-4a8b-aaa6-e043c0714bef]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[7500ars_7513]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="400.0" x="427.69659423828125" y="832.1494140625"/>
@@ -138,7 +131,6 @@
     <node id="n7">
       <data key="d3" xml:space="preserve"><![CDATA[c0fdba31-389c-4f99-9365-946807f15334]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[10700]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="0.0" y="1262.1494140625"/>
@@ -155,7 +147,6 @@
     <node id="n8">
       <data key="d3" xml:space="preserve"><![CDATA[2e86a887-176c-4d3e-84b5-6e50ec2f6623]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[15200]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="240.6085205078125" width="399.9801940917969" x="430.0" y="1277.3290252685547"/>
@@ -172,7 +163,6 @@
     <node id="n9">
       <data key="d3" xml:space="preserve"><![CDATA[bb70d1bb-91a4-47a7-b9d3-d94a6976480a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[access_gateway]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="207.24993896484375" width="399.9193115234375" x="0.0" y="1563.1171569824219"/>
@@ -189,7 +179,6 @@
     <node id="n10">
       <data key="d3" xml:space="preserve"><![CDATA[ab809621-2deb-43e1-bb4d-a36ad8e9d199]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[access_point]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="178.04708862304688" width="399.7491760253906" x="429.9193115234375" y="1577.7185821533203"/>
@@ -206,7 +195,6 @@
     <node id="n11">
       <data key="d3" xml:space="preserve"><![CDATA[e2305a06-802e-4065-8148-776eec69a978]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ace]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="0.0" y="1800.3670959472656"/>
@@ -223,7 +211,6 @@
     <node id="n12">
       <data key="d3" xml:space="preserve"><![CDATA[63c32b2a-4b65-471e-bf8a-12023c186470]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ACS]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="281.5555419921875" width="399.8996887207031" x="429.7560119628906" y="1804.738021850586"/>
@@ -240,7 +227,6 @@
     <node id="n13">
       <data key="d3" xml:space="preserve"><![CDATA[063a8db8-184a-4aa9-9547-52b7cf2e4797]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ADM]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.48443603515625" width="399.6952819824219" x="0.0" y="2187.4222717285156"/>
@@ -257,7 +243,6 @@
     <node id="n14">
       <data key="d3" xml:space="preserve"><![CDATA[3d95dc51-0fb6-4bb0-9d9b-416bd05a1527]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[androgenous_person]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="346.4239196777344" x="429.6952819824219" y="2120.6644897460938"/>
@@ -274,7 +259,6 @@
     <node id="n15">
       <data key="d3" xml:space="preserve"><![CDATA[66af3bd5-2753-4306-b5fe-1887b742852a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[antenna]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="343.9031982421875" x="0.0" y="2550.6644897460938"/>
@@ -291,7 +275,6 @@
     <node id="n16">
       <data key="d3" xml:space="preserve"><![CDATA[d234d480-a654-426d-909e-969ce675faf4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[asic_processor]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.65814208984375" width="282.0989685058594" x="373.9031982421875" y="2550.835418701172"/>
@@ -308,7 +291,6 @@
     <node id="n17">
       <data key="d3" xml:space="preserve"><![CDATA[213627b7-0f40-4158-adb3-5ac6e9f22bba]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ASR_1000_Series]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="388.1376037597656" width="399.5760803222656" x="686.0021667480469" y="2556.595687866211"/>
@@ -325,7 +307,6 @@
     <node id="n18">
       <data key="d3" xml:space="preserve"><![CDATA[842754a4-add7-4ac7-8bd7-73101ae83fc4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ata]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="200.4799346923828" width="399.93157958984375" x="0.0" y="3080.419258117676"/>
@@ -342,7 +323,6 @@
     <node id="n19">
       <data key="d3" xml:space="preserve"><![CDATA[345fdab8-0a6a-4a9f-be1b-e7e2212c1049]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[atm_3800]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.9894714355469" width="357.4424133300781" x="429.93157958984375" y="2980.6644897460938"/>
@@ -359,7 +339,6 @@
     <node id="n20">
       <data key="d3" xml:space="preserve"><![CDATA[896cbbeb-92b6-4f86-a6a8-d084de6dd3ff]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[atm_fast_gigabit_etherswitch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="395.5166931152344" width="400.0" x="0.0" y="3410.6539611816406"/>
@@ -376,7 +355,6 @@
     <node id="n21">
       <data key="d3" xml:space="preserve"><![CDATA[1b5e7564-9287-42c3-b4a4-2ba9a9c5e576]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[atm_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="430.0" y="3472.928436279297"/>
@@ -393,7 +371,6 @@
     <node id="n22">
       <data key="d3" xml:space="preserve"><![CDATA[6e05a5be-9f8a-46e3-9b9e-4e7fba42d8aa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[atm_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.74627685546875" width="396.5414123535156" x="0.0" y="3836.185546875"/>
@@ -410,7 +387,6 @@
     <node id="n23">
       <data key="d3" xml:space="preserve"><![CDATA[1d948a0b-f3be-40b8-aae2-7413ebf820ca]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[atm_tag_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.77606201171875" width="316.513671875" x="426.5414123535156" y="3836.170654296875"/>
@@ -427,7 +403,6 @@
     <node id="n24">
       <data key="d3" xml:space="preserve"><![CDATA[f0ac14d4-5d76-419e-ae3d-28cfe15c2b35]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[avs]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="773.0550842285156" y="3890.9099884033203"/>
@@ -444,7 +419,6 @@
     <node id="n25">
       <data key="d3" xml:space="preserve"><![CDATA[33103758-5b64-4e8b-a0cd-3c2db6c75b41]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[AXP]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="381.7204895019531" width="400.0" x="0.0" y="4275.086471557617"/>
@@ -461,7 +435,6 @@
     <node id="n26">
       <data key="d3" xml:space="preserve"><![CDATA[99def326-30d0-4490-9c1a-fc3d76d4cfa3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[bbfw]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="183.07691955566406" x="430.0" y="4265.946716308594"/>
@@ -478,7 +451,6 @@
     <node id="n27">
       <data key="d3" xml:space="preserve"><![CDATA[92539462-7296-4c8c-abbc-71c9e08b3730]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[bbfw_media]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="335.0911560058594" width="400.0" x="643.0769195556641" y="4298.401138305664"/>
@@ -495,7 +467,6 @@
     <node id="n28">
       <data key="d3" xml:space="preserve"><![CDATA[b672dc04-f61a-4ce9-aec4-7a9f1f3f6c1a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[bbsm]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="168.88755798339844" width="399.9193115234375" x="0.0" y="4811.5029373168945"/>
@@ -512,7 +483,6 @@
     <node id="n29">
       <data key="d3" xml:space="preserve"><![CDATA[e7e331bd-abae-487c-8e25-7363df1517bf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[branch_office]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.75982666015625" width="273.9192810058594" x="429.9193115234375" y="4696.066802978516"/>
@@ -529,7 +499,6 @@
     <node id="n30">
       <data key="d3" xml:space="preserve"><![CDATA[cbc6dc6d-dff2-4223-adb4-8a524eb46eaa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[breakout_box]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="237.5655059814453" x="733.8385925292969" y="4695.946716308594"/>
@@ -546,7 +515,6 @@
     <node id="n31">
       <data key="d3" xml:space="preserve"><![CDATA[bac2bbe8-bd6e-46b4-9dcf-e7ada5a7020a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[bridge]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="327.08197021484375" width="399.9999694824219" x="0.0" y="5162.405731201172"/>
@@ -563,7 +531,6 @@
     <node id="n32">
       <data key="d3" xml:space="preserve"><![CDATA[18bcbbf9-66e2-4610-a3a4-0440fc5d3f12]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[broadband_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="397.8609619140625" x="429.9999694824219" y="5125.946716308594"/>
@@ -580,7 +547,6 @@
     <node id="n33">
       <data key="d3" xml:space="preserve"><![CDATA[bb7bef70-cd52-4ba9-b0d6-451d02488e77]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[bts_10200]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.42449951171875" width="266.55999755859375" x="0.0" y="5555.946716308594"/>
@@ -597,7 +563,6 @@
     <node id="n34">
       <data key="d3" xml:space="preserve"><![CDATA[8a97d5eb-dcdb-43de-ac1d-35051defb08d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cable_modem]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="200.4254150390625" width="399.8750915527344" x="296.55999755859375" y="5655.446258544922"/>
@@ -614,7 +579,6 @@
     <node id="n35">
       <data key="d3" xml:space="preserve"><![CDATA[b815977a-a6ff-4c55-88be-a9bebc9b379e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[call_manager]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="258.6149597167969" width="400.0" x="726.4350891113281" y="5626.351486206055"/>
@@ -631,7 +595,6 @@
     <node id="n36">
       <data key="d3" xml:space="preserve"><![CDATA[a142ca53-974d-49e0-8d1d-7549e24f566e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[car]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="215.43878173828125" width="399.3983459472656" x="0.0" y="6077.651824951172"/>
@@ -648,7 +611,6 @@
     <node id="n37">
       <data key="d3" xml:space="preserve"><![CDATA[368a0087-7fb0-419b-9cce-e22ad9c66d13]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[carrier_routing_system]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="398.39569091796875" x="429.3983459472656" y="5985.3712158203125"/>
@@ -665,7 +627,6 @@
     <node id="n38">
       <data key="d3" xml:space="preserve"><![CDATA[24107f1f-cbbc-4f0c-91e0-bc6ccdc88481]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[CDDI_FDDI]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="199.06488037109375" width="399.9193115234375" x="0.0" y="6446.20637512207"/>
@@ -682,7 +643,6 @@
     <node id="n39">
       <data key="d3" xml:space="preserve"><![CDATA[b56e45e9-b569-4509-85dc-bc574344a05b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cdm]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="260.7351989746094" width="400.0" x="429.9193115234375" y="6415.3712158203125"/>
@@ -699,7 +659,6 @@
     <node id="n40">
       <data key="d3" xml:space="preserve"><![CDATA[6ef7883f-13c2-45f3-87b9-c0767cae3d82]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cellular_phone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="232.52491760253906" x="0.0" y="6706.106414794922"/>
@@ -716,7 +675,6 @@
     <node id="n41">
       <data key="d3" xml:space="preserve"><![CDATA[bd2d1578-07f1-47e9-bb5f-8b8eb25aec18]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[centri_firewall]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="278.8417663574219" x="262.52491760253906" y="6706.106414794922"/>
@@ -733,7 +691,6 @@
     <node id="n42">
       <data key="d3" xml:space="preserve"><![CDATA[da981dcf-bbaa-4c28-840f-37972ba5127d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_1000]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="361.2523498535156" width="399.2063293457031" x="571.3666839599609" y="6725.480239868164"/>
@@ -750,7 +707,6 @@
     <node id="n43">
       <data key="d3" xml:space="preserve"><![CDATA[bf208538-2fe2-4af4-99ce-38b8b4e18fd1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_asa]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="359.14544677734375" x="0.0" y="7136.106414794922"/>
@@ -767,7 +723,6 @@
     <node id="n44">
       <data key="d3" xml:space="preserve"><![CDATA[590cfca3-ab17-41ab-90e6-59b27f8b2f18]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_ca]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="344.1165771484375" width="399.9094543457031" x="389.14544677734375" y="7164.048126220703"/>
@@ -784,7 +739,6 @@
     <node id="n45">
       <data key="d3" xml:space="preserve"><![CDATA[77bcb435-5fea-4533-8c93-176e7adda1eb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_file_engine]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="0.0" y="7599.8438720703125"/>
@@ -801,7 +755,6 @@
     <node id="n46">
       <data key="d3" xml:space="preserve"><![CDATA[e167b5d5-9d65-4ba7-99bd-daad714ce6f1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_hub]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="357.7723083496094" width="399.6524963378906" x="429.7560119628906" y="7566.106414794922"/>
@@ -818,7 +771,6 @@
     <node id="n47">
       <data key="d3" xml:space="preserve"><![CDATA[e7455394-85c8-4d12-ba09-d2e4a05b93ab]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_unified_presence]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.59100341796875" width="329.3283996582031" x="0.0" y="7953.878723144531"/>
@@ -835,7 +787,6 @@
     <node id="n48">
       <data key="d3" xml:space="preserve"><![CDATA[d8ad6a66-f228-48a1-b825-4708477700e7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_unity_express]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="347.612548828125" width="400.0" x="359.3283996582031" y="7979.867950439453"/>
@@ -852,7 +803,6 @@
     <node id="n49">
       <data key="d3" xml:space="preserve"><![CDATA[65fcb451-f70b-4a63-b6dc-5999ddca66c0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cisco_security]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="359.7015075683594" width="400.0" x="789.3283996582031" y="7973.823471069336"/>
@@ -869,7 +819,6 @@
     <node id="n50">
       <data key="d3" xml:space="preserve"><![CDATA[eaf453c0-d0ed-432d-884c-1115d22b25ae]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ciscoworks]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="320.5434875488281" width="399.6220397949219" x="0.0" y="8423.096115112305"/>
@@ -886,7 +835,6 @@
     <node id="n51">
       <data key="d3" xml:space="preserve"><![CDATA[189d1f26-e7f0-4c0d-9245-7e1bef4ccb31]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[class_45_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7962646484375" width="304.52984619140625" x="429.6220397949219" y="8383.4697265625"/>
@@ -903,7 +851,6 @@
     <node id="n52">
       <data key="d3" xml:space="preserve"><![CDATA[667e892a-ffbc-42fe-978e-b342f65f1c8d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cloud]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="243.59376525878906" width="400.0" x="764.1518859863281" y="8461.570976257324"/>
@@ -920,7 +867,6 @@
     <node id="n53">
       <data key="d3" xml:space="preserve"><![CDATA[7ca905a2-54fe-4b35-ae8f-7305591e011c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[communications_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.8030700683594" width="395.876953125" x="0.0" y="8813.364456176758"/>
@@ -937,7 +883,6 @@
     <node id="n54">
       <data key="d3" xml:space="preserve"><![CDATA[1bac4ca9-b62a-48ac-9af1-9a89fd934c59]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[contact_center]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="378.8945007324219" x="425.876953125" y="8813.265991210938"/>
@@ -954,7 +899,6 @@
     <node id="n55">
       <data key="d3" xml:space="preserve"><![CDATA[e8868031-538d-4197-b8d1-89606eced486]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[content_engine]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="0.0" y="9243.265991210938"/>
@@ -971,7 +915,6 @@
     <node id="n56">
       <data key="d3" xml:space="preserve"><![CDATA[dd2a2ecc-5c2f-4da4-baf0-f579b56369a9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[content_service_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="429.7560119628906" y="9252.93081665039"/>
@@ -988,7 +931,6 @@
     <node id="n57">
       <data key="d3" xml:space="preserve"><![CDATA[b9fe761a-2030-42d5-a1fc-4115e6791177]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[content_service_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="275.272216796875" width="399.81427001953125" x="0.0" y="9625.927276611328"/>
@@ -1005,7 +947,6 @@
     <node id="n58">
       <data key="d3" xml:space="preserve"><![CDATA[95e7ea7b-dde4-492c-997a-db6c9418f3ae]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[content_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="299.8241882324219" x="429.81427001953125" y="9563.563385009766"/>
@@ -1022,7 +963,6 @@
     <node id="n59">
       <data key="d3" xml:space="preserve"><![CDATA[1ba8c7e4-57ac-4c48-8f2a-8b3104c81c7e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[content_switch_module]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="301.6101379394531" width="399.78656005859375" x="759.6384582519531" y="9612.758316040039"/>
@@ -1039,7 +979,6 @@
     <node id="n60">
       <data key="d3" xml:space="preserve"><![CDATA[569d1e18-06cf-4d46-8f58-d4f4a6c0cbd5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[content_transformation_engine]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.070068359375" width="399.81170654296875" x="0.0" y="9993.874053955078"/>
@@ -1056,7 +995,6 @@
     <node id="n61">
       <data key="d3" xml:space="preserve"><![CDATA[0c51b27a-4568-4d95-9b38-034e16f1944c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[cs_mars]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.69140625" width="399.7216491699219" x="429.81170654296875" y="9993.563385009766"/>
@@ -1073,7 +1011,6 @@
     <node id="n62">
       <data key="d3" xml:space="preserve"><![CDATA[0d2a7f38-b9fc-4176-8a0e-59602f6bbc65]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[csm_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="299.8830871582031" x="0.0" y="10290.254791259766"/>
@@ -1090,7 +1027,6 @@
     <node id="n63">
       <data key="d3" xml:space="preserve"><![CDATA[a1fb679c-59df-4e08-958d-8da11aa28bb4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[CSU_DSU]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="183.9938201904297" width="400.0" x="329.8830871582031" y="10398.25788116455"/>
@@ -1107,7 +1043,6 @@
     <node id="n64">
       <data key="d3" xml:space="preserve"><![CDATA[7b14e154-11b5-472e-964f-dd52f7d62681]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[CUBE]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="208.37721252441406" width="399.9999694824219" x="759.8830871582031" y="10386.066184997559"/>
@@ -1124,7 +1059,6 @@
     <node id="n65">
       <data key="d3" xml:space="preserve"><![CDATA[8b37caed-cbdb-4561-8572-d233c13d28de]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[detector]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="285.82958984375" width="400.0" x="0.0" y="10741.786392211914"/>
@@ -1141,7 +1075,6 @@
     <node id="n66">
       <data key="d3" xml:space="preserve"><![CDATA[611217a0-f54f-461a-9106-bc091568f166]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[directory_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="328.8927917480469" width="399.541748046875" x="430.0" y="10720.254791259766"/>
@@ -1158,7 +1091,6 @@
     <node id="n67">
       <data key="d3" xml:space="preserve"><![CDATA[77bd1e9a-ce26-499e-8ba2-40fb43385c50]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[diskette]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="377.1653747558594" width="399.839111328125" x="0.0" y="11079.147583007812"/>
@@ -1175,7 +1107,6 @@
     <node id="n68">
       <data key="d3" xml:space="preserve"><![CDATA[c14f16b5-80f9-47d3-94df-4b1254e94aef]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[distributed_director]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="429.839111328125" y="11122.581573486328"/>
@@ -1192,7 +1123,6 @@
     <node id="n69">
       <data key="d3" xml:space="preserve"><![CDATA[f6da1f3b-2885-42ce-891e-40936fdfe180]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[dot_dot]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="45.32577896118164" width="400.0" x="0.0" y="11564.38152885437"/>
@@ -1209,7 +1139,6 @@
     <node id="n70">
       <data key="d3" xml:space="preserve"><![CDATA[3e6572c1-ce7f-48fc-af68-97b44674b6a5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[DPT]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.46292114257812" width="400.0" x="430.0" y="11486.312957763672"/>
@@ -1226,7 +1155,6 @@
     <node id="n71">
       <data key="d3" xml:space="preserve"><![CDATA[61c3077b-95fc-44d1-98b4-b32c36d8b50c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[dslam]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.20635986328125" width="361.1701965332031" x="0.0" y="11717.77587890625"/>
@@ -1243,7 +1171,6 @@
     <node id="n72">
       <data key="d3" xml:space="preserve"><![CDATA[e47bbf16-ad00-4cbb-b55f-3ab4c087fab0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[dual_mode_ap]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="282.6210021972656" width="399.7491760253906" x="391.1701965332031" y="11776.068557739258"/>
@@ -1260,7 +1187,6 @@
     <node id="n73">
       <data key="d3" xml:space="preserve"><![CDATA[e6d05576-d14f-4e30-be30-e0a62bf3983c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[dwdm_filter]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="281.97674560546875" x="0.0" y="12146.982238769531"/>
@@ -1277,7 +1203,6 @@
     <node id="n74">
       <data key="d3" xml:space="preserve"><![CDATA[fb8735bd-4b1c-4c1a-ba88-02a83ce54bdc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[end_office]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="395.4092712402344" width="396.39593505859375" x="311.97674560546875" y="12149.277603149414"/>
@@ -1294,7 +1219,6 @@
     <node id="n75">
       <data key="d3" xml:space="preserve"><![CDATA[347366a7-bee0-4548-8418-4eaddf7268ef]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[fax]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="191.547119140625" width="400.0" x="738.3726806640625" y="12251.208679199219"/>
@@ -1311,7 +1235,6 @@
     <node id="n76">
       <data key="d3" xml:space="preserve"><![CDATA[4af8e774-6ad7-47a4-a1d5-0769e627ba09]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[fc_storage]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="232.7707061767578" width="399.62652587890625" x="0.0" y="12576.982238769531"/>
@@ -1328,7 +1251,6 @@
     <node id="n77">
       <data key="d3" xml:space="preserve"><![CDATA[dbeff7ff-1dff-4a8b-99f3-0b41919e5595]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[FDDI_ring]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="143.19065856933594" width="400.0" x="429.62652587890625" y="12621.772262573242"/>
@@ -1345,7 +1267,6 @@
     <node id="n78">
       <data key="d3" xml:space="preserve"><![CDATA[82f9bf40-ed79-4f52-b5af-647edc9dd7d5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[fibre_channel_director]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="304.6534729003906" x="0.0" y="12839.752944946289"/>
@@ -1362,7 +1283,6 @@
     <node id="n79">
       <data key="d3" xml:space="preserve"><![CDATA[af8bd62a-2ec3-4509-a957-436687539e4c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[fibre_channel_disk_subsystem]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="279.1054992675781" x="334.6534729003906" y="12839.752944946289"/>
@@ -1379,7 +1299,6 @@
     <node id="n80">
       <data key="d3" xml:space="preserve"><![CDATA[30424004-83e0-46cf-aebd-c8fc2993712c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[fibre_channel_fabric_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="294.13519287109375" width="399.9193115234375" x="643.7589721679688" y="12892.685348510742"/>
@@ -1396,7 +1315,6 @@
     <node id="n81">
       <data key="d3" xml:space="preserve"><![CDATA[895d1d73-482f-4b21-a68d-6930df2de67c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[file_cabinet]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="325.2867736816406" x="0.0" y="13269.752944946289"/>
@@ -1413,7 +1331,6 @@
     <node id="n82">
       <data key="d3" xml:space="preserve"><![CDATA[827e797a-d2cb-43b0-8ede-64448389a6c7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[file_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7030029296875" width="302.7026672363281" x="355.2867736816406" y="13269.901443481445"/>
@@ -1430,7 +1347,6 @@
     <node id="n83">
       <data key="d3" xml:space="preserve"><![CDATA[eb415ae8-1854-416f-ba90-ce1d470539b6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[fileserver]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="278.8417663574219" x="687.9894409179688" y="13269.752944946289"/>
@@ -1447,7 +1363,6 @@
     <node id="n84">
       <data key="d3" xml:space="preserve"><![CDATA[c586f088-3dbb-4365-80ab-0bb94a12017c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[firewall]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="182.31947326660156" x="0.0" y="13699.752944946289"/>
@@ -1464,7 +1379,6 @@
     <node id="n85">
       <data key="d3" xml:space="preserve"><![CDATA[41a15bae-a4ad-4ecc-a1e3-f797f4926da8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[firewall_service_module_fwsm]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="251.0303955078125" x="212.31947326660156" y="13699.752944946289"/>
@@ -1481,7 +1395,6 @@
     <node id="n86">
       <data key="d3" xml:space="preserve"><![CDATA[d59d0665-0f76-4b6f-aa5b-98ccece0d567]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[front_end_processor]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7249755859375" width="329.9854736328125" x="493.34986877441406" y="13699.89045715332"/>
@@ -1498,7 +1411,6 @@
     <node id="n87">
       <data key="d3" xml:space="preserve"><![CDATA[6f88e0a8-813b-4957-bd71-a30aec0c7efc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[gatekeeper]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="296.7234191894531" width="400.0" x="0.0" y="14163.343200683594"/>
@@ -1515,7 +1427,6 @@
     <node id="n88">
       <data key="d3" xml:space="preserve"><![CDATA[a39f34f2-ba22-4399-bf3a-8a3150b02506]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[general_appliance]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="363.9039306640625" width="399.9279479980469" x="430.0" y="14129.752944946289"/>
@@ -1532,7 +1443,6 @@
     <node id="n89">
       <data key="d3" xml:space="preserve"><![CDATA[aefa7cb1-2c61-42cb-908e-6171cc0c03a6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[generic_building]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="266.3530578613281" x="0.0" y="14523.656875610352"/>
@@ -1549,7 +1459,6 @@
     <node id="n90">
       <data key="d3" xml:space="preserve"><![CDATA[91bd0355-c494-4939-b998-776081a2051b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[generic_gateway]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="358.25103759765625" x="296.3530578613281" y="14523.656875610352"/>
@@ -1566,7 +1475,6 @@
     <node id="n91">
       <data key="d3" xml:space="preserve"><![CDATA[aa53c20b-412a-477f-b1ca-3556f62d5009]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[generic_processor]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.65814208984375" width="282.0989685058594" x="684.6040954589844" y="14523.82780456543"/>
@@ -1583,7 +1491,6 @@
     <node id="n92">
       <data key="d3" xml:space="preserve"><![CDATA[b4cbc4c2-4b59-4e78-bf0c-a9bc384be82e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[generic_softswitch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="267.2912902832031" x="0.0" y="14953.656875610352"/>
@@ -1600,7 +1507,6 @@
     <node id="n93">
       <data key="d3" xml:space="preserve"><![CDATA[c450709c-e882-4164-9900-0907b0bb3539]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[gigabit_switch_atm_tag_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="397.8609619140625" x="297.2912902832031" y="14953.656875610352"/>
@@ -1617,7 +1523,6 @@
     <node id="n94">
       <data key="d3" xml:space="preserve"><![CDATA[d61c813e-cef2-403f-b9fb-9ae315cdd89e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[government_building]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="291.1534423828125" width="400.0" x="725.1522521972656" y="15008.080154418945"/>
@@ -1634,7 +1539,6 @@
     <node id="n95">
       <data key="d3" xml:space="preserve"><![CDATA[772f589c-cac1-4559-80c7-ffb34c29144d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Grount_terminal]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="329.0829772949219" x="0.0" y="15383.656875610352"/>
@@ -1651,7 +1555,6 @@
     <node id="n96">
       <data key="d3" xml:space="preserve"><![CDATA[22c0f4de-9f31-49d3-8df6-7d5994206062]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[guard]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="252.52247619628906" width="400.0" x="359.0829772949219" y="15457.395637512207"/>
@@ -1668,7 +1571,6 @@
     <node id="n97">
       <data key="d3" xml:space="preserve"><![CDATA[35882a82-30b1-46cd-815d-b2ea8a5f8bb2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[H323]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="393.3784484863281" width="399.7276306152344" x="789.0829772949219" y="15386.967651367188"/>
@@ -1685,7 +1587,6 @@
     <node id="n98">
       <data key="d3" xml:space="preserve"><![CDATA[7ba7af3a-7678-49a8-908b-b8a923b7e6c3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[handheld]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="222.33543395996094" width="399.6161193847656" x="0.0" y="15851.856086730957"/>
@@ -1702,7 +1603,6 @@
     <node id="n99">
       <data key="d3" xml:space="preserve"><![CDATA[85f2512b-bb4b-497b-8033-9bb3824738b3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[hootphone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="298.7338562011719" width="399.7376708984375" x="429.6161193847656" y="15813.656875610352"/>
@@ -1719,7 +1619,6 @@
     <node id="n100">
       <data key="d3" xml:space="preserve"><![CDATA[9e05afd6-d0a6-4c32-aa7f-cab4f9bd5fbf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[host]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="205.27490234375" width="400.0" x="0.0" y="16239.625"/>
@@ -1736,7 +1635,6 @@
     <node id="n101">
       <data key="d3" xml:space="preserve"><![CDATA[42f93fd3-8190-4810-a020-9f7161415f0e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[hp_mini]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7434387207031" width="366.84625244140625" x="430.0" y="16142.390731811523"/>
@@ -1753,7 +1651,6 @@
     <node id="n102">
       <data key="d3" xml:space="preserve"><![CDATA[ddb12993-c05b-4e20-970e-87ab069a3ded]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[hub]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="357.7723083496094" width="399.6524963378906" x="0.0" y="16572.134170532227"/>
@@ -1770,7 +1667,6 @@
     <node id="n103">
       <data key="d3" xml:space="preserve"><![CDATA[69b92022-b885-4811-a4ee-b60aeb2556aa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[IAD_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="429.6524963378906" y="16615.53645324707"/>
@@ -1787,7 +1683,6 @@
     <node id="n104">
       <data key="d3" xml:space="preserve"><![CDATA[e6eaa9c4-0288-4142-8ab6-496f457f9efa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ibm_mainframe]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.9619445800781" width="284.5328369140625" x="0.0" y="16959.925506591797"/>
@@ -1804,7 +1699,6 @@
     <node id="n105">
       <data key="d3" xml:space="preserve"><![CDATA[9eb6066f-74d9-4f77-98e0-2b7f253fb279]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ibm_mini_as400]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="280.123046875" x="314.5328369140625" y="16959.906478881836"/>
@@ -1821,7 +1715,6 @@
     <node id="n106">
       <data key="d3" xml:space="preserve"><![CDATA[b1783483-5a1e-47f6-b107-fff20ddb425b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ibm_tower]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.6352844238281" width="222.15371704101562" x="624.6558837890625" y="16960.088836669922"/>
@@ -1838,7 +1731,6 @@
     <node id="n107">
       <data key="d3" xml:space="preserve"><![CDATA[adf5b36a-f1ab-4f93-8934-1a27a56f305e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ICM]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="198.65013122558594" x="0.0" y="17389.906478881836"/>
@@ -1855,7 +1747,6 @@
     <node id="n108">
       <data key="d3" xml:space="preserve"><![CDATA[ebc53114-3464-46fe-b5e8-225ed1f4d038]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ICS]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.5450439453125" width="372.3630676269531" x="228.65013122558594" y="17390.13395690918"/>
@@ -1872,7 +1763,6 @@
     <node id="n109">
       <data key="d3" xml:space="preserve"><![CDATA[cba91e18-13ec-4744-a504-1271a5f44047]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[intelliswitch_stack]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.6659851074219" width="378.41571044921875" x="631.0131988525391" y="17390.073486328125"/>
@@ -1889,7 +1779,6 @@
     <node id="n110">
       <data key="d3" xml:space="preserve"><![CDATA[3ea3f49c-d749-40e2-807b-27afaca10cde]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[internet_streamer]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="273.3045349121094" width="399.8233337402344" x="0.0" y="17883.145446777344"/>
@@ -1906,7 +1795,6 @@
     <node id="n111">
       <data key="d3" xml:space="preserve"><![CDATA[0df22858-727b-450d-9f5c-d0a9628262eb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ios_firewall]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.782470703125" width="250.19493103027344" x="429.8233337402344" y="17819.906478881836"/>
@@ -1923,7 +1811,6 @@
     <node id="n112">
       <data key="d3" xml:space="preserve"><![CDATA[4226ff53-1011-44b4-802f-3e590c4b3284]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ios_slb]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.21974182128906" width="399.9178466796875" x="710.0182647705078" y="17919.187843322754"/>
@@ -1940,7 +1827,6 @@
     <node id="n113">
       <data key="d3" xml:space="preserve"><![CDATA[ba7b1e13-38d3-4694-94af-3e659b679272]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ip]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="352.9109191894531" x="0.0" y="18249.68894958496"/>
@@ -1957,7 +1843,6 @@
     <node id="n114">
       <data key="d3" xml:space="preserve"><![CDATA[3df17b17-b274-4199-86df-8dd94f7f5182]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ip_communicator]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="220.73049926757812" width="400.0" x="382.9109191894531" y="18339.323699951172"/>
@@ -1974,7 +1859,6 @@
     <node id="n115">
       <data key="d3" xml:space="preserve"><![CDATA[f80a7875-adfe-469d-aa73-b0395e300da6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ip_dsl]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="357.70928955078125" width="400.0" x="0.0" y="18679.68894958496"/>
@@ -1991,7 +1875,6 @@
     <node id="n116">
       <data key="d3" xml:space="preserve"><![CDATA[e1ec3ba4-6ebe-4e07-b081-5bffd1be8ba5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ip_phone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="224.4385223388672" width="399.8255920410156" x="430.0" y="18746.324333190918"/>
@@ -2008,7 +1891,6 @@
     <node id="n117">
       <data key="d3" xml:space="preserve"><![CDATA[f7ef3162-25ca-4262-841a-c044e9ba01dc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ip_telephony_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="351.6129150390625" width="400.0" x="0.0" y="19067.398239135742"/>
@@ -2025,7 +1907,6 @@
     <node id="n118">
       <data key="d3" xml:space="preserve"><![CDATA[9c17ec06-e52e-4ee0-be47-c2a30a14bf3f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[iptc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.51524353027344" width="399.93157958984375" x="430.0" y="19130.447074890137"/>
@@ -2042,7 +1923,6 @@
     <node id="n119">
       <data key="d3" xml:space="preserve"><![CDATA[34d73dc9-0bb4-4bbe-b9f9-8018612a2ae1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[iptv_content_manager]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="267.2345275878906" width="400.0" x="0.0" y="19449.011154174805"/>
@@ -2059,7 +1939,6 @@
     <node id="n120">
       <data key="d3" xml:space="preserve"><![CDATA[616ec9ec-d1ef-4423-b99e-9866d021c74d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[iptv_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.1149597167969" width="400.0" x="430.0" y="19449.57093811035"/>
@@ -2076,7 +1955,6 @@
     <node id="n121">
       <data key="d3" xml:space="preserve"><![CDATA[7dec2f00-f486-43a5-8e3c-a70df9318eac]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[iscsi_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="301.33489990234375" width="399.9193115234375" x="0.0" y="19795.38136291504"/>
@@ -2093,7 +1971,6 @@
     <node id="n122">
       <data key="d3" xml:space="preserve"><![CDATA[afa22945-d20b-4dde-b05d-b1622ba64bf5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[isdn_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.60626220703125" width="395.6376953125" x="429.9193115234375" y="19746.245681762695"/>
@@ -2110,7 +1987,6 @@
     <node id="n123">
       <data key="d3" xml:space="preserve"><![CDATA[762fadf1-587d-4e9f-a380-69970442ab2a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ITP]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9632568359375" width="400.0" x="0.0" y="20240.23341369629"/>
@@ -2127,7 +2003,6 @@
     <node id="n124">
       <data key="d3" xml:space="preserve"><![CDATA[3c20d17e-8759-4756-a1c7-b8cb1f3c9fcf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[jbod]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7261962890625" width="196.04901123046875" x="430.0" y="20175.851943969727"/>
@@ -2144,7 +2019,6 @@
     <node id="n125">
       <data key="d3" xml:space="preserve"><![CDATA[1bd1cfc3-16d4-4cc1-8a3c-754a34f3abfa]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[key]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="186.77685546875" width="400.0" x="656.0490112304688" y="20282.326614379883"/>
@@ -2161,7 +2035,6 @@
     <node id="n126">
       <data key="d3" xml:space="preserve"><![CDATA[f2e30f3c-c9bd-4995-83ae-b1d8739f0b06]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[keys]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.5829162597656" width="294.0563049316406" x="0.0" y="20605.687728881836"/>
@@ -2178,7 +2051,6 @@
     <node id="n127">
       <data key="d3" xml:space="preserve"><![CDATA[ca0d8445-39ee-4dc5-ac66-ea26ad0efb73]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[lan_to_lan]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.8020935058594" width="396.1780700683594" x="324.0563049316406" y="20605.57814025879"/>
@@ -2195,7 +2067,6 @@
     <node id="n128">
       <data key="d3" xml:space="preserve"><![CDATA[5a6c14cf-a925-4c9a-8d71-d64c051c097e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[laptop]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="275.11126708984375" width="399.6568908691406" x="750.234375" y="20667.923553466797"/>
@@ -2212,7 +2083,6 @@
     <node id="n129">
       <data key="d3" xml:space="preserve"><![CDATA[b05393e3-322d-4c9d-8366-7d32a1640194]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[layer_2_remote_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="198.63150024414062" width="399.93157958984375" x="0.0" y="21134.529861450195"/>
@@ -2229,7 +2099,6 @@
     <node id="n130">
       <data key="d3" xml:space="preserve"><![CDATA[e4fae9af-7c5c-4918-b69a-839145331247]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[layer_3_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="396.9307556152344" width="399.7800598144531" x="429.93157958984375" y="21035.38023376465"/>
@@ -2246,7 +2115,6 @@
     <node id="n131">
       <data key="d3" xml:space="preserve"><![CDATA[e3c32b88-5a5c-43b6-83cc-f307df379033]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[lightweight_ap]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.51524353027344" width="399.93157958984375" x="0.0" y="21482.795585632324"/>
@@ -2263,7 +2131,6 @@
     <node id="n132">
       <data key="d3" xml:space="preserve"><![CDATA[a0fde1a6-31a9-4f72-91e8-87930a14c5b0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[local_director]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.48443603515625" width="399.6952819824219" x="429.93157958984375" y="21462.310989379883"/>
@@ -2280,7 +2147,6 @@
     <node id="n133">
       <data key="d3" xml:space="preserve"><![CDATA[1c4e7826-d303-437b-804a-96a622ca4bbe]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[lock]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7673645019531" width="352.07708740234375" x="0.0" y="21758.79542541504"/>
@@ -2297,7 +2163,6 @@
     <node id="n134">
       <data key="d3" xml:space="preserve"><![CDATA[cc20bd24-196f-4a81-9985-404a345461c9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[longreach_cpe]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="376.9710998535156" width="400.0" x="382.07708740234375" y="21770.193557739258"/>
@@ -2314,7 +2179,6 @@
     <node id="n135">
       <data key="d3" xml:space="preserve"><![CDATA[960a303e-220a-418e-a557-1114b4629e04]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mac_woman]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="255.76547241210938" x="0.0" y="22188.562789916992"/>
@@ -2331,7 +2195,6 @@
     <node id="n136">
       <data key="d3" xml:space="preserve"><![CDATA[043c7025-2dfb-424a-8c87-eb47951f9d84]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[machintosh]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="284.80303955078125" width="399.9993591308594" x="285.7654724121094" y="22246.1612701416"/>
@@ -2348,7 +2211,6 @@
     <node id="n137">
       <data key="d3" xml:space="preserve"><![CDATA[e37e1681-7c24-49d8-a6c5-b169403152d5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[man_woman]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.99993896484375" width="273.6120910644531" x="715.7648315429688" y="22188.56282043457"/>
@@ -2365,7 +2227,6 @@
     <node id="n138">
       <data key="d3" xml:space="preserve"><![CDATA[295bd512-b0c9-435e-9385-0c8754339fdc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mas_gateway]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.60626220703125" width="395.6376953125" x="0.0" y="22618.562789916992"/>
@@ -2382,7 +2243,6 @@
     <node id="n139">
       <data key="d3" xml:space="preserve"><![CDATA[45fd9fb1-c070-4d39-ad00-42cd7147f20f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mau]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="130.1540069580078" width="399.9031982421875" x="425.6376953125" y="22753.288917541504"/>
@@ -2399,7 +2259,6 @@
     <node id="n140">
       <data key="d3" xml:space="preserve"><![CDATA[04732907-900f-4dcd-a6b1-961a4267639e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mcu]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7838439941406" width="335.748046875" x="0.0" y="23048.25161743164"/>
@@ -2416,7 +2275,6 @@
     <node id="n141">
       <data key="d3" xml:space="preserve"><![CDATA[f0ae5f4f-db8b-490c-a354-719185033de5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mdu]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.948974609375" width="324.8118896484375" x="365.748046875" y="23048.169052124023"/>
@@ -2433,7 +2291,6 @@
     <node id="n142">
       <data key="d3" xml:space="preserve"><![CDATA[b87a4d72-aa18-4acf-a37b-2fc9be6537f7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[me_1100]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="215.2119598388672" width="399.9004821777344" x="720.5599365234375" y="23140.537559509277"/>
@@ -2450,7 +2307,6 @@
     <node id="n143">
       <data key="d3" xml:space="preserve"><![CDATA[4b127c2c-13dc-4e1e-9c4c-77cd80024823]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Mediator]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="362.71942138671875" x="0.0" y="23478.1180267334"/>
@@ -2467,7 +2323,6 @@
     <node id="n144">
       <data key="d3" xml:space="preserve"><![CDATA[352181f7-3bf8-4192-a553-98027865e37d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[meeting_place]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7838439941406" width="248.81182861328125" x="392.71942138671875" y="23478.226104736328"/>
@@ -2484,7 +2339,6 @@
     <node id="n145">
       <data key="d3" xml:space="preserve"><![CDATA[4ace6d3c-ec64-4916-b220-9ced65e6016c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mesh_ap]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.51524353027344" width="399.93157958984375" x="671.53125" y="23565.36040496826"/>
@@ -2501,7 +2355,6 @@
     <node id="n146">
       <data key="d3" xml:space="preserve"><![CDATA[c1baa592-b951-4107-8331-8c7f3f83ed1f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[metro_1500]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="357.7723083496094" width="399.6524963378906" x="0.0" y="23929.231872558594"/>
@@ -2518,7 +2371,6 @@
     <node id="n147">
       <data key="d3" xml:space="preserve"><![CDATA[eaeacae8-2b72-434e-bd6d-0da253058c4b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mgx_8000_multiservice_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="397.8609619140625" x="429.6524963378906" y="23908.1180267334"/>
@@ -2535,7 +2387,6 @@
     <node id="n148">
       <data key="d3" xml:space="preserve"><![CDATA[09f01c2e-9798-47f2-8a49-bfb85afaacf7]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[microphone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="337.0455322265625" x="0.0" y="24338.1180267334"/>
@@ -2552,7 +2403,6 @@
     <node id="n149">
       <data key="d3" xml:space="preserve"><![CDATA[30738fbf-d26f-4dca-bd92-091627f4718f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[microwebserver]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="271.2142028808594" width="400.0" x="367.0455322265625" y="24402.51092529297"/>
@@ -2569,7 +2419,6 @@
     <node id="n150">
       <data key="d3" xml:space="preserve"><![CDATA[81f1e900-1206-4ba3-b8c5-6ec95bf1e28e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mini_vax]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="357.7422790527344" width="399.6325378417969" x="797.0455322265625" y="24359.24688720703"/>
@@ -2586,7 +2435,6 @@
     <node id="n151">
       <data key="d3" xml:space="preserve"><![CDATA[62233b17-b3c4-4ef0-8369-879aee6662ab]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mobile_access_ip_phone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="357.8634338378906" width="400.0" x="0.0" y="24768.1180267334"/>
@@ -2603,7 +2451,6 @@
     <node id="n152">
       <data key="d3" xml:space="preserve"><![CDATA[0851d216-23ea-4b70-acb9-205efb168c0a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mobile_access_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="241.6692352294922" width="400.0" x="430.0" y="24826.215126037598"/>
@@ -2620,7 +2467,6 @@
     <node id="n153">
       <data key="d3" xml:space="preserve"><![CDATA[c220bd20-73ed-4dda-a152-85cc16526237]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[modem]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="150.9257049560547" width="399.918212890625" x="0.0" y="25280.247535705566"/>
@@ -2637,7 +2483,6 @@
     <node id="n154">
       <data key="d3" xml:space="preserve"><![CDATA[80484e74-00e5-43ec-a03c-a4da68476d71]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[moh_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.4578552246094" width="279.8575439453125" x="429.918212890625" y="25155.98146057129"/>
@@ -2654,7 +2499,6 @@
     <node id="n155">
       <data key="d3" xml:space="preserve"><![CDATA[8fc6837e-7b49-47e8-bce6-73f62b9415f2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[MSE]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.90086364746094" width="400.0" x="739.7757568359375" y="25242.759956359863"/>
@@ -2671,7 +2515,6 @@
     <node id="n156">
       <data key="d3" xml:space="preserve"><![CDATA[e1a18dd3-0ccc-4db5-a253-0f1f7e00a3e3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[multiswitch_device]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="258.71197509765625" width="399.93157958984375" x="0.0" y="25656.08332824707"/>
@@ -2688,7 +2531,6 @@
     <node id="n157">
       <data key="d3" xml:space="preserve"><![CDATA[f3d109a8-e419-4b3e-a8bd-d955cce158d8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[multi_fabric_server_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="298.3861083984375" x="429.93157958984375" y="25585.4393157959"/>
@@ -2705,7 +2547,6 @@
     <node id="n158">
       <data key="d3" xml:space="preserve"><![CDATA[e853ed4c-b73c-42f3-90c8-c42033228950]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[multilayer_remote_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7888488769531" width="298.4566345214844" x="758.3176879882812" y="25585.544891357422"/>
@@ -2722,7 +2563,6 @@
     <node id="n159">
       <data key="d3" xml:space="preserve"><![CDATA[07939f85-1609-4fe8-b7d2-dbe3511ee72b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[mux]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="302.2947998046875" width="399.7984313964844" x="0.0" y="26064.06201171875"/>
@@ -2739,7 +2579,6 @@
     <node id="n160">
       <data key="d3" xml:space="preserve"><![CDATA[3511246d-f9d2-4875-82bf-342e20b36640]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[MXE]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.5401916503906" width="384.1297912597656" x="429.7984313964844" y="26015.4393157959"/>
@@ -2756,7 +2595,6 @@
     <node id="n161">
       <data key="d3" xml:space="preserve"><![CDATA[54a6cb6b-5abd-4aa7-8b57-8f569fd66d3b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[nac_appliance]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="310.4395751953125" width="400.0" x="0.0" y="26444.97950744629"/>
@@ -2773,7 +2611,6 @@
     <node id="n162">
       <data key="d3" xml:space="preserve"><![CDATA[7dd1b428-76b9-4583-9ba2-481043c97bcd]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[NCE]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="430.0" y="26455.05059814453"/>
@@ -2790,7 +2627,6 @@
     <node id="n163">
       <data key="d3" xml:space="preserve"><![CDATA[0ca8a05b-130f-4ee0-ad47-a5715e82588e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[NCE_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="0.0" y="26785.4190826416"/>
@@ -2807,7 +2643,6 @@
     <node id="n164">
       <data key="d3" xml:space="preserve"><![CDATA[0d9dcb08-c02e-4b9b-9545-470780b80c24]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[netflow_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="265.93408203125" width="400.0" x="430.0" y="26787.935913085938"/>
@@ -2824,7 +2659,6 @@
     <node id="n165">
       <data key="d3" xml:space="preserve"><![CDATA[a7d9d6cf-b23a-493b-b5d8-a8c51c1db081]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[netranger]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="273.8414001464844" width="400.0" x="0.0" y="27086.386825561523"/>
@@ -2841,7 +2675,6 @@
     <node id="n166">
       <data key="d3" xml:space="preserve"><![CDATA[63c508e5-dc36-47e7-8d85-a418adeec26e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[netsonar]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="271.7219543457031" width="400.0" x="430.0" y="27087.446548461914"/>
@@ -2858,7 +2691,6 @@
     <node id="n167">
       <data key="d3" xml:space="preserve"><![CDATA[2238ed76-97cb-455c-a139-bcc7c8c4f207]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[network_management]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="364.2734069824219" width="400.0" x="0.0" y="27390.228225708008"/>
@@ -2875,7 +2707,6 @@
     <node id="n168">
       <data key="d3" xml:space="preserve"><![CDATA[28462b47-20e3-4121-adad-4cb2e6503def]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Nexus_1000]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="430.0" y="27427.216232299805"/>
@@ -2892,7 +2723,6 @@
     <node id="n169">
       <data key="d3" xml:space="preserve"><![CDATA[18047797-40e8-44b9-9deb-e46b42457503]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Nexus_2000]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.10240173339844" width="399.9193115234375" x="0.0" y="27784.50163269043"/>
@@ -2909,7 +2739,6 @@
     <node id="n170">
       <data key="d3" xml:space="preserve"><![CDATA[dc3d5e2d-043e-4286-bda4-02ee87864145]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Nexus_5000]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="196.80323791503906" width="399.93157958984375" x="429.9193115234375" y="27786.65121459961"/>
@@ -2926,7 +2755,6 @@
     <node id="n171">
       <data key="d3" xml:space="preserve"><![CDATA[fc845563-5512-46de-b182-22c86d3c369e]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Nexus_7000]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="298.3159484863281" x="0.0" y="28015.604034423828"/>
@@ -2943,7 +2771,6 @@
     <node id="n172">
       <data key="d3" xml:space="preserve"><![CDATA[d8e640a2-ed44-4700-af02-8788f42cb4e5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[octel]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="338.5507507324219" width="399.7187805175781" x="328.3159484863281" y="28046.328659057617"/>
@@ -2960,7 +2787,6 @@
     <node id="n173">
       <data key="d3" xml:space="preserve"><![CDATA[c57248a1-2d4d-42ae-913b-ab210be8b666]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ons15500]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="372.9150695800781" width="399.7413024902344" x="758.0347290039062" y="28029.14649963379"/>
@@ -2977,7 +2803,6 @@
     <node id="n174">
       <data key="d3" xml:space="preserve"><![CDATA[9ec2559e-3221-4a5b-8db3-347f251db952]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[optical_amplifier]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="302.3778381347656" width="400.0" x="0.0" y="28467.99464416504"/>
@@ -2994,7 +2819,6 @@
     <node id="n175">
       <data key="d3" xml:space="preserve"><![CDATA[7e93c00d-f4b9-4c7e-af09-fd9da5362752]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[optical_service_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="347.1590576171875" width="399.7853698730469" x="430.0" y="28445.604034423828"/>
@@ -3011,7 +2835,6 @@
     <node id="n176">
       <data key="d3" xml:space="preserve"><![CDATA[dc9694ba-ff95-46db-aa7e-e5173f8b9f76]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[optical_transport]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="397.29364013671875" x="0.0" y="28822.763092041016"/>
@@ -3028,7 +2851,6 @@
     <node id="n177">
       <data key="d3" xml:space="preserve"><![CDATA[4103cefb-788d-4b2d-b80e-732d1bbd5b46]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pad]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="231.8528594970703" width="400.0" x="427.29364013671875" y="28906.83666229248"/>
@@ -3045,7 +2867,6 @@
     <node id="n178">
       <data key="d3" xml:space="preserve"><![CDATA[c36c043d-83c6-478a-89a1-9e5c9862cedb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pad_x28]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="324.3636474609375" width="400.0" x="0.0" y="29290.581268310547"/>
@@ -3062,7 +2883,6 @@
     <node id="n179">
       <data key="d3" xml:space="preserve"><![CDATA[3e9b783b-14d1-405a-9c62-5f063b8788bb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[page_icon]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="282.716064453125" x="430.0" y="29252.763092041016"/>
@@ -3079,7 +2899,6 @@
     <node id="n180">
       <data key="d3" xml:space="preserve"><![CDATA[40f89824-508b-4977-9c15-22a8901d5bcc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pbx_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.5200500488281" width="392.6580810546875" x="742.716064453125" y="29253.0030670166"/>
@@ -3096,7 +2915,6 @@
     <node id="n181">
       <data key="d3" xml:space="preserve"><![CDATA[1197a3e1-8abb-4ab2-a2e4-63acf7a58185]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pbx]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="365.0048522949219" width="399.7566223144531" x="0.0" y="29682.763092041016"/>
@@ -3113,7 +2931,6 @@
     <node id="n182">
       <data key="d3" xml:space="preserve"><![CDATA[0b724c14-fe77-4b5d-9b3b-22921b555613]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="359.751220703125" width="400.0" x="429.7566223144531" y="29685.389907836914"/>
@@ -3130,7 +2947,6 @@
     <node id="n183">
       <data key="d3" xml:space="preserve"><![CDATA[abdfcbf9-d76a-42bf-95c0-15f3b93c5d4d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pc_adapter_card]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="299.8241882324219" x="0.0" y="30077.767944335938"/>
@@ -3147,7 +2963,6 @@
     <node id="n184">
       <data key="d3" xml:space="preserve"><![CDATA[df32e2ac-e771-4d8a-9e91-cb7909c05b3f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pc_man]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="284.1602478027344" x="329.8241882324219" y="30077.767944335938"/>
@@ -3164,7 +2979,6 @@
     <node id="n185">
       <data key="d3" xml:space="preserve"><![CDATA[a5cf7608-8cd5-43b9-ace6-ac50ad6e1071]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pc_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="359.7015075683594" width="400.0" x="643.9844360351562" y="30097.917190551758"/>
@@ -3181,7 +2995,6 @@
     <node id="n186">
       <data key="d3" xml:space="preserve"><![CDATA[b0000d6b-1e67-45ed-b407-8332bd1d23a1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pc_software]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="379.4974365234375" width="400.0" x="0.0" y="30507.767944335938"/>
@@ -3198,7 +3011,6 @@
     <node id="n187">
       <data key="d3" xml:space="preserve"><![CDATA[319e469b-f51d-4871-86cd-5263429acedc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pc_video]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="347.2658386230469" width="399.80853271484375" x="430.0" y="30523.883743286133"/>
@@ -3215,7 +3027,6 @@
     <node id="n188">
       <data key="d3" xml:space="preserve"><![CDATA[28cc1d7b-aea1-45f4-9972-b70d56af6fbc]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[phone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="299.56005859375" width="399.7376708984375" x="0.0" y="30917.265380859375"/>
@@ -3232,7 +3043,6 @@
     <node id="n189">
       <data key="d3" xml:space="preserve"><![CDATA[16b7ab76-ea30-4f73-9a26-b7f6d2d824ec]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[phone_fax]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="181.44366455078125" width="399.8412780761719" x="429.7376708984375" y="30976.32357788086"/>
@@ -3249,7 +3059,6 @@
     <node id="n190">
       <data key="d3" xml:space="preserve"><![CDATA[26a41d5f-6985-4bbf-875c-ccaeb55dafb6]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pix_firewall]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.6849365234375" width="400.0" x="0.0" y="31246.825439453125"/>
@@ -3266,7 +3075,6 @@
     <node id="n191">
       <data key="d3" xml:space="preserve"><![CDATA[7b4c13dd-a572-4a7c-936e-60b1c489100a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pmc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="252.99966430664062" width="400.0" x="430.0" y="31255.668075561523"/>
@@ -3283,7 +3091,6 @@
     <node id="n192">
       <data key="d3" xml:space="preserve"><![CDATA[6e531544-732d-4d1f-873f-70cfa8b699c9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[printer]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="156.6488800048828" width="399.84130859375" x="0.0" y="31669.0874710083"/>
@@ -3300,7 +3107,6 @@
     <node id="n193">
       <data key="d3" xml:space="preserve"><![CDATA[6ab60ede-b898-4026-aa6f-8bc1d622ae02]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[programmable_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.8030700683594" width="395.876953125" x="429.84130859375" y="31547.510375976562"/>
@@ -3317,7 +3123,6 @@
     <node id="n194">
       <data key="d3" xml:space="preserve"><![CDATA[fd14fa84-46f1-480f-91e6-4825f7316472]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[protocol_translator]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="266.8740234375" x="0.0" y="31977.313446044922"/>
@@ -3334,7 +3139,6 @@
     <node id="n195">
       <data key="d3" xml:space="preserve"><![CDATA[0f45640c-761e-461c-bc6c-705744ac62e3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[pxf]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.77606201171875" width="316.513671875" x="296.8740234375" y="31977.425415039062"/>
@@ -3351,7 +3155,6 @@
     <node id="n196">
       <data key="d3" xml:space="preserve"><![CDATA[043c4288-69f1-4bd9-9674-90f9a80fa404]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[radio_tower]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="148.64637756347656" x="643.3876953125" y="31977.313446044922"/>
@@ -3368,7 +3171,6 @@
     <node id="n197">
       <data key="d3" xml:space="preserve"><![CDATA[0d0d70c6-5fa5-479e-9e58-b9e0be9c92c8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ratemux]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="316.17926025390625" width="399.9999694824219" x="0.0" y="32409.22381591797"/>
@@ -3385,7 +3187,6 @@
     <node id="n198">
       <data key="d3" xml:space="preserve"><![CDATA[d87e7c57-95d1-4f08-8659-0802b017e9cf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[relational_database]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="320.0" width="400.0" x="429.9999694824219" y="32407.313446044922"/>
@@ -3402,7 +3203,6 @@
     <node id="n199">
       <data key="d3" xml:space="preserve"><![CDATA[67fd29a6-5c7e-4a3a-8796-31b92a27d821]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[repeater]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="271.2752990722656" width="399.65057373046875" x="0.0" y="32757.313446044922"/>
@@ -3419,7 +3219,6 @@
     <node id="n200">
       <data key="d3" xml:space="preserve"><![CDATA[7f2cc722-5f68-4b68-886c-a21b59b075b8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[RF_Modem]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="209.10708618164062" width="399.92266845703125" x="429.65057373046875" y="32788.397552490234"/>
@@ -3436,7 +3235,6 @@
     <node id="n201">
       <data key="d3" xml:space="preserve"><![CDATA[12076fb5-c689-4cb8-b5d3-6f979987d359]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[route_switch_processor]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.57769775390625" width="298.42718505859375" x="0.0" y="33058.58874511719"/>
@@ -3453,7 +3251,6 @@
     <node id="n202">
       <data key="d3" xml:space="preserve"><![CDATA[2c700920-31a8-4c5f-a12c-28234fa7deee]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="328.42718505859375" y="33122.89372253418"/>
@@ -3470,7 +3267,6 @@
     <node id="n203">
       <data key="d3" xml:space="preserve"><![CDATA[939ee9e1-bb3f-4c95-ac4a-cfe943415589]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[router_firewall]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="320.9677429199219" width="400.0" x="758.4271850585938" y="33097.89372253418"/>
@@ -3487,7 +3283,6 @@
     <node id="n204">
       <data key="d3" xml:space="preserve"><![CDATA[fb5fcafd-9107-4aa1-9e26-6aa4362d81d2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[router_with_silicon_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="271.3043518066406" width="400.0" x="0.0" y="33552.4619140625"/>
@@ -3504,7 +3299,6 @@
     <node id="n205">
       <data key="d3" xml:space="preserve"><![CDATA[30bbfce6-2599-4541-97a0-1f45003671c9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[router_in_building]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.8952941894531" width="265.8777160644531" x="430.0" y="33488.166442871094"/>
@@ -3521,7 +3315,6 @@
     <node id="n206">
       <data key="d3" xml:space="preserve"><![CDATA[533a36b6-396d-41d6-80d9-593caf7f146f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[RPS]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.48443603515625" width="399.6952819824219" x="725.8777160644531" y="33554.87187194824"/>
@@ -3538,7 +3331,6 @@
     <node id="n207">
       <data key="d3" xml:space="preserve"><![CDATA[2894a4d1-0f0e-4ea6-8e29-07c84c902e83]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[running_man]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="356.7198181152344" x="0.0" y="33918.06173706055"/>
@@ -3555,7 +3347,6 @@
     <node id="n208">
       <data key="d3" xml:space="preserve"><![CDATA[d9c4cd18-2d98-407e-9268-50671a5b2147]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[sattelite]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="136.07855224609375" width="400.0" x="386.7198181152344" y="34050.0224609375"/>
@@ -3572,7 +3363,6 @@
     <node id="n209">
       <data key="d3" xml:space="preserve"><![CDATA[5089c56f-dc67-4c56-8f11-c10ebedad785]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[sattelite_dish]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="295.430419921875" width="400.0" x="0.0" y="34389.905181884766"/>
@@ -3589,7 +3379,6 @@
     <node id="n210">
       <data key="d3" xml:space="preserve"><![CDATA[daa68995-3a41-4c52-829d-af5753bdf0eb]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[scanner]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="379.1173095703125" width="400.0" x="430.0" y="34348.06173706055"/>
@@ -3606,7 +3395,6 @@
     <node id="n211">
       <data key="d3" xml:space="preserve"><![CDATA[8a12e8c0-ae3a-4073-8dcc-06c14fe7866d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[server_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.74627685546875" width="396.5414123535156" x="0.0" y="34757.197830200195"/>
@@ -3623,7 +3411,6 @@
     <node id="n212">
       <data key="d3" xml:space="preserve"><![CDATA[1df6d2eb-1d25-4c76-995c-e52b2cf61ec0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[server_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7838439941406" width="248.81182861328125" x="426.5414123535156" y="34757.17904663086"/>
@@ -3640,7 +3427,6 @@
     <node id="n213">
       <data key="d3" xml:space="preserve"><![CDATA[e37806f5-08e3-4441-922b-6000468caeaf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[service_control]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.5571594238281" width="399.7740173339844" x="705.3532409667969" y="34823.792388916016"/>
@@ -3657,7 +3443,6 @@
     <node id="n214">
       <data key="d3" xml:space="preserve"><![CDATA[f9a44363-1db7-4be2-aa18-7732eedefe89]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[service_module]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="320.3511047363281" x="0.0" y="35186.962890625"/>
@@ -3674,7 +3459,6 @@
     <node id="n215">
       <data key="d3" xml:space="preserve"><![CDATA[aa61ca32-4b52-4732-b49e-ba22e6655b8d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[service_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.8950500488281" width="400.0" x="350.3511047363281" y="35251.515365600586"/>
@@ -3691,7 +3475,6 @@
     <node id="n216">
       <data key="d3" xml:space="preserve"><![CDATA[d5645cca-066b-4df2-a331-1d31054a43a1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[services]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="397.2424011230469" width="399.9999694824219" x="780.3511047363281" y="35188.34169006348"/>
@@ -3708,7 +3491,6 @@
     <node id="n217">
       <data key="d3" xml:space="preserve"><![CDATA[8ace98fb-5da0-46d8-88cb-6469373f2170]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[set_top_box]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="150.39622497558594" width="399.9281311035156" x="0.0" y="35741.62404632568"/>
@@ -3725,7 +3507,6 @@
     <node id="n218">
       <data key="d3" xml:space="preserve"><![CDATA[4f94f1fc-4ad7-4227-860f-943f7955f189]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[si_multilayer_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7185363769531" width="395.6896667480469" x="429.9281311035156" y="35616.962890625"/>
@@ -3742,7 +3523,6 @@
     <node id="n219">
       <data key="d3" xml:space="preserve"><![CDATA[f8d9a673-aece-42f9-bea5-f5e4eefb884d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[sip_proxy]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7963562011719" width="257.3631286621094" x="0.0" y="36046.78324890137"/>
@@ -3759,7 +3539,6 @@
     <node id="n220">
       <data key="d3" xml:space="preserve"><![CDATA[5a491002-bce9-4a7e-8a66-e85085cf6baf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[sitting_woman]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="256.521728515625" x="287.3631286621094" y="36046.68142700195"/>
@@ -3776,7 +3555,6 @@
     <node id="n221">
       <data key="d3" xml:space="preserve"><![CDATA[6b29ae55-7237-4a9d-a6b6-c8ee7cd9733f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[small_business]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.86204528808594" width="399.6899719238281" x="573.8848571777344" y="36133.75040435791"/>
@@ -3793,7 +3571,6 @@
     <node id="n222">
       <data key="d3" xml:space="preserve"><![CDATA[eb397521-e01a-48a1-87e9-1bcd9a855884]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[small_hub]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.16685485839844" width="400.0" x="0.0" y="36559.62673187256"/>
@@ -3810,7 +3587,6 @@
     <node id="n223">
       <data key="d3" xml:space="preserve"><![CDATA[7a648ba2-aee2-443c-a2d9-1c10ec2285d5]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[soft_phone]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="367.0574645996094" width="399.76617431640625" x="430.0" y="36476.68142700195"/>
@@ -3827,7 +3603,6 @@
     <node id="n224">
       <data key="d3" xml:space="preserve"><![CDATA[d0b58a69-f7d8-48c6-9922-eb1b1b56cf23]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[soft_pgw_mgc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7838439941406" width="343.9369812011719" x="0.0" y="36873.73889160156"/>
@@ -3844,7 +3619,6 @@
     <node id="n225">
       <data key="d3" xml:space="preserve"><![CDATA[baa7beaf-e662-4039-8bb4-b04add81b8c8]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[software_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.77728271484375" width="345.48956298828125" x="373.9369812011719" y="36873.74217224121"/>
@@ -3861,7 +3635,6 @@
     <node id="n226">
       <data key="d3" xml:space="preserve"><![CDATA[c01d7047-74ea-4fea-b698-0f22a5cdbef0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[space_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="211.35684204101562" width="399.99951171875" x="749.4265441894531" y="36967.952392578125"/>
@@ -3878,7 +3651,6 @@
     <node id="n227">
       <data key="d3" xml:space="preserve"><![CDATA[62e4ba19-5cee-421c-a52e-76964deaf767]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[speaker]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="226.398193359375" x="0.0" y="37303.5227355957"/>
@@ -3895,7 +3667,6 @@
     <node id="n228">
       <data key="d3" xml:space="preserve"><![CDATA[f2fc73b1-9ce7-4ead-9509-9e1fed95ab16]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ssc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="293.0293273925781" width="399.6733703613281" x="256.398193359375" y="37357.008071899414"/>
@@ -3912,7 +3683,6 @@
     <node id="n229">
       <data key="d3" xml:space="preserve"><![CDATA[de883f16-149a-4b46-b040-90b2ce63ae5b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ssl_terminator]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="366.8004455566406" width="400.0" x="686.0715637207031" y="37320.12251281738"/>
@@ -3929,7 +3699,6 @@
     <node id="n230">
       <data key="d3" xml:space="preserve"><![CDATA[fe9b41ec-fcf6-45ee-b3d9-1337ae36977a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[standard_host]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="285.4386291503906" x="0.0" y="37733.5227355957"/>
@@ -3946,7 +3715,6 @@
     <node id="n231">
       <data key="d3" xml:space="preserve"><![CDATA[7a6633ae-d1cb-44cc-8a76-12e6b880c3a2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[standing_man]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="147.82608032226562" x="315.4386291503906" y="37733.5227355957"/>
@@ -3963,7 +3731,6 @@
     <node id="n232">
       <data key="d3" xml:space="preserve"><![CDATA[99ed9ccc-5320-46b3-bcb8-1b22a9240c84]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[standing_woman]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="147.15719604492188" x="493.26470947265625" y="37733.5227355957"/>
@@ -3980,7 +3747,6 @@
     <node id="n233">
       <data key="d3" xml:space="preserve"><![CDATA[b668bf59-709b-4e32-83ca-1d527bf50a49]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[stb]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="174.8792266845703" width="400.0" x="670.4219055175781" y="37846.08312225342"/>
@@ -3997,7 +3763,6 @@
     <node id="n234">
       <data key="d3" xml:space="preserve"><![CDATA[420fbf5b-6d8f-4e70-8e39-01fa46fc2851]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[storage_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="301.826904296875" width="399.89813232421875" x="0.0" y="38212.609283447266"/>
@@ -4014,7 +3779,6 @@
     <node id="n235">
       <data key="d3" xml:space="preserve"><![CDATA[7d3345cc-d7d3-413f-a4c1-5f3a4033b64b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[storage_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="264.6540832519531" x="429.89813232421875" y="38163.5227355957"/>
@@ -4031,7 +3795,6 @@
     <node id="n236">
       <data key="d3" xml:space="preserve"><![CDATA[887295d7-c9ab-4ea4-8e4f-c8f3b6fae2f1]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[STP]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.60626220703125" width="396.7119445800781" x="724.5522155761719" y="38163.71960449219"/>
@@ -4048,7 +3811,6 @@
     <node id="n237">
       <data key="d3" xml:space="preserve"><![CDATA[c96fcf80-ec41-4f46-b8c4-535e98289f08]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[streamer]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="279.9549255371094" width="399.9611511230469" x="0.0" y="38613.81799316406"/>
@@ -4065,7 +3827,6 @@
     <node id="n238">
       <data key="d3" xml:space="preserve"><![CDATA[8e1994fb-1b35-43f4-a481-6082bfcc295c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[sun_workstation]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="320.5454406738281" width="399.6215515136719" x="429.9611511230469" y="38593.5227355957"/>
@@ -4082,7 +3843,6 @@
     <node id="n239">
       <data key="d3" xml:space="preserve"><![CDATA[0b8f928f-d39c-41ca-acce-0c018d9f33a4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[supercomputer]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="337.2549743652344" x="0.0" y="38944.06817626953"/>
@@ -4099,7 +3859,6 @@
     <node id="n240">
       <data key="d3" xml:space="preserve"><![CDATA[d4ebb9e8-84e9-41ac-ae95-c0ee133a8c19]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[SVX]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="395.5963439941406" width="397.1232604980469" x="367.2549743652344" y="38946.27000427246"/>
@@ -4116,7 +3875,6 @@
     <node id="n241">
       <data key="d3" xml:space="preserve"><![CDATA[e0c00fa9-9baa-4170-b2d8-e9e6ea82b1ac]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[system_controller]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="368.0423889160156" width="399.9945983886719" x="794.3782348632812" y="38960.04698181152"/>
@@ -4133,7 +3891,6 @@
     <node id="n242">
       <data key="d3" xml:space="preserve"><![CDATA[8a343fe8-1230-40a0-9a29-2b5df9cabaa9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[tablet]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="222.3306121826172" width="399.88671875" x="0.0" y="39462.90287017822"/>
@@ -4150,7 +3907,6 @@
     <node id="n243">
       <data key="d3" xml:space="preserve"><![CDATA[13ba5e17-6d8a-44e3-9213-16d57831b876]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[tape_array]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="278.8417663574219" x="429.88671875" y="39374.06817626953"/>
@@ -4167,7 +3923,6 @@
     <node id="n244">
       <data key="d3" xml:space="preserve"><![CDATA[07433684-1e98-4f8c-aeaa-41c97faa3d1a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[TDM_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="738.7284851074219" y="39438.58430480957"/>
@@ -4184,7 +3939,6 @@
     <node id="n245">
       <data key="d3" xml:space="preserve"><![CDATA[5c824a9e-8294-458d-9d60-f2f207ea43ec]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[telecommuter_house]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="342.14501953125" width="399.99249267578125" x="0.0" y="39804.06817626953"/>
@@ -4201,7 +3955,6 @@
     <node id="n246">
       <data key="d3" xml:space="preserve"><![CDATA[604abe7a-5f43-4e72-b566-abbc2c3cde58]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[telecommuter_house_pc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="342.14501953125" width="399.99249267578125" x="429.99249267578125" y="39804.06817626953"/>
@@ -4218,7 +3971,6 @@
     <node id="n247">
       <data key="d3" xml:space="preserve"><![CDATA[1a450fc8-afa4-4761-9296-c7181396d239]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[telecommuter_icon]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="341.5669860839844" width="399.9999694824219" x="0.0" y="40188.958435058594"/>
@@ -4235,7 +3987,6 @@
     <node id="n248">
       <data key="d3" xml:space="preserve"><![CDATA[c2e6c0df-e984-4626-a1bb-320da92e152d]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[terminal]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="367.0574645996094" width="399.76617431640625" x="429.9999694824219" y="40176.21319580078"/>
@@ -4252,7 +4003,6 @@
     <node id="n249">
       <data key="d3" xml:space="preserve"><![CDATA[c0064d80-bfed-43d6-880b-c3202d323977]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[token_ring]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.9999694824219" width="399.9999694824219" x="0.0" y="40573.27066040039"/>
@@ -4269,7 +4019,6 @@
     <node id="n250">
       <data key="d3" xml:space="preserve"><![CDATA[03fa9eaa-ff10-45a1-a8bf-5487879440d9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[TP_MCU]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7876281738281" width="327.4462890625" x="429.9999694824219" y="40573.37683105469"/>
@@ -4286,7 +4035,6 @@
     <node id="n251">
       <data key="d3" xml:space="preserve"><![CDATA[41c6eac5-742c-4848-8418-acfe37cd7176]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[transpath]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="377.40789794921875" width="399.7960510253906" x="787.4462585449219" y="40584.56669616699"/>
@@ -4303,7 +4051,6 @@
     <node id="n252">
       <data key="d3" xml:space="preserve"><![CDATA[963d8f59-796a-4125-bc36-7ebffadbc303]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[truck]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="157.08973693847656" width="399.6061096191406" x="0.0" y="41006.16110992432"/>
@@ -4320,7 +4067,6 @@
     <node id="n253">
       <data key="d3" xml:space="preserve"><![CDATA[565f09c4-08f1-4561-a2aa-b3c6ca79a5cf]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[turret]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="162.87069702148438" width="399.9999694824219" x="429.6061096191406" y="41003.27062988281"/>
@@ -4337,7 +4083,6 @@
     <node id="n254">
       <data key="d3" xml:space="preserve"><![CDATA[e5479028-5345-4f9a-a9ea-d68cb7cc5968]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[TV]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="394.89593505859375" width="399.542236328125" x="0.0" y="41196.1413269043"/>
@@ -4354,7 +4099,6 @@
     <node id="n255">
       <data key="d3" xml:space="preserve"><![CDATA[62d21b8e-3166-4d68-9d5d-8f5a5fcb6da0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[ubr910]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="198.63150024414062" width="399.93157958984375" x="429.542236328125" y="41294.27354431152"/>
@@ -4371,7 +4115,6 @@
     <node id="n256">
       <data key="d3" xml:space="preserve"><![CDATA[ccc2259e-59ca-45f7-954a-a08b3cdf8172]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[umg_series]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="198.63150024414062" width="399.93157958984375" x="0.0" y="41721.72151184082"/>
@@ -4388,7 +4131,6 @@
     <node id="n257">
       <data key="d3" xml:space="preserve"><![CDATA[e58a8206-3d92-44df-9741-caa817250e52]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[unity_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="287.6502685546875" x="429.93157958984375" y="41621.03726196289"/>
@@ -4405,7 +4147,6 @@
     <node id="n258">
       <data key="d3" xml:space="preserve"><![CDATA[0e9ad3c0-c81c-40e8-afe4-76d499055014]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[universal_gateway]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7865295410156" width="396.6520690917969" x="747.5818481445312" y="41621.14399719238"/>
@@ -4422,7 +4163,6 @@
     <node id="n259">
       <data key="d3" xml:space="preserve"><![CDATA[259f3080-70f6-4d4c-aaa7-19a8a9767822]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[university]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="160.25436401367188" width="399.7712707519531" x="0.0" y="42161.20462036133"/>
@@ -4439,7 +4179,6 @@
     <node id="n260">
       <data key="d3" xml:space="preserve"><![CDATA[3461bef9-40aa-4fb4-b706-5461394f96e0]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[upc]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="380.5890808105469" width="400.0" x="429.7712707519531" y="42051.03726196289"/>
@@ -4456,7 +4195,6 @@
     <node id="n261">
       <data key="d3" xml:space="preserve"><![CDATA[a3198e0c-ccd2-4ea6-8fe7-3e718b1bff18]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[UPS]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="266.48443603515625" width="399.6952819824219" x="0.0" y="42465.16416931152"/>
@@ -4473,7 +4211,6 @@
     <node id="n262">
       <data key="d3" xml:space="preserve"><![CDATA[f9fee589-a801-434a-a6ca-39a546ff5de3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[Vault]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="273.5600891113281" width="399.6237487792969" x="429.6952819824219" y="42461.62634277344"/>
@@ -4490,7 +4227,6 @@
     <node id="n263">
       <data key="d3" xml:space="preserve"><![CDATA[2ca8dd9f-ec31-46b1-8964-ebd2ac483cce]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[video_caera]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="278.6656188964844" x="0.0" y="42765.186431884766"/>
@@ -4507,7 +4243,6 @@
     <node id="n264">
       <data key="d3" xml:space="preserve"><![CDATA[ed056e49-fd8c-4586-9ede-d279f3f5b7b9]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[VIP]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="299.8241882324219" x="308.6656188964844" y="42765.186431884766"/>
@@ -4524,7 +4259,6 @@
     <node id="n265">
       <data key="d3" xml:space="preserve"><![CDATA[c8e11661-4dd6-478a-9d28-b816cc1b7460]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[virtual_layer_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7888488769531" width="298.4566345214844" x="638.4898071289062" y="42765.29200744629"/>
@@ -4541,7 +4275,6 @@
     <node id="n266">
       <data key="d3" xml:space="preserve"><![CDATA[44e75d5a-d04b-4c0a-9a1b-5c41771afd36]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[virtual_switch_controller]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="205.83157348632812" x="0.0" y="43195.186431884766"/>
@@ -4558,7 +4291,6 @@
     <node id="n267">
       <data key="d3" xml:space="preserve"><![CDATA[b10c8780-c05e-4b9b-8f87-c425206a9e14]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[voice_atm_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.74627685546875" width="396.5414123535156" x="235.83157348632812" y="43195.31329345703"/>
@@ -4575,7 +4307,6 @@
     <node id="n268">
       <data key="d3" xml:space="preserve"><![CDATA[b7fbc4e2-232d-4bc9-9fa2-e9e0d2afc3d4]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[voice_comm_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.8030700683594" width="395.876953125" x="662.3729858398438" y="43195.284896850586"/>
@@ -4592,7 +4323,6 @@
     <node id="n269">
       <data key="d3" xml:space="preserve"><![CDATA[811cb526-5bd9-43a9-ae38-edc54ac21296]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[voice_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="270.9677429199219" width="400.0" x="0.0" y="43625.186431884766"/>
@@ -4609,7 +4339,6 @@
     <node id="n270">
       <data key="d3" xml:space="preserve"><![CDATA[a6d84cdc-688e-4006-864b-dad3e08fca0a]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[voice_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.10238647460938" width="399.9193115234375" x="430.0" y="43660.11911010742"/>
@@ -4626,7 +4355,6 @@
     <node id="n271">
       <data key="d3" xml:space="preserve"><![CDATA[30285d50-2486-45fd-8d89-3070ef2672c3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[vpn_concentrator]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="366.8004455566406" width="400.0" x="0.0" y="43926.15417480469"/>
@@ -4643,7 +4371,6 @@
     <node id="n272">
       <data key="d3" xml:space="preserve"><![CDATA[93cb48e0-a111-4789-94b2-1e11a568af75]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[vpn_gateway]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="213.83251953125" width="399.9595947265625" x="430.0" y="44002.63813781738"/>
@@ -4660,7 +4387,6 @@
     <node id="n273">
       <data key="d3" xml:space="preserve"><![CDATA[0307f1b6-29e3-4d5a-ad69-0d6ef9061179]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[VSS]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="298.8123474121094" x="0.0" y="44322.95462036133"/>
@@ -4677,7 +4403,6 @@
     <node id="n274">
       <data key="d3" xml:space="preserve"><![CDATA[2128b09f-9702-454e-ba38-deabcdfd2f77]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wae]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="290.2973937988281" width="399.7560119628906" x="328.8123474121094" y="44377.805923461914"/>
@@ -4694,7 +4419,6 @@
     <node id="n275">
       <data key="d3" xml:space="preserve"><![CDATA[54fb0042-dd6a-4e4e-ade9-a4bb831554c3]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wavelength_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="259.3707275390625" width="399.79840087890625" x="758.568359375" y="44393.2692565918"/>
@@ -4711,7 +4435,6 @@
     <node id="n276">
       <data key="d3" xml:space="preserve"><![CDATA[fed373eb-412e-4a93-92f4-45a3ef67e521]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[web_browser]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.78179931640625" width="385.05401611328125" x="0.0" y="44752.95462036133"/>
@@ -4728,7 +4451,6 @@
     <node id="n277">
       <data key="d3" xml:space="preserve"><![CDATA[5a4baa5d-cffd-4355-8c33-5b0d704e2d25]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[web_cluster]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="242.0838165283203" width="400.0" x="415.05401611328125" y="44831.80361175537"/>
@@ -4745,7 +4467,6 @@
     <node id="n278">
       <data key="d3" xml:space="preserve"><![CDATA[9cf52853-70e4-4445-8bbc-de3de2a0c70f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[web_server]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.6361999511719" width="385.28759765625" x="0.0" y="45182.736419677734"/>
@@ -4762,7 +4483,6 @@
     <node id="n279">
       <data key="d3" xml:space="preserve"><![CDATA[0271fdcf-282f-4f75-a4e9-58efd4fe0e07]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wifi_tag]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="350.5868225097656" width="399.8212890625" x="415.28759765625" y="45207.26110839844"/>
@@ -4779,7 +4499,6 @@
     <node id="n280">
       <data key="d3" xml:space="preserve"><![CDATA[229f31c8-3a13-442b-a592-c2c6da6150e2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wireless]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.7840270996094" width="222.33543395996094" x="0.0" y="45612.372619628906"/>
@@ -4796,7 +4515,6 @@
     <node id="n281">
       <data key="d3" xml:space="preserve"><![CDATA[ba1063d8-b244-4d76-a627-5706da3cc7a2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wireless_bridge]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="327.08197021484375" width="399.9999694824219" x="252.33543395996094" y="45648.72364807129"/>
@@ -4813,7 +4531,6 @@
     <node id="n282">
       <data key="d3" xml:space="preserve"><![CDATA[e7bd98dc-5f7f-4c52-85aa-f2e80f2a2010]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wireless_location]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.490478515625" width="399.9189453125" x="682.3354034423828" y="45699.5193939209"/>
@@ -4830,7 +4547,6 @@
     <node id="n283">
       <data key="d3" xml:space="preserve"><![CDATA[953cfb3e-089a-461c-b38f-1a444c3b52f2]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wireless_router]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="400.0" width="400.0" x="0.0" y="46042.156646728516"/>
@@ -4847,7 +4563,6 @@
     <node id="n284">
       <data key="d3" xml:space="preserve"><![CDATA[7b248ea6-4b8d-4a9f-8b00-d85755d6589f]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wireless_transport]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="287.7257385253906" width="399.6305236816406" x="430.0" y="46098.29377746582"/>
@@ -4864,7 +4579,6 @@
     <node id="n285">
       <data key="d3" xml:space="preserve"><![CDATA[7c480b43-3b60-4c23-8adb-9bcb637c59ac]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[WISM]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="399.8691101074219" width="342.6535339355469" x="0.0" y="46472.156646728516"/>
@@ -4881,7 +4595,6 @@
     <node id="n286">
       <data key="d3" xml:space="preserve"><![CDATA[94080082-bd90-4444-8a35-48b25a835aec]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[wlan_controller]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="225.51524353027344" width="399.93157958984375" x="372.6535339355469" y="46559.33358001709"/>
@@ -4898,7 +4611,6 @@
     <node id="n287">
       <data key="d3" xml:space="preserve"><![CDATA[204e8c7a-e723-4422-8887-77e7cf3a127c]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[workgroup_director]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="344.1165771484375" width="399.9094543457031" x="0.0" y="46902.02575683594"/>
@@ -4915,7 +4627,6 @@
     <node id="n288">
       <data key="d3" xml:space="preserve"><![CDATA[21a2b1c1-2b71-44b2-965f-e41f6d608c3b]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[workgroup_switch]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="201.10238647460938" width="399.9193115234375" x="429.9094543457031" y="46973.53285217285"/>
@@ -4932,7 +4643,6 @@
     <node id="n289">
       <data key="d3" xml:space="preserve"><![CDATA[b0f581f2-aa5b-4b25-b2eb-a1e1caa1e951]]></data>
       <data key="d4" xml:space="preserve"><![CDATA[workstation]]></data>
-      <data key="d6"/>
       <data key="d7">
         <y:SVGNode>
           <y:Geometry height="337.6239013671875" width="399.89892578125" x="0.0" y="47276.142333984375"/>
