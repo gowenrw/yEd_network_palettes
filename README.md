@@ -86,6 +86,12 @@ Palette | Icon Set | Examples
 [Network_Security-White.graphml](https://raw.githubusercontent.com/gowenrw/yEd_network_palettes/master/yEd_palettes/Network_Security-White.graphml) | [My_FTNT_White](icon_sets/My_FTNT_White) | <img src="icon_sets/My_FTNT_White/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_White/Anon01.svg"  alt="Anon01.svg" width="50px" />
 [Network_Security-Yellow.graphml](https://raw.githubusercontent.com/gowenrw/yEd_network_palettes/master/yEd_palettes/Network_Security-Yellow.graphml) | [My_FTNT_Yellow](icon_sets/My_FTNT_Yellow) | <img src="icon_sets/My_FTNT_Yellow/FW02.svg"  alt="FW02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/FW-NextGen02.svg"  alt="FW-NextGen02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/FW-VPN02.svg"  alt="FW-VPN02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/VPN-IPSEC01.svg"  alt="VPN-IPSEC01.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/Anti-Malware02.svg"  alt="Anti-Malware02.svg" width="50px" /> <img src="icon_sets/My_FTNT_Yellow/Anon01.svg"  alt="Anon01.svg" width="50px" />
 
+#### Title Block Icons
+
+Palette | Icon Set | Examples
+----- | ----- | -----
+[Title_Blocks.graphml](https://raw.githubusercontent.com/gowenrw/yEd_network_palettes/master/yEd_palettes/Title_Blocks.graphml) | [Title_Blocks](icon_sets/Title_Blocks) | <img src="icon_sets/Title_Blocks/Title_block_Medium.svg"  alt="Title_block_Medium.svg" width="150px" />
+
 ___
 
 ___
@@ -149,6 +155,14 @@ Using this I was able to create the palettes I needed for network diagrams that 
   * Using this awesome emf2svg tool I was able to convert them https://github.com/kakwa/libemf2svg
     * This is the command I used to convert these files using this tool
       * ```for f in *.emf; do emf2svg-conv -i $f -o ${f%.emf}.svg -v; done```
+
+### Title Block Icons
+
+* I started with a really nice ISO 7200 title block on wikimedia and modified it for use in yEd
+  * Here is the link to the image I started with https://commons.wikimedia.org/wiki/File:Title_block_EN_ISO_7200.svg
+  * I used illustrator to remove the example text from the image then imported it into yEd and added all of the custom text label boxes in the appropriate places to allow for easy click editing text boxes
+* While the ISO 7200 block is very nice, it is quite large.  So, I cut it down into Medium and Small versions
+  * This was done in illustrator and modified in yEd as above.
 
 ### Other References
 

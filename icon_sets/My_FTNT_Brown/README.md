@@ -1,5 +1,6 @@
 # Icon Set using color 7B2927
 
+<table><tr><td>
 <img src='Anon01.svg' alt='Anon01.svg' width='50px' />
 <img src='Anti-Botnet02.svg' alt='Anti-Botnet02.svg' width='50px' />
 <img src='Anti-Flood02.svg' alt='Anti-Flood02.svg' width='50px' />
@@ -65,3 +66,4 @@
 <img src='VPN-IPSEC01.svg' alt='VPN-IPSEC01.svg' width='50px' />
 <img src='VPN-IPSEC-Tun01.svg' alt='VPN-IPSEC-Tun01.svg' width='50px' />
 <img src='VPN-SSL01.svg' alt='VPN-SSL01.svg' width='50px' />
+</td></tr></table>
